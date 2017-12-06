@@ -1,0 +1,26 @@
+Looking for a 65% increase in your deferred pay?Yesterday, Royal Bank of Canada (RBC) became the first big bank to report its full year results for 2017. It said the going at RBC Capital Markets has been ok: trading revenues were flat for the year versus 2016; underwriting and advisory revenues were up 12%. So far, so mediocre. Instead, what was noticeable were the bonuses. Especially, the deferred bonuses.RBC doesn’t break out bonuses for its capital markets division (ie. its investment bank) specifically. However, bonuses for the bank as a whole have risen and RBC said several times that its capital markets professionals were beneficiaries of this.Across RBC as a whole, the bonus pool went from CA$4.6bn (US$3.5bn) in 2016, to CA$5.2bn for this year – an increase of 13%. Spending on deferred bonuses, however, went from CA$728m to CA$1.2bn: an increase of 65%.RBC’s deferred bonuses are broken into several categories. Spending on those paid specifically to capital markets employees under a “deferred bonus plan” which vests in equal chunks over three years, rose from CA$195k to CA343k. So-called “performance deferred share awards” with vest only at the end of three years and are paid to key employees across the bank rose 28%, to CA$312.Unusually among banks today, RBC also offers “key employees” stock options. These can be very lucrative (witness Lloyd Blankfein’s cashing-in of $5m of ancient Goldman Sachs stock options earlier this week.) The latest options, issued at the end of October, are priced at CA$90. RBC’s stock price is CA$102, so recipients are already 13% richer on paper. They should be pleased – although they’ll have to wait four years until the options vest.Follow @MadameButcher
+Have a confidential story, tip, or comment you’d like to share? Contact: sbutcher@efinancialcareers.com
+Bear with us if you leave a comment at the bottom of this article: all our comments are moderated by actual human beings. Sometimes these humans might be asleep, or away from their desks, so it may take a while for your comment to appear. Eventually it will – unless it’s offensive or libelous (in which case it won’t.) It's Credit Suisse's 2017 investor day. If you don't know what's coming for your banking job already, you're about to find out.2017 bonus announcements are fast approaching. Who will be lucky? Who will be luckless? These are the portents.If you work at an asset management firm, then you want to know what the heavy-hitters in the industry pay in the U.S.Photo credit: Canada by Alex Indigo is licensed under CC BY 2.0.“
+var ssdl = ssdl || {}
+ssdl.editorialMetaData = {
+     'location' : 'Global',
+     'company' : 'RBC Capital Markets',
+     'skills' : 'N/A',
+     'sector' : 'Investment Banking',
+     'functional_area' : 'N/A',
+     'audience' : 'News',
+     'content_type' : 'Salaries & Bonuses',
+     'company_sentiment' : 'Positive',
+     'author' : 'Sarah Butcher',
+     'published_date' : '2017-11-30',
+     'tag' : 'Bonus',
+     'longevity' : 'News',
+     'content_origin' : 'Original Content'
+}
+“The comment is under moderation. It will appear shortly.Screen NameEmailThe email address you provide will not be made visible anywhere on the site.
+
+
+
+
+
+                eFinancialCareers is a DHI service. DHI is a publicly-traded company listed on the New York Stock Exchange. (Ticker: DHX)            © Copyright 2000-2017 eFinancialCareers Ltd.Sign up to the eFinancialCareers newsletter todayfor the latest career advice and insight

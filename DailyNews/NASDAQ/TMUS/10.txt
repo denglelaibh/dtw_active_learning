@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Globalstar, Inc. (NYSE:GSAT) shares are up more than 1.27% this year and recently increased 5.96% or $0.09 to settle at $1.60. T-Mobile US, Inc. (NASDAQ:TMUS), on the other hand, is up 7.25% year to date as of 11/24/2017. It currently trades at $61.68 and has returned 3.14% during the past week.Globalstar, Inc. (NYSE:GSAT) and T-Mobile US, Inc. (NASDAQ:TMUS) are the two most active stocks in the Wireless Communications industry based on today’s trading volumes. The market is clearly enthusiastic about both these stocks, but which is the better investment? To answer this, we will compare the two companies based on the strength of their growth, profitability, risk, returns, valuation, analyst recommendations, and insider trends.GrowthCompanies that can consistently grow earnings at a high compound rate usually have the greatest potential to create value for shareholders in the long-run. Analysts expect GSAT to grow earnings at a 15.00% annual rate over the next 5 years. Comparatively, TMUS is expected to grow at a 21.83% annual rate. All else equal, TMUS’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsA high growth rate isn’t necessarily valuable to investors. In fact, companies that overinvest in low return projects just to achieve a high growth rate can actually destroy shareholder value. Profitability and returns are a measure of the quality of a company’s business and its growth opportunities. We’ll use EBITDA margin and Return on Investment (ROI) to measure this. EBITDA margin of 27.79% for T-Mobile US, Inc. (TMUS). GSAT’s ROI is -7.70% while TMUS has a ROI of 6.00%. The interpretation is that TMUS’s business generates a higher return on investment than GSAT’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The amount of free cash flow available to investors is ultimately what determines the value of a stock. GSAT’s free cash flow (“FCF”) per share for the trailing twelve months was +0.01. Comparatively, TMUS’s free cash flow per share was +1.04. On a percent-of-sales basis, GSAT’s free cash flow was 0.01% while TMUS converted 2.32% of its revenues into cash flow. This means that, for a given level of sales, TMUS is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios are important because they reveal the financial health of a company. GSAT has a current ratio of 0.30 compared to 0.90 for TMUS. This means that TMUS can more easily cover its most immediate liabilities over the next twelve months. GSAT’s debt-to-equity ratio is 2.85 versus a D/E of 1.52 for TMUS. GSAT is therefore the more solvent of the two companies, and has lower financial risk.ValuationGSAT trades at a P/B of 9.41, and a P/S of 17.67, compared to a forward P/E of 22.59, a P/B of 2.53, and a P/S of 1.28 for TMUS. GSAT is the cheaper of the two stocks on an earnings basis but is expensive in terms of P/B and P/S ratio. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock isn’t a good investment if the stock is priced accurately. To get a sense of “value” we must compare the current price to some measure of intrinsic value such as a price target. GSAT is currently priced at a -36% to its one-year price target of 2.50. Comparatively, TMUS is -13.4% relative to its price target of 71.22. This suggests that GSAT is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.00 for GSAT and 2.00 for TMUS, which implies that analysts are equally bullish on their outlook for the two stocks.Risk and VolatilityBeta is an important measure that gives investors a sense of the market risk associated with a particular stock. A beta above 1 signals above average market risk, while a beta below 1 implies below average volatility. GSAT has a beta of 2.54 and TMUS’s beta is 0.41. TMUS’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentShort interest, or the percentage of a stock’s tradable shares currently being shorted, is another metric investors use to get a pulse on sentiment.GSAT has a short ratio of 20.85 compared to a short interest of 5.39 for TMUS. This implies that the market is currently less bearish on the outlook for TMUS.SummaryT-Mobile US, Inc. (NASDAQ:TMUS) beats Globalstar, Inc. (NYSE:GSAT) on a total of 11 of the 14 factors compared between the two stocks. TMUS , is more profitable, generates a higher return on investment, has higher cash flow per share, has a higher cash conversion rate, higher liquidity and has lower financial risk. In terms of valuation, TMUS is the cheaper of the two stocks on book value and sales basis, Finally, TMUS has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

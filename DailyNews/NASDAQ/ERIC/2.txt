@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+The shares of Telefonaktiebolaget LM Ericsson (publ) have increased by more than 4.46% this year alone. The shares recently went up by 3.75% or $0.22 and now trades at $6.09. The shares of Weibo Corporation (NASDAQ:WB), has jumped by 189.95% year to date as of 11/16/2017. The shares currently trade at $117.72 and have been able to report a change of 7.71% over the past one week.The stock of Telefonaktiebolaget LM Ericsson (publ) and Weibo Corporation were two of the most active stocks on Thuday. Investors seem to be very interested in what happens to the stocks of these two companies but do investors favor one over the other? We will analyze the growth, profitability, risk, valuation, and insider trends of both companies and see which one investors prefer.Next 5Y EPS Growth: 4.20% versus 53.60% When a company is able to grow consistently in terms of earnings at a high compound rate have the highest likelihood of creating value for its shareholders over time. Analysts have predicted that ERIC will grow it’s earning at a 4.20% annual rate in the next 5 years. This is in contrast to WB which will have a positive growth at a 53.60% annual rate. This means that the higher growth rate of WB implies a greater potential for capital appreciation over the years.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth alone cannot be used to see if the company will be valuable. Shareholders will be the losers if a company invest in ventures that aren’t profitable enough to support upbeat growth. In order for us to accurately measure profitability and return, we will be using Return on Investment (ROI), which balances the difference in capital structure. The ROI of ERIC is 2.50% while that of WB is 18.10%. These figures suggest that WB ventures generate a higher ROI than that of ERIC.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is ultimately determined by the amount of cash flow that the investors have available. Over the last 12 months, ERIC’s free cash flow per share is a negative -3.59, while that of WB is positive 0.Liquidity and Financial RiskThe ability of a company to meet up with its short-term obligations and be able to clear its longer-term debts is measured using Liquidity and leverage ratios. The current ratio for ERIC is 1.70 and that of WB is 2.20. This implies that it is easier for ERIC to cover its immediate obligations over the next 12 months than WB. The debt ratio of ERIC is 0.27 compared to 0.00 for WB. ERIC can be able to settle its long-term debts and thus is a lower financial risk than WB.ValuationERIC currently trades at a forward P/E of 31.23, a P/B of 1.45, and a P/S of 0.82 while WB trades at a forward P/E of 44.17, a P/B of 25.15, and a P/S of 27.15 . This means that looking at the earnings, book values and sales basis, ERIC is the cheaper one. It is very obvious that earnings are the most important factors to investors, thus analysts are most likely to place their bet on the P/E.Analyst Price Targets and OpinionsThe mistake some people make is that they think a cheap stock has more value to it. In order to know the value of a stock, there is need to compare its current price to its likely trading price in the future. The price of ERIC is currently at a -4.09% to its one-year price target of 6.35. Looking at its rival pricing, WB is at a 14.26% relative to its price target of 103.03. This figure implies that over the next one year, WB is a better investment.When looking at the investment recommendation on say a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell), ERIC is given a 2.70 while 1.90 placed for WB. This means that analysts are more bullish on the outlook for ERIC stocks.Insider Activity and Investor SentimentShort interest or otherwise called the percentage of a stock’s tradable shares currently being shorted is another data that investors use to get a handle on sentiment. The short ratio for ERIC is 6.55 while that of WB is just 3.49. This means that analysts are more bullish on the forecast for WB stock.ConclusionThe stock of Telefonaktiebolaget LM Ericsson (publ) defeats that of Weibo Corporation when the two are compared, with ERIC taking 5 out of the total factors that were been considered. ERIC happens to be more profitable, generates a higher ROI, has higher cash flow per share, higher liquidity and has a lower financial risk. When looking at the stock valuation, ERIC is the cheaper one on an earnings, book value and sales basis. Finally, the sentiment signal for ERIC is better on when it is viewed on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

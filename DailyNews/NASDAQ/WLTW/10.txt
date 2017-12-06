@@ -1,0 +1,8 @@
+
+Risk Management
+
+
+Rob Lenihan
+
+
+Willis Towers Watson P.L.C. on Tuesday said it has launched vPlace, a virtual, actuarial workspace that brings the brokerage’s insurance software to the cloud. The software-as-a-service platform is intended to reduce information technology costs and find more efficient ways to respond to business and regulatory pressures, the brokerage said in a statement. The online workspace is powered by Microsoft Azure.The platform can accommodate a range of Willis Towers Watson’s risk and actuarial software products and other supplementary actuarial programs to enable them to work seamlessly together, Willis said. The RiskAgility Financial Modeller risk management platform is the first of its actuarial software products to be hosted on vPlace. Other products scheduled to join over the coming year, Willis said.“Shorter reporting timelines are pushing insurers to do more in less time,” Stephen Hollands, SaaS global product leader at Willis Towers Watson, said in the statement. “Having a virtual workspace in the cloud, supported by our risk and actuarial software experts, allows insurers more time to respond to the changing needs of the business without having to spend huge sums on purchasing, updating and maintaining onsite infrastructure.”COPYRIGHT © 2017 BUSINESS INSURANCE HOLDINGS

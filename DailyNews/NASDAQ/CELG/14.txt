@@ -1,0 +1,526 @@
+
+Presentations will focus on a wide range of disease areas including 
+      multiple myeloma, lymphoma, acute myeloid leukemia, myelodysplastic 
+      syndromes and beta-thalassemia and novel technologies such as CAR-T cell 
+      therapy
+SUMMIT, N.J.--(BUSINESS WIRE)--Celgene Corporation (NASDAQ:CELG) today announced that data from 282 
+      abstracts, including more than 60 oral presentations, evaluating Celgene 
+      investigational agents and investigational uses of marketed products 
+      will be presented at the 59th American Society of Hematology 
+      Annual Meeting between Dec. 9-12 in Atlanta, GA.
+    
+      Presentations will include investigational data from Celgene agents in 
+      company-sponsored or investigator-initiated studies.
+    
+      “Disease altering advances in hematology are coming at a more rapid pace 
+      than ever and we are looking forward to new insights into the treatment 
+      of deadly blood cancers and other serious diseases,” said Nadim Ahmed, 
+      President, Hematology and Oncology for Celgene. “Presentations 
+      highlighting data from more than 150 studies in multiple myeloma 
+      utilizing the foundation of IMiD® therapies in 
+      investigational uses continue to grow the body of evidence for these 
+      treatments. We are also excited about results from novel technologies 
+      such as CAR-T cell therapy and other pipeline candidates across multiple 
+      disease areas that demonstrate our commitment to patients with 
+      life-threatening hematologic diseases.”
+    
+      Selected abstracts include*:
+    
+Multiple Myeloma
+
+      Data will be presented from the immunotherapy-focused collaboration 
+      between Celgene and bluebird bio demonstrating significant potential in 
+      multiple myeloma research:
+    
+      Abstract #740; Oral; Monday, Dec. 11. 3 p.m., Hall C1, Durable clinical 
+      responses in heavily pretreated patients with relapsed/refractory 
+      multiple myeloma: Updated results from a multicenter study of bb2121 
+      anti-BCMA CAR T cell therapy (Kochenderfer)
+    
+      Among the more than 150 studies including IMiD-based regimens, including 
+      investigational combinations, there are presentations across the myeloma 
+      continuum. Some of these include:
+    
+      Abstract #1811; Poster; Saturday, Dec. 9, 5:30 p.m., Hall A2, Safety and 
+      Efficacy of Pomalidomide (POM) + Low-Dose Dexamethasone (LoDEX) + 
+      Daratumumab (DARA) As Second- or Third-Line Therapy in Patients with 
+      Relapsed and/or Refractory Multiple Myeloma (RRMM) after Lenalidomide 
+      (LEN)-Based Treatment (Tx) Failure (Siegel)
+    
+      Abstract #400; Oral; Sunday, Dec. 10, 10:15 a.m., C101, Response-Adapted 
+      Lenalidomide Maintenance in Newly Diagnosed, Transplant-Eligible 
+      Multiple Myeloma: Results from the Multicenter Phase III GMMG-MM5 Trial 
+      (Goldschmidt)
+    
+      Abstract #402; Oral; Sunday, Dec. 10, 10:45 a.m., C101, Curative 
+      Strategy for High-Risk Smoldering Myeloma (GEM-CESAR): Carfilzomib, 
+      Lenalidomide and Dexamethasone (KRd) As Induction Followed By HDT-ASCT, 
+      Consolidation with Krd and Maintenance with Rd (Mateos)
+    
+      Abstract #436; Oral; Sunday, Dec. 10, 12:45 p.m., Hall C4, Lenalidomide 
+      maintenance significantly improves outcomes compared to observation 
+      irrespective of cytogenetic risk: Results of the Myeloma XI trial 
+      (Jackson)
+    
+      Abstract #739; Oral; Monday, Dec. 11, 2:45 p.m., Hall C1, Daratumumab, 
+      Lenalidomide, and Dexamethasone (DRd) Versus Lenalidomide and 
+      Dexamethasone (Rd) in Relapsed or Refractory Multiple Myeloma (RRMM): 
+      Updated Efficacy and Safety Analysis of Pollux (Dimopoulos)
+    
+      Abstract #743; Oral; Monday, Dec. 11, 3:45 p.m., Hall C1, Overall 
+      Survival (OS) of Patients with Relapsed/Refractory Multiple Myeloma 
+      (RRMM) Treated with Carfilzomib, Lenalidomide, and Dexamethasone (KRd) 
+      Versus Lenalidomide and Dexamethasone (Rd): Final Analysis from the 
+      Randomized Phase 3 Aspire Trial (Stewart)
+    
+      Abstract #837; Oral; Monday, Dec. 11 5 p.m., Hall C1, A Multicenter Open 
+      Label Phase II Study of Pomalidomide, Cyclophosphamide and Dexamethasone 
+      in Relapse Multiple Myeloma Patients Initially Treated with 
+      Lenalidomide, Bortezomib and Dexamethasone (Garderet)
+    
+      Abstract #904; Oral; Monday, Dec. 11, 7 p.m., Hall C4, Minimal Residual 
+      Disease in the Maintenance Setting in Myeloma: Prognostic Significance 
+      and Impact of Lenalidomide (de Tute)
+    
+      Abstract #905; Oral; Monday, Dec. 11, 7:15 p.m., Hall C4, Impact of 
+      Next-Generation Flow (NGF) Minimal Residual Disease (MRD) Monitoring in 
+      Multiple Myeloma (MM): Results from the Pethema/GEM2012 Trial (Paiva)
+    
+Lymphomas/Chronic Lymphocytic Leukemia (CLL)
+
+      Updated data from the CAR-T program JCAR-017 in partnership with Juno 
+      Therapeutics will be presented in multiple studies:
+    
+      Abstract #193; Oral; Saturday, Dec. 9, 2 p.m., C101, Auditorium Patient 
+      Characteristics and Pre-Infusion Biomarkers of Inflammation Correlate 
+      with Clinical Outcomes after Treatment with the Defined Composition, 
+      CD19-Targeted CAR T Cell Product, JCAR017 (Siddiqi)
+    
+      Abstract #194; Oral; Saturday, Dec. 9, 2:15 p.m., C101, Auditorium 
+      Predicting Clinical Response and Safety of JCAR017 in B-NHL Patients: 
+      Potential Importance of Tumor Microenvironment Biomarkers and CAR T-Cell 
+      Tumor Infiltration (Swanson)
+    
+      Abstract #581; Oral; Monday, Dec. 11, 8 a.m., A411-A412, High Durable CR 
+      Rates in Relapsed/Refractory (R/R) Aggressive B-NHL Treated with JCAR017 
+      (TRANSCEND NHL 001): Defined Composition CD19-Directed CAR T Cell 
+      Product Allows for Dose Finding and Definition of Pivotal Cohort 
+      (Abramson)
+    
+      Several studies presented focus on investigational chemotherapy-free 
+      treatment approaches in indolent lymphoma and CLL, including R2 (REVLIMID® 
+      + rituximab), while further data from Celgene’s pipeline demonstrates 
+      our commitment to new lymphoma research.
+    
+      Abstract #154; Oral; Saturday, Dec. 9, 12:45 p.m., A411-A412, Initial 
+      Treatment with Lenalidomide Plus Rituximab for Mantle Cell Lymphoma: 
+      5-year Follow-up and Correlative Analysis from a Multi-center Phase II 
+      Study (Ruan)
+    
+      Abstract #192; Oral; Saturday, Dec. 9, 3:15 p.m., A411-A412, A Phase I, 
+      Open–Label, Multicenter Trial of Oral Azacitidine (CC-486) Plus R–CHOP 
+      in Patients with High-Risk, Previously Untreated Diffuse Large B-Cell 
+      Lymphoma, Grade 3B Follicular Lymphoma, or Transformed Lymphoma (Martin)
+    
+      Abstract #411; Oral; Sunday, Dec. 10, 12:30 p.m., Hall C1, CC-122, a 
+      Novel Cereblon Modulating Agent, in Combination with Obinutuzumab 
+      (GA101) in Patients with Relapsed and Refractory (R/R) B–cell 
+      Non–Hodgkin Lymphoma (NHL) (Michot)
+    
+      Abstract #482; Oral; Sunday, Dec. 10, 4:45 p.m., Hall C1, A 3-Arm 
+      Randomized Phase II Trial with Bendamustine/Rituximab Therapy in 
+      Untreated High Risk (HR) Follicular Lymphoma (FL): Bortezomib Induction 
+      or Novel IMiD Continuation (BIONIC) Study from the ECOG-ACRIN Cancer 
+      Research Group (Evens)
+    
+      Abstract #729; Oral; Monday, Dec. 11, 3:15 p.m., C101 Auditorium, 
+      Lenalidomide Treatment Restores In Vivo T Cell Activity in 
+      Relapsed/Refractory FL and DLBCL (Menard)
+    
+Myeloid Diseases
+
+      In acute myeloid leukemia (AML), new data for investigational uses of 
+      IDHIFA® (enasidenib) in patients in the relapsed/refractory 
+      and front-line settings in combinations, as well as new phase II data 
+      for CC486 in post-transplant maintenance for AML and in patients with 
+      MDS will be presented.
+    
+      Abstract #1299; Poster; Saturday, Dec. 9, 5:30 p.m., Hall A2, Continuing 
+      Enasidenib Treatment for Patients with Mutant-IDH2 (mIDH2) Relapsed or 
+      Refractory Acute Myeloid Leukemia (R/R AML) with Stable Disease May 
+      Result in Improved Survival and Responses over Time (Stein)
+    
+      Abstract #638; Oral; Monday, Dec. 11, 10:45 a.m., Murphy Ballroom 1-2, 
+      Enasidenib Monotherapy Is Effective and Well-tolerated in Patients with 
+      Previously Untreated Mutant-IDH2 (mIDH2) Acute Myeloid Leukemia (AML) 
+      (Pollyea)
+    
+      Abstract #639; Oral; Monday, Dec. 11, 11 a.m., Murphy Ballroom 1-2, 
+      Mutant Isocitrate Dehydrogenase (mIDH) Inhibitors, Enasidenib or 
+      Ivosidenib, in Combination with Azacitidine (AZA): Preliminary Results 
+      of a Phase 1b/2 Study in Patients with mIDH Newly Diagnosed Acute 
+      Myeloid Leukemia (AML) (DiNardo)
+    
+      Abstract #726; Oral; Monday, Dec. 11, 4 p.m., Murphy Ballroom 1-2, A 
+      phase 1 trial of ivosidenib and enasidenib combined with standard 
+      induction chemotherapy in newly diagnosed AML patients with an IDH1 
+      and/or IDH2 mutation (Stein)
+    
+      Abstract #751; Oral; Monday, Dec. 11, 2:45 p.m., C211-C213, Quality of 
+      Life in Patients with β-Thalassemia: Transfusion Dependent Versus 
+      Non-Transfusion Dependent (Cappellini)
+    
+      Abstract #4512; Poster; Monday, Dec. 11, 6 p.m., Hall A2, Final Analysis 
+      of the Phase I/II Study of CC-486 (Oral Azacitidine) Maintenance Therapy 
+      after Allogeneic Stem Cell Transplantation (Allo-SCT) in Patients with 
+      Acute Myeloid Leukemia (AML) or Myelodysplastic Syndromes (MDS) (de Lima)
+    
+      The safety and efficacy of investigational agents and/or investigational 
+      uses of approved marketed products have not been established. There is 
+      no guarantee that the agents will receive health authority approval or 
+      become commercially available in any country for the uses being 
+      investigated.
+    
+      A complete listing of abstracts can be found on the ASH Web site at http://www.hematology.org/Annual-Meeting/Abstracts/
+
+      *All times Eastern Standard Time
+    
+About REVLIMID®REVLIMID® 
+      (lenalidomide) in combination with dexamethasone (dex) is indicated for 
+      the treatment of patients with multiple myeloma (MM)REVLIMID 
+      is indicated as maintenance therapy in patients with MM following 
+      autologous hematopoietic stem cell transplantation (auto-HSCT)REVLIMID® 
+      is indicated for the treatment of patients with transfusion-dependent 
+      anemia due to low-or intermediate-1–risk myelodysplastic syndromes (MDS) 
+      associated with a deletion 5q cytogenetic abnormality with or without 
+      additional cytogenetic abnormalitiesREVLIMID® 
+      is indicated for the treatment of patients with mantle cell lymphoma 
+      (MCL) whose disease has relapsed or progressed after two prior 
+      therapies, one of which included bortezomibREVLIMID is not 
+      indicated and is not recommended for the treatment of patients with 
+      chronic lymphocytic leukemia (CLL) outside of controlled clinical trials
+
+Important Safety Information
+
+WARNING: EMBRYO-FETAL TOXICITY, HEMATOLOGIC TOXICITY, and VENOUS and 
+      ARTERIAL THROMBOEMBOLISM
+
+Embryo-Fetal Toxicity
+
+Do not use REVLIMID during pregnancy. Lenalidomide, a thalidomide 
+      analogue, caused limb abnormalities in a developmental monkey study. 
+      Thalidomide is a known human teratogen that causes severe 
+      life-threatening human birth defects. If lenalidomide is used during 
+      pregnancy, it may cause birth defects or embryo-fetal death. In females 
+      of reproductive potential, obtain 2 negative pregnancy tests before 
+      starting REVLIMID treatment. Females of reproductive potential must use 
+      2 forms of contraception or continuously abstain from heterosexual sex 
+      during and for 4 weeks after REVLIMID treatment. To avoid embryo-fetal 
+      exposure to lenalidomide, REVLIMID is only available through a 
+      restricted distribution program, the REVLIMID REMS® 
+      program).
+
+Information about the REVLIMID REMS® program is 
+      available at www.celgeneriskmanagement.com 
+      or by calling the manufacturer’s toll-free number 1-888-423-5436.
+
+Hematologic Toxicity (Neutropenia and 
+      Thrombocytopenia)
+
+REVLIMID can cause significant neutropenia and thrombocytopenia. 
+      Eighty percent of patients with del 5q MDS had to have a dose 
+      delay/reduction during the major study. Thirty-four percent of patients 
+      had to have a second dose delay/reduction. Grade 3 or 4 hematologic 
+      toxicity was seen in 80% of patients enrolled in the study. Patients on 
+      therapy for del 5q MDS should have their complete blood counts monitored 
+      weekly for the first 8 weeks of therapy and at least monthly thereafter. 
+      Patients may require dose interruption and/or reduction. Patients may 
+      require use of blood product support and/or growth factors.
+
+Venous and Arterial Thromboembolism
+
+REVLIMID has demonstrated a significantly increased risk of deep vein 
+      thrombosis (DVT) and pulmonary embolism (PE), as well as risk of 
+      myocardial infarction and stroke in patients with MM who were treated 
+      with REVLIMID and dexamethasone therapy. Monitor for and advise patients 
+      about signs and symptoms of thromboembolism. Advise patients to seek 
+      immediate medical care if they develop symptoms such as shortness of 
+      breath, chest pain, or arm or leg swelling. Thromboprophylaxis is 
+      recommended and the choice of regimen should be based on an assessment 
+      of the patient’s underlying risks.
+
+CONTRAINDICATIONS
+
+Pregnancy: REVLIMID can cause fetal harm when administered to a 
+      pregnant female and is contraindicated in females who are pregnant. If 
+      this drug is used during pregnancy or if the patient becomes pregnant 
+      while taking this drug, the patient should be apprised of the potential 
+      risk to the fetus
+    
+Allergic Reactions: REVLIMID is contraindicated in patients who 
+      have demonstrated hypersensitivity (e.g., angioedema, Stevens-Johnson 
+      syndrome, toxic epidermal necrolysis) to lenalidomide
+    
+WARNINGS AND PRECAUTIONS
+
+Embryo-Fetal Toxicity: See Boxed WARNINGS
+
+REVLIMID REMS® Program: See Boxed WARNINGS: 
+      Prescribers and pharmacies must be certified with the REVLIMID REMS 
+      program by enrolling and complying with the REMS requirements; 
+      pharmacies must only dispense to patients who are authorized to receive 
+      REVLIMID. Patients must sign a Patient-Physician Agreement Form and 
+      comply with REMS requirements; female patients of reproductive potential 
+      who are not pregnant must comply with the pregnancy testing and 
+      contraception requirements and males must comply with contraception 
+      requirements
+    
+Hematologic Toxicity: REVLIMID can cause significant neutropenia 
+      and thrombocytopenia. Monitor patients with neutropenia for signs 
+      of infection. Advise patients to observe for bleeding or bruising, 
+      especially with use of concomitant medications that may increase risk of 
+      bleeding. MM: Patients taking 
+      REVLIMID/dex or REVLIMID maintenance therapy should have their complete 
+      blood counts (CBC) assessed every 7 days for the first 2 cycles, on days 
+      1 and 15 of cycle 3, and every 28 days thereafter. MDS: 
+      Patients on therapy for del 5q MDS should have their complete blood 
+      counts monitored weekly for the first 8 weeks of therapy and at least 
+      monthly thereafter. Patients may require dose interruption and/or dose 
+      reduction. Please see the Black Box WARNINGS for further 
+      information. MCL: Patients 
+      taking REVLIMID for MCL should have their CBCs monitored weekly for the 
+      first cycle (28 days), every 2 weeks during cycles 2-4, and then monthly 
+      thereafter. Patients may require dose interruption and/or dose reduction
+    
+Venous and Arterial Thromboembolism: See Boxed WARNINGS: Venous 
+      thromboembolic events (DVT and PE) and arterial thromboses (MI and CVA) 
+      are increased in patients treated with REVLIMID. Patients with known 
+      risk factors, including prior thrombosis, may be at greater risk and 
+      actions should be taken to try to minimize all modifiable factors (e.g., 
+      hyperlipidemia, hypertension, smoking). Thromboprophylaxis is 
+      recommended and the regimen should be based on patient’s underlying 
+      risks. ESAs and estrogens may further increase the risk of thrombosis 
+      and their use should be based on a benefit-risk decision
+    
+Increased Mortality in Patients with CLL: In a clinical trial in 
+      the first-line treatment of patients with CLL, single agent REVLIMID 
+      therapy increased the risk of death as compared to single agent 
+      chlorambucil. Serious adverse cardiovascular reactions, including atrial 
+      fibrillation, myocardial infarction, and cardiac failure, occurred more 
+      frequently in the REVLIMID arm. REVLIMID is not indicated and not 
+      recommended for use in CLL outside of controlled clinical trials
+    
+Second Primary Malignancies (SPM): In clinical trials in patients 
+      with MM receiving REVLIMID, an increase of hematologic plus solid tumor 
+      SPM, notably AML and MDS, have been observed. Monitor patients for the 
+      development of SPM. Take into account both the potential benefit of 
+      REVLIMID and risk of SPM when considering treatment
+    
+Hepatotoxicity: Hepatic failure, including fatal cases, has 
+      occurred in patients treated with REVLIMID/dex. Pre-existing viral liver 
+      disease, elevated baseline liver enzymes, and concomitant medications 
+      may be risk factors. Monitor liver enzymes periodically. Stop REVLIMID 
+      upon elevation of liver enzymes. After return to baseline values, 
+      treatment at a lower dose may be considered
+    
+Allergic Reactions: Angioedema and serious dermatologic reactions 
+      including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis 
+      (TEN) have been reported. These events can be fatal. Patients with a 
+      prior history of Grade 4 rash associated with thalidomide treatment 
+      should not receive REVLIMID. REVLIMID interruption or discontinuation 
+      should be considered for Grade 2-3 skin rash. REVLIMID must be 
+      discontinued for angioedema, Grade 4 rash, exfoliative or bullous rash, 
+      or if SJS or TEN is suspected and should not be resumed following 
+      discontinuation for these reactions. REVLIMID capsules contain lactose; 
+      risk-benefit of treatment should be evaluated in patients with lactose 
+      intolerance
+    
+Tumor Lysis Syndrome (TLS): Fatal instances of TLS have been 
+      reported during treatment with lenalidomide. The patients at risk of TLS 
+      are those with high tumor burden prior to treatment. These patients 
+      should be monitored closely and appropriate precautions taken
+    
+Tumor Flare Reaction (TFR): TFR has occurred during 
+      investigational use of lenalidomide for CLL and lymphoma. Monitoring and 
+      evaluation for TFR is recommended in patients with MCL. Tumor flare may 
+      mimic the progression of disease (PD). In patients with Grade 3 or 4 
+      TFR, it is recommended to withhold treatment with REVLIMID until TFR 
+      resolves to ≤ Grade 1. REVLIMID may be continued in patients with Grade 
+      1 and 2 TFR without interruption or modification, at the physician’s 
+      discretion
+    
+Impaired Stem Cell Mobilization: A decrease in the number of 
+      CD34+ cells collected after treatment (>4 cycles) with REVLIMID has been 
+      reported. Consider early referral to transplant center to optimize 
+      timing of the stem cell collection
+    
+Thyroid Disorders: Both hypothyroidism and hyperthyroidism have 
+      been reported. Measure thyroid function before start of REVLIMID 
+      treatment and during therapy
+    
+ADVERSE REACTIONS
+
+Multiple Myeloma
+
+Myelodysplastic Syndromes
+
+Mantle Cell Lymphoma
+
+DRUG INTERACTIONS
+
+      Periodic monitoring of digoxin plasma levels is recommended due to 
+      increased Cmax and AUC with concomitant REVLIMID therapy. 
+      Patients taking concomitant therapies such as erythropoietin stimulating 
+      agents or estrogen containing therapies may have an increased risk of 
+      thrombosis. It is not known whether there is an interaction between dex 
+      and warfarin. Close monitoring of PT and INR is recommended in patients 
+      with MM taking concomitant warfarin
+    
+USE IN SPECIFIC POPULATIONS:
+
+Please see full Prescribing 
+      Information, including Boxed WARNINGS.
+
+About POMALYST/IMNOVID
+
+Indication
+
+      POMALYST® (pomalidomide) is a thalidomide analogue indicated, 
+      in combination with dexamethasone, for patients with multiple myeloma 
+      who have received at least two prior therapies including lenalidomide 
+      and a proteasome inhibitor and have demonstrated disease progression on 
+      or within 60 days of completion of the last therapy.
+    
+Important Safety Information
+
+WARNING: EMBRYO-FETAL TOXICITY and VENOUS AND ARTERIAL THROMBOEMBOLISM
+
+Embryo-Fetal Toxicity
+
+POMALYST is only available through a restricted distribution program 
+      called POMALYST REMS®.
+
+Venous and Arterial Thromboembolism
+
+CONTRAINDICATIONS
+
+WARNINGS AND PRECAUTIONS
+
+ADVERSE REACTIONS
+
+      Nearly all patients treated with POMALYST + low-dose dex experienced at 
+      least one adverse reaction (99%). The most common adverse reactions 
+      included neutropenia (51.3%), fatigue and asthenia (46.7%), upper 
+      respiratory tract infection (31%), thrombocytopenia (29.7%), pyrexia 
+      (26.7%), dyspnea (25.3%), diarrhea (22%), constipation (21.7%), back 
+      pain (19.7%), cough (20%), pneumonia (19.3%), bone pain (18%), edema 
+      peripheral (17.3%), peripheral neuropathy (17.3%), muscle spasms 
+      (15.3%), and nausea (15%). Grade 3 or 4 adverse reactions included 
+      neutropenia (48.3%), thrombocytopenia (22%), and pneumonia (15.7%).
+    
+DRUG INTERACTIONS
+
+      Avoid concomitant use of POMALYST with strong inhibitors of CYP1A2. 
+      Consider alternative treatments. If a strong CYP1A2 inhibitor must be 
+      used, reduce POMALYST dose by 50%.
+    
+USE IN SPECIFIC POPULATIONS
+
+Please see full Prescribing 
+      Information, including Boxed WARNINGS.
+
+About IDHIFA
+
+      IDHIFA (enasidenib) is indicated for the treatment of adult patients 
+      with relapsed or refractory acute myeloid leukemia with an isocitrate 
+      dehydrogenase-2 mutation as detected by an FDA-approved test.
+    
+Important Safety Information
+
+WARNING: DIFFERENTIATION SYNDROME
+
+Patients treated with IDHIFA have experienced symptoms of 
+      differentiation syndrome, which can be fatal if not treated. Symptoms 
+      may include fever, dyspnea, acute respiratory distress, pulmonary 
+      infiltrates, pleural or pericardial effusions, rapid weight gain or 
+      peripheral edema, lymphadenopathy, bone pain, and hepatic, renal, or 
+      multi-organ dysfunction. If differentiation syndrome is suspected, 
+      initiate corticosteroid therapy and hemodynamic monitoring until symptom 
+      resolution.
+
+WARNINGS AND PRECAUTIONS
+
+Differentiation Syndrome: See Boxed WARNING. In the clinical 
+      trial, 14% of patients treated with IDHIFA experienced differentiation 
+      syndrome. Differentiation syndrome has been observed with and without 
+      concomitant hyperleukocytosis, as early as 10 days and at up to 5 months 
+      after IDHIFA initiation. If differentiation syndrome is suspected, 
+      initiate systemic corticosteroids and hemodynamic monitoring until 
+      improvement. Taper corticosteroids only after resolution of symptoms. 
+      Differentiation syndrome symptoms may recur with premature 
+      discontinuation of corticosteroids. If severe pulmonary symptoms 
+      requiring intubation or ventilator support and/or renal dysfunction 
+      persist for more than 48 hours after initiation of corticosteroids, 
+      interrupt IDHIFA until signs and symptoms are no longer severe. 
+      Hospitalization for close observation and monitoring of patients with 
+      pulmonary and/or renal manifestation is recommended.
+    
+Embryo-Fetal Toxicity: Based on animal embryo-fetal 
+      toxicity studies, IDHIFA can cause embryo-fetal harm when administered 
+      to a pregnant woman. Advise females of reproductive potential and males 
+      with female partners of reproductive potential to use effective 
+      contraception during treatment with IDHIFA and for at least 1 month 
+      after the last dose. Pregnant women, patients becoming pregnant while 
+      receiving IDHIFA, or male patients with pregnant female partners should 
+      be apprised of the potential risk to the fetus.
+    
+ADVERSE REACTIONS
+
+LACTATION
+
+      Many drugs are excreted in human milk and because of the potential for 
+      adverse reactions in breastfed infants, advise women not to breastfeed 
+      during treatment with IDHIFA and for at least 1 month after the last 
+      dose.
+    
+Please see full Prescribing 
+      Information, including Boxed WARNING
+
+About Celgene
+
+      Celgene Corporation, headquartered in Summit, New Jersey, is an 
+      integrated global biopharmaceutical company engaged primarily in the 
+      discovery, development and commercialization of innovative therapies for 
+      the treatment of cancer and inflammatory diseases through 
+      next-generation solutions in protein homeostasis, immuno-oncology, 
+      epigenetics, immunology and neuro-inflammation. For more information, 
+      please visit www.celgene.com. 
+      Follow Celgene on Social Media: @Celgene, Pinterest, LinkedIn, Facebook and YouTube.
+    
+Forward-Looking Statements
+
+This press release contains forward-looking statements, which are 
+      generally statements that are not historical facts. Forward-looking 
+      statements can be identified by the words "expects," "anticipates," 
+      "believes," "intends," "estimates," "plans," "will," “outlook” and 
+      similar expressions. Forward-looking statements are based on 
+      management’s current plans, estimates, assumptions and projections, and 
+      speak only as of the date they are made. We undertake no obligation to 
+      update any forward-looking statement in light of new information or 
+      future events, except as otherwise required by law. Forward-looking 
+      statements involve inherent risks and uncertainties, most of which are 
+      difficult to predict and are generally beyond our control. Actual 
+      results or outcomes may differ materially from those implied by the 
+      forward-looking statements as a result of the impact of a number of 
+      factors, many of which are discussed in more detail in our Annual Report 
+      on Form 10-K and our other reports filed with the Securities and 
+      Exchange Commission.
+
+Hyperlinks are provided as a convenience and for informational 
+      purposes only. Celgene bears responsibility for the security or content 
+      of external websites or websites outside of its control.
+
+
+      CelgeneInvestors:+1-908-673-9628ir@celgene.comorMedia:+1-908-673-2275media@celgene.com
+
+      CelgeneInvestors:+1-908-673-9628ir@celgene.comorMedia:+1-908-673-2275media@celgene.com

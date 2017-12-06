@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Recent insider trends for Visa Inc. (NYSE:V) have caught the attention of investors. Analysts study insider data to get a sense of sense of what key shareholders think about the outlook for a particular stock. In the case of V, the data has some interesting implications for where the stock might be headed.Institutions own 95.08% of Visa Inc. (V)’s shares. The total value of these holdings, in millions, is $193,063. Among active positions in the latest quarter, 832 holders increased their positions by a total of 60.82 million shares, 849 holders decreased the positions by a total of 73.1 million shares, and 218 holders held their positions. This works out to a net decrease in ownership of 12.28 million shares, and suggests that institutions are feeling bearish about the stock.Among new and sold out positions, 132 holders initiated new positions by a total of 11.93 million shares and 61 holders exited their positions by a total of 3.37 million shares. This nets out to an increase of 8.56 million shares and is a bullish sign for V.In the last three months, insiders executed a total of 17 trades. 7 of these were buys and 10 were sells. Insider ownership decreased by a total of 49417 shares, which suggests that V’s key executives are feeling less optimistic about the outlook for the stock. The data from the past twelve months tells a similar story: insiders executed 7 buys and 26 sells, and ownership decreased by a net of 407063 shares.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Short interest is another tool that analysts use to gauge investor sentiment. It represents the number of a stock’s shares that are being shorted by investors. Visa Inc. (NYSE:V)’s short interest is 29.29 million shares, or 1.58% of the float. This represents an increase of 6% in the number of shares being shorted compared to the previous reading, and implies that investors felt more pessimistic about the stock during the past two weeks.Supplementing insider data with technical indicators can help an investor form a more complete view on the outlook for a stock. A composite of 13 technical indicators that includes measures such as moving averages and momentum oscillators suggests that V is a Strong buy, which implies that V is expected to outperform the market based on prior trading patterns.Conclusion
+(adsbygoogle = window.adsbygoogle || []).push({});
+Institutional ownership trends suggest that the stock is cheap and the insider trading data indicates that insiders are bearish. Technical indicators (also) suggest that Visa Inc. (NYSE:V) is undervalued.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

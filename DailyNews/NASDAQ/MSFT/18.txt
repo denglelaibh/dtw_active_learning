@@ -1,0 +1,35 @@
+Menu Breaking news sponsored bySource: ShutterstockTwo months ago, I pointed out that iconic software giant Microsoft Corporation (NASDAQ:MSFT) was more of an artificial intelligence company than most everyone recognized. Thanks to a handful of acquisitions and a couple of home-grown efforts, much of the long-term future value of MSFT stock was riding on how potent the company’s AI technologies were.It turns out that Microsoft may be closer to a meaningful AI endzone than previously thought. It recently teamed up with Amazon.com, Inc. (NASDAQ:AMZN) to promote a new deep-learning programming interface called Gluon. This interface will challenge Alphabet Inc (NASDAQ:GOOGL, NASDAQ:GOOG) in the artificial intelligence arena.And last week, Microsoft’s Vice President of Devices Panos Panay explained that the AI chips it’s developing eventually make their way into many of the devices the company makes.Though the future of technology remains a fuzzy one, Microsoft is increasingly well positioned to capture its fair share of the market.At first glance, it just looks like Microsoft’s HoloLens is a clever toy without enough raw computing power to make the electronic glasses a true, practical and useful augmented reality tool. And truth be told, the early versions of the HoloLens are a little pointless. But the second iteration of the HoloLens will boast its own dedicated AI chip. That may well make augmented reality functions practical and effective for users.But it’s not the reality-augmenting artificial intelligence hardware that makes the next generation of HoloLens so interesting. It’s that Panay conceded to CNBC a week ago that Microsoft would indeed be putting similar AI chips in several of its devices in the foreseeable future. The company is still relatively quiet about what products will come with such an AI platform. But it’s clear that Microsoft sees such technologies as standard in the future. Panay explained:“I think one of the most important things that we do in Surface and in our chip development is … the opportunity to make sure we get the technology created within Surface and then proliferate it with our partners and give everybody the opportunity to use it.”Those partners include, among others, computer manufacturers such as Dell and HP Inc (NYSE:HPQ). Microsoft has embraced an open-use mindset, opening the door to potentially rivaling Amazon’s Alexa-powered digital assistants. In the meantime, it’s nearly a foregone conclusion that artificial intelligence tools will be introduced within Microsoft’s Surface lineup. The next version of the HoloLens will largely just be a testing ground for those consumer-centric uses.There’s also a high likelihood that whatever AI tools are packed into Microsoft’s home-grown and partners’ hardware will be complemented by cloud-based AI, powered by its BrainWave framework.Next PageArticle printed from InvestorPlace Media, https://investorplace.com/2017/11/microsoft-corporation-is-deep-artificial-intelligence-waters/.©2017 InvestorPlace Media, LLC
+
+								About Us							
+							  ·  													
+								Press Center							
+							  ·  													
+								Resources							
+							  ·  													
+								Advisory Services							
+							  ·  													
+								Free Newsletters							
+							  ·  													
+								Free Reports							
+							  ·  													
+								Contact Us							
+							  ·  													
+								Advertise With Us							
+							  ·  													
+								Employment							
+							  ·  													
+								Privacy							
+							  ·  													
+								Terms and Conditions							
+							  ·  													
+								Disclosures and Disclaimers							
+							  ·  													
+								Media Sites							
+
+
+								RSS							
+							  ·  													
+								Sitemap							
+
+More On InvestorPlace:
+Financial Market Data powered by FinancialContent Services, Inc. All rights reserved. Nasdaq quotes delayed at least 15 minutes, all others at least 20 minutes.Copyright © 2017 InvestorPlace Media, LLC. All rights reserved. 9201 Corporate Blvd, Rockville, MD 20850.

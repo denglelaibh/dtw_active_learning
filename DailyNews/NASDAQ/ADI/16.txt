@@ -1,0 +1,98 @@
+Analog Devices’ Industrial Inertial Measurement Units Improve Navigation and Reliability in Autonomous Machines (Photo: Business Wire).Analog Devices’ Industrial Inertial Measurement Units Improve Navigation and Reliability in Autonomous Machines (Photo: Business Wire).NORWOOD, Mass.--(BUSINESS WIRE)--Analog 
+      Devices, Inc. (ADI) today announced a series of five 
+      high-performance inertial measurement units (IMUs) that address the 
+      navigation- and safety-related needs of industrial applications in 
+      several emerging markets, while also reducing their system complexity 
+      and cost. The ADIS16470, ADIS16475 and ADIS16477 IMUs deliver 
+      exceptional performance improvements in smallest size with standard 
+      surface mount assembly. The three different models are optimized to 
+      provide a range of performance, cost, and application-suitability needs. 
+      The ADIS16465 and ADIS16467 IMUs offer similar performance advantages in 
+      a more ruggedized enclosure option. Together, these product advancements 
+      bring a previously unavailable performance-for-cost ratio to unmanned 
+      aerial vehicle (UAV) applications where designers have previously 
+      struggled with costly, risky, and sub-par performance solutions from 
+      integrating consumer grade sensors, which also fell short of reliability 
+      goals. These new IMUs bring the same benefits to Autonomous Machine 
+      applications in fields such as Smart Agriculture where the demands of 
+      such rugged equipment previously forced a choice between 
+      cost-challenged, highest-grade sensors or performance-limited commercial 
+      sensors.
+    
+      All of the IMUs provide six degree-of-freedom (DoF) sensing via 
+      triple-axis MEMS-based accelerometers and gyroscopes, and are focused on 
+      the demands of the Industrial "Internet of Moving Things" and its need 
+      for precise geolocation. Their performance allows systems to 
+      characterize motion accurately despite turbulence, vibration, wind, 
+      temperature, and other environmental disturbances, resulting in 
+      more-accurate navigation and guidance, and/or instrument stabilization.
+    
+      Leveraging three decades of experience in inertial sensor design, Analog 
+      Devices has engineered an unparalleled combination of reliable high 
+      performance, and size/cost effectiveness. With industry leading 
+      performance, system designers are now able to rely more heavily on these 
+      high-grade sensors versus a previous need to attempt performance 
+      boosting via added test, components, calibration, or software aids. The 
+      ADIS1646x and ADIS1647x IMUs are specifically designed to reject what 
+      are otherwise significant error sources, such as ‘g’-influence, 
+      cross-axis sensitivity, and temperature and mechanical stress related 
+      drifts.
+    
+Key Product Specifications
+
+GyroRange o/sec
+
+GyroNoise°/sec/√Hzrms
+
+Gyroin-runStabilityo/hr
+
+AccelRangeg
+
+             
+          
+AccelNoiseμg/√Hzrms
+
+Accelin-runStabilityμg
+
+OperTempRangeoC
+
+            125/500/2000
+          
+            -40 to105
+          
+            -40 to105
+          
+Pricing and Availability
+
+ProductionAvailability
+
+Price Each per 1,000
+
+             
+          
+      The new IMUs are supported by the EVAL-ADIS2Z, 
+      a PC-based tool for evaluation which enables basic demonstration, 
+      individual register access, and high-speed data capture, as well as the 
+      breakout boards that simplify connecting ADIS16xxx IMU products to 
+      development platforms.
+    
+About Analog Devices
+
+      Analog Devices is the leading global high-performance analog technology 
+      company dedicated to solving the toughest engineering challenges. We 
+      enable our customers to interpret the world around us by intelligently 
+      bridging the physical and digital with unmatched technologies that 
+      sense, measure, power, connect and interpret. Visit www.analog.com
+
+EngineerZone is a registered trademark of Analog Devices, Inc.
+
+Follow ADI on Twitter at http://www.twitter.com/ADI_News
+
+Subscribe to Analog Dialogue, ADI’s monthly technical journal, at: http://www.analog.com/analog-dialogue/
+
+
+Visit ADI’s multimedia gallery to review more product images: http://www.analog.com/en/about-adi/news-room/multimedia-gallery.html
+
+Analog Devices, Inc.Linda Kincaidlinda.kincaid@analog.com
+Analog Devices’ Industrial Inertial Measurement Units Improve Navigation and Reliability in Autonomous Machines
+Analog Devices, Inc.Linda Kincaidlinda.kincaid@analog.com

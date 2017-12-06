@@ -1,0 +1,35 @@
+Menu Breaking news sponsored byU.S. stock futures are higher across the board this morning, as tech stocks and the Nasdaq Composite look to recover from yesterday’s drubbing. The Dow Jones Industrial Average is already stealing the spotlight, however, with futures edging above 24K in premarket action. Oil and oil producers will be in focus this last trading day of November, as OPEC begins its meeting in Vienna to discuss production cuts.Heading into the open, Dow futures are up 0.40%, S&P 500 futures have added 0.34% and Nasdaq-100 futures are up 0.33%.On the options front, volume remained considerably brisk as traders continue to reposition ahead of the end of November. Overall, about 28.9 million calls and 18.4 million puts changed hands on the session. As for the CBOE, the single-session equity put/call volume ratio rebounded to 0.52, but the 10-day moving average hit a second consecutive two-month low of 0.60.Taking a closer look at Wednesday’s options activity, calls were heavy across the board on the tech sector, despite the Nasdaq shedding 1.27% on the day. Apple Inc. (NASDAQ:AAPL) was flooded with calls despite news of a serious security flaw in its Mac operating system. Meanwhile, Facebook Inc (NASDAQ:FB) was also call heavy despite shedding 4% on the day. Nvidia Corporation (NASDAQ:NVDA) was also flush with call activity, despite the added concern of plunging demand from bitcoin miners.AAPL stock was initially smacked lower following the revelation of a serious security flaw in computers running MacOS High Sierra. The flaw allowed anyone to take over the computers simply by entering the username “root” and then clicking the login button several times. Apple has since issued a patch for the security hole.The news helped push AAPL stock even lower amid a broad-based selloff in technology stocks. Apple shares ended the day down more than 2%. That didn’t stop AAPL call options from flooding across the tape, however. Volume topped 761,000 contracts, or roughly 1.45 times AAPL’s daily average — likely due to end-of-the-month repositioning by hedge funds and institutional traders.Still, calls made up an above-average 67% of the day’s take. What’s more, profit taking — i.e., selling to close existing positions — doesn’t appear to have been the main driver. For instance, Apple’s December put/call open interest ratio has fallen from Monday’s perch at 0.55 to today’s reading of 0.51. Rising call open interest relative to put open interest is a bullish sign, and an unexpected one amid yesterday’s selloff.Next PageArticle printed from InvestorPlace Media, https://investorplace.com/2017/11/thursday-vital-data-apple-inc-aapl-facebook-inc-fb-and-nvidia-corporation-nvda-2/.©2017 InvestorPlace Media, LLC
+
+								About Us							
+							  ·  													
+								Press Center							
+							  ·  													
+								Resources							
+							  ·  													
+								Advisory Services							
+							  ·  													
+								Free Newsletters							
+							  ·  													
+								Free Reports							
+							  ·  													
+								Contact Us							
+							  ·  													
+								Advertise With Us							
+							  ·  													
+								Employment							
+							  ·  													
+								Privacy							
+							  ·  													
+								Terms and Conditions							
+							  ·  													
+								Disclosures and Disclaimers							
+							  ·  													
+								Media Sites							
+
+
+								RSS							
+							  ·  													
+								Sitemap							
+
+More On InvestorPlace:
+Financial Market Data powered by FinancialContent Services, Inc. All rights reserved. Nasdaq quotes delayed at least 15 minutes, all others at least 20 minutes.Copyright © 2017 InvestorPlace Media, LLC. All rights reserved. 9201 Corporate Blvd, Rockville, MD 20850.

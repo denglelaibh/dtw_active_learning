@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Oracle Corporation (NYSE:ORCL) shares are up more than 27.96% this year and recently increased 0.78% or $0.38 to settle at $49.20. Adobe Systems Incorporated (NASDAQ:ADBE), on the other hand, is up 77.08% year to date as of 11/15/2017. It currently trades at $182.30 and has returned 0.21% during the past week.Oracle Corporation (NYSE:ORCL) and Adobe Systems Incorporated (NASDAQ:ADBE) are the two most active stocks in the Application Software industry based on today’s trading volumes. We will compare the two companies based on the strength of various metrics, including growth, profitability, risk, return, and valuation to determine if one is a better investment than the other.GrowthThe ability to consistently grow earnings at a high compound rate is a defining characteristic of the best companies for long-term investment. Analysts expect ORCL to grow earnings at a 8.79% annual rate over the next 5 years. Comparatively, ADBE is expected to grow at a 29.00% annual rate. All else equal, ADBE’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth doesn’t mean much if it comes at the cost of weak profitability. To adjust for differences in capital structure we’ll use EBITDA margin and Return on Investment (ROI) as measures of profitability and return. , compared to an EBITDA margin of 34.05% for Adobe Systems Incorporated (ADBE). ORCL’s ROI is 9.50% while ADBE has a ROI of 13.20%. The interpretation is that ADBE’s business generates a higher return on investment than ORCL’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+If there’s one thing investors care more about than earnings, it’s cash flow. ORCL’s free cash flow (“FCF”) per share for the trailing twelve months was +1.24. Comparatively, ADBE’s free cash flow per share was +1.30. On a percent-of-sales basis, ORCL’s free cash flow was 13.72% while ADBE converted 10.94% of its revenues into cash flow. This means that, for a given level of sales, ORCL is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios are important because they reveal the financial health of a company. ORCL has a current ratio of 3.60 compared to 2.00 for ADBE. This means that ORCL can more easily cover its most immediate liabilities over the next twelve months. ORCL’s debt-to-equity ratio is 0.94 versus a D/E of 0.23 for ADBE. ORCL is therefore the more solvent of the two companies, and has lower financial risk.ValuationORCL trades at a forward P/E of 15.47, a P/B of 3.66, and a P/S of 5.35, compared to a forward P/E of 33.18, a P/B of 11.01, and a P/S of 13.03 for ADBE. ORCL is the cheaper of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsInvestors often compare a stock’s current price to an analyst price target to get a sense of the potential upside within the next year. ORCL is currently priced at a -12.77% to its one-year price target of 56.40. Comparatively, ADBE is 0.51% relative to its price target of 181.38. This suggests that ORCL is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.10 for ORCL and 1.80 for ADBE, which implies that analysts are more bullish on the outlook for ORCL.Risk and VolatilityBeta is a metric that investors frequently use to analyze a stock’s systematic risk. A beta above 1 implies above average market volatility. Conversely, a stock with a beta below 1 is seen as less risky than the overall market. ORCL has a beta of 1.08 and ADBE’s beta is 1.05. ADBE’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentShort interest, or the percentage of a stock’s tradable shares currently being shorted, is another metric investors use to get a pulse on sentiment.ORCL has a short ratio of 2.05 compared to a short interest of 1.87 for ADBE. This implies that the market is currently less bearish on the outlook for ADBE.SummaryAdobe Systems Incorporated (NASDAQ:ADBE) beats Oracle Corporation (NYSE:ORCL) on a total of 7 of the 14 factors compared between the two stocks. ADBE is more profitable, generates a higher return on investment, has higher cash flow per share and has lower financial risk. In terms of valuation, ORCL is the cheaper of the two stocks on an earnings, book value and sales basis, Finally, ADBE has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

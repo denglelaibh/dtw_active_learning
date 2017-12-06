@@ -1,0 +1,90 @@
+
+Educational payments company will leverage software development kit 
+      from Fiserv
+BROOKFIELD, Wis.--(BUSINESS WIRE)--Fiserv, 
+      Inc. (NASDAQ: FISV), a leading global provider of financial services 
+      technology solutions, today announced that Bursari, an educational 
+      payments company, is working with Fiserv to make school-related payments 
+      easier. Bursari will utilize the Digital Payments SDK from Fiserv to 
+      enable schools to accept one-time and recurring payments from parents 
+      and other payers through digital channels.
+    
+      “Schools and parents are looking for an easy way to pay for tuition, 
+      meal plans and other school-related expenses,” said Jerry Banks, CEO, 
+      Bursari. “Incorporating the payment capabilities of Fiserv, we are able 
+      to deliver a complete service that allows transactions to be completed 
+      anywhere, on any device and in less time.”
+    
+      Digital Payments SDK allows companies to leverage the proven Fiserv 
+      payments infrastructure that powers the transactions of thousands of 
+      financial institutions and millions of consumers every day. The SDK 
+      enables companies to accept checking account-based payments through 
+      mobile apps, websites and other digital channels, allowing companies to 
+      integrate this lower cost alternative to credit card payments into their 
+      existing user experience. The SDK includes built-in risk management and 
+      security capabilities and supports next-day and real-time payments.
+    
+      Utilizing Digital Payments SDK, Bursari will be able to add digital 
+      payment capabilities, including next-day payments, into its website 
+      through a set of easy-to-use application program interfaces (APIs).
+    
+      “Companies that accept a high volume of payments need a secure and 
+      reliable service that enables an excellent payment experience for their 
+      customers,” said Tom Allanson, president, Electronic Payments, Fiserv. 
+      “Whether it’s accepting one-time or recurring payments, Fiserv has the 
+      expertise to help companies like Bursari meet their customers’ digital 
+      payment needs, and to do so in a cost-effective way.”
+    
+      In a world moving faster than ever before, Fiserv helps clients deliver 
+      solutions that are in step with the way people live and work today – 
+      financial services at the speed of life. Learn more at fiserv.com.
+    
+      Digital Payments SDK is provided by or through CheckFreePay Corporation, 
+      a licensed money transmitter, and/or its affiliate CheckFreePay 
+      Corporation of New York, which is licensed and regulated as a Money 
+      Transmitter by the New York State Department of Financial Services, each 
+      a wholly owned subsidiary of Fiserv, Inc.
+    
+Additional Resources
+
+      Digital Payments SDK - http://fisv.co/Payments-SDK
+
+About Bursari
+
+      Bursari is the complete transaction processing solution for schools, 
+      offering an easy, accurate and secure way to make student payments. 
+      Educators, administrators, volunteers and families from nursery schools 
+      to high schools can use Bursari to conveniently process transactions 
+      online. Bursari is accessible anywhere, on any device, and features the 
+      highest level of secure payment processing available. With Bursari, 
+      schools and families can focus on their core mission to improve the 
+      lives of children. To learn more about Bursari, please visit www.bursari.com.
+    
+About Fiserv
+
+      Fiserv, Inc. (NASDAQ: FISV) enables clients worldwide to create and 
+      deliver financial services experiences that are in step with the way 
+      people live and work today. For more than 30 years, Fiserv has been a 
+      trusted leader in financial services technology, helping clients achieve 
+      best-in-class results by driving quality and innovation in payments, 
+      processing services, risk and compliance, customer and channel 
+      management, and insights and optimization. Fiserv is a member of the 
+      FORTUNE® 500 and has been named among the FORTUNE Magazine 
+      World's Most Admired Companies® for four consecutive years, 
+      ranking first in its category for innovation in 2016 and 2017. For more 
+      information, visit fiserv.com.
+    
+      FISV-G
+    
+
+Media Relations:Ann CaveDirector, Public RelationsFiserv, 
+      Inc.678-325-9435ann.cave@fiserv.comorAdditional 
+      Contact:Elizabeth McMillan, APRDirector, Corporate 
+      CommunicationsFiserv, Inc.678-375-1119elizabeth.mcmillan@fiserv.com
+
+Bursari, an educational payments company, will utilize Digital Payments SDK from Fiserv to enable schools to accept one-time and recurring payments.
+Media Relations:Ann CaveDirector, Public RelationsFiserv, 
+      Inc.678-325-9435ann.cave@fiserv.comorAdditional 
+      Contact:Elizabeth McMillan, APRDirector, Corporate 
+      CommunicationsFiserv, Inc.678-375-1119elizabeth.mcmillan@fiserv.com
+

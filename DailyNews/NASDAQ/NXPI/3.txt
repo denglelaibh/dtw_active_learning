@@ -1,0 +1,29 @@
+Investing for the long termIf you've got it, don't flaunt itJoin the NASDAQ Community today and get free, instant access to portfolios, stock ratings, real-time alerts, and more!
+See headlines for NXPI
+
+
+View Print Version
+                        
+More from GlobeNewswire
+LAS VEGAS, Nov.  29, 2017  (GLOBE NEWSWIRE) -- NXP Semiconductors N.V. (NASDAQ:NXPI), the leader in mass market microcontrollers (MCUs), today introduced the LPC54018 MCU-based IoT module with onboard Wi-Fi and support for newly launched Amazon FreeRTOS on Amazon Web Services (AWS) - offering developers universal connections to AWS.Amazon FreeRTOS provides tools for users to quickly and easily deploy an MCU-based connected device and develop an IoT application without having to worry about the complexity of scaling across millions of devices. Once connected, IoT device applications can take advantage of the capabilities of the cloud or continue processing data locally with AWS Greengrass.The cost and complexity to develop, deploy and manage secure connected nodes have continued to gate the market from realizing the true potential of the IoT. Reducing these complexities, AWS and NXP enable developers to create secure, cost-effective IoT solutions, increasing the accessibility of node-to-cloud connection for engineers.Amazon FreeRTOS enables security-strong orchestration with the edge-cluster to further leverage low latencies in edge computing configurations, which extends AWS Greengrass core devices' reach to the nodes. Distributed and autonomous computing architectures become possible through the consistent interface provided between the nodes and their gateways, in both online and offline scenario.NXP's IoT module, co-developed with Embedded Artists and based on the LPC54018 MCU, offers unlimited memory extensibility, a root of trust built on the embedded SRAM physical unclonable functions (PUF) and on-chip cryptographic accelerators. Together, LPC and Amazon FreeRTOS, with easy-to-use software libraries, bring multiple layers of network transport security, simplify cloud on-boarding and over-the-air device management, ushering in a new wave of connected devices."Together with AWS, we're transforming node-to-cloud connectivity," said Geoff Lees, senior vice president and general manager of microcontrollers at NXP. "We are committed to delivering secure, power-efficient IoT solutions - the next step of many that will reshape the market.""Providing options for developers, as they build and deploy products on AWS, requires collaboration with market leaders," said Satyen Yadav, General Manager of AWS IoT & Edge Device Services, Amazon Web Services, Inc. "NXP shares the passion for fostering a community of developers to drive the next wave of power-conscious, secure connected devices for the rapidly evolving IoT.Learn more at www.nxp.com/LPC-AWS-Module.Enablement and AvailablityNXP enables node-to-cloud AWS connectivity with its LPC54018-based IoT module available on Amazon.com and EmbeddedArtists.com at $35 (USD) direct to consumer.Experience LPC and how we are reimagining our world together at www.nxp.com/LPC. See the LPC54018 MCU in action at AWS re:Invent 2017 The LPC54018-based IoT module (OM40007) running Amazon FreeRTOS is demonstrated at NXP's booth #200 at AWS re:Invent 2017, November 27 - December 1, 2017, in Las Vegas, Nevada. About NXP SemiconductorsNXP Semiconductors N.V. (NASDAQ:NXPI) enables secure connections and infrastructure for a smarter world, advancing solutions that make lives easier, better and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the secure connected vehicle, end-to-end security & privacy and smart connected solutions markets. Built on more than 60 years of combined experience and expertise, the company has 31,000 employees in more than 33 countries and posted revenue of $9.5 billion in 2016. Find out more at www.nxp.com.  NXP and the NXP logo are trademarks of NXP B.V. All other product or service names are the property of their respective owners. All rights reserved. © 2017 NXP B.V.For more information, please contact:       
+
+
+
+
+
+                
+  		            This article appears in: 
+                    
+                            News Headlines
+
+                
+                    Referenced Stocks: 
+                    
+                            NXPI
+
+                        Existing NASDAQ.com member? Log in here.  
+                    Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.
+					You have selected to change your default setting for the Quote Search. This will now be your default target page;
+					unless you change your configuration again, or you delete your
+					cookies. Are you sure you want to change your settings?
+Please disable your ad blocker (or update your settings to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.

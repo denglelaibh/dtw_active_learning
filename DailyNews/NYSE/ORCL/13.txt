@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+The shares of Oracle Corporation have increased by more than 27.49% this year alone. The shares recently went up by 0.16% or $0.08 and now trades at $49.02. The shares of NeoPhotonics Corporation (NYSE:NPTN), has slumped by -32.28% year to date as of 11/20/2017. The shares currently trade at $7.32 and have been able to report a change of 14.20% over the past one week.The stock of Oracle Corporation and NeoPhotonics Corporation were two of the most active stocks on Monday. Investors seem to be very interested in what happens to the stocks of these two companies but do investors favor one over the other? We will analyze the growth, profitability, risk, valuation, and insider trends of both companies and see which one investors prefer.Next 5Y EPS Growth: 8.79% versus 15.00%When a company is able to grow consistently in terms of earnings at a high compound rate have the highest likelihood of creating value for its shareholders over time. Analysts have predicted that ORCL will grow it’s earning at a 8.79% annual rate in the next 5 years. This is in contrast to NPTN which will have a positive growth at a 15.00% annual rate. This means that the higher growth rate of NPTN implies a greater potential for capital appreciation over the years.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth alone cannot be used to see if the company will be valuable. Shareholders will be the losers if a company invest in ventures that aren’t profitable enough to support upbeat growth. In order for us to accurately measure profitability and return, we will be using the EBITDA margin and Return on Investment (ROI), which balances the difference in capital structure. ORCL has an EBITDA margin of 42.26%, this implies that the underlying business of ORCL is more profitable. The ROI of ORCL is 9.50% while that of NPTN is -0.20%. These figures suggest that ORCL ventures generate a higher ROI than that of NPTN.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is ultimately determined by the amount of cash flow that the investors have available. Over the last 12 months, ORCL’s free cash flow per share is a positive 13.72, while that of NPTN is negative -0.01.Liquidity and Financial RiskThe ability of a company to meet up with its short-term obligations and be able to clear its longer-term debts is measured using Liquidity and leverage ratios. The current ratio for ORCL is 3.60 and that of NPTN is 1.80. This implies that it is easier for ORCL to cover its immediate obligations over the next 12 months than NPTN. The debt ratio of ORCL is 0.94 compared to 0.33 for NPTN. ORCL can be able to settle its long-term debts and thus is a lower financial risk than NPTN.ValuationORCL currently trades at a forward P/E of 15.42, a P/B of 3.64, and a P/S of 5.37 while NPTN trades at a forward P/B of 1.58, and a P/S of 0.93 . This means that looking at the earnings, book values and sales basis, ORCL is the cheaper one. It is very obvious that earnings are the most important factors to investors, thus analysts are most likely to place their bet on the P/E.Analyst Price Targets and OpinionsThe mistake some people make is that they think a cheap stock has more value to it. In order to know the value of a stock, there is need to compare its current price to its likely trading price in the future. The price of ORCL is currently at a -13.09% to its one-year price target of 56.40. Looking at its rival pricing, NPTN is at a -12.65% relative to its price target of 8.38. This figure implies that over the next one year, NPTN is a better investment.When looking at the investment recommendation on say a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell), ORCL is given a 2.10 while 2.20 placed for NPTN. This means that analysts are more bullish on the outlook for NPTN stocks.Insider Activity and Investor SentimentShort interest or otherwise called the percentage of a stock’s tradable shares currently being shorted is another data that investors use to get a handle on sentiment. The short ratio for ORCL is 2.04 while that of NPTN is just 7.18. This means that analysts are more bullish on the forecast for ORCL stock.ConclusionThe stock of NeoPhotonics Corporation defeats that of Oracle Corporation when the two are compared, with NPTN taking 5 out of the total factors that were been considered. NPTN happens to be more profitable, generates a higher ROI, has higher cash flow per share, higher liquidity and has a lower financial risk. When looking at the stock valuation, NPTN is the cheaper one on an earnings, book value and sales basis. Finally, the sentiment signal for NPTN is better on when it is viewed on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

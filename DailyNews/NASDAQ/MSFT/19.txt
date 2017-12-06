@@ -1,0 +1,9 @@
+
+
+        Free Signup/Login
+      
+
+
+              Free Signup/Login
+            
+MSFT – For the first time ever, Chromebook users can install Microsoft Office.Microsoft Corporation (NASDAQ:MSFT) has quietly struck a deal with Google to finally offer its Office suite of productivity software for Chromebook users.TechCrunch has more details on the highly interesting development:Microsoft Office is now available for Google Chromebook users through the Google Play Store – a notable addition, given the two companies offer competing products in terms of office productivity software. Neither Google nor Microsoft are making a formal announcement about the Office applications’ arrival on Chromebooks. But we understand the Office Android apps will only be free to users with specific devices, while others will need to subscribe to Office 365 to take advantage of the apps.Chromebooks are typically low-cost laptops that run on ChromeOS, Google’s web-centric operating system. Users are able to install web-based apps from its app store, but software doesn’t get installed on its own like traditional operating systems. However, via recent OS updates, some select models recently have gained the ability to support Android applications.This marks the very first time that Office has been available to Chromebooks via an official release, although some users reportedly had access to Office earlier through a beta testing program. Microsoft had said previously that it would port a full version of Office over to Android.Microsoft Corporation shares were trading at $84.44 per share on Tuesday morning, up $0.57 (+0.68%). Year-to-date, MSFT has gained 38.92%, versus a 18.32% rise in the benchmark S&P 500 index during the same period.MSFT currently has a StockNews.com POWR Rating of A (Strong Buy), and is ranked #1 of 63 stocks in the Software – Application category.

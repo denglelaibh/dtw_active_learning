@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Marriott International, Inc. (NASDAQ:MAR) shares are up more than 53.48% this year and recently decreased -0.02% or -$0.03 to settle at $126.90. Expedia, Inc. (NASDAQ:EXPE), on the other hand, is up 10.95% year to date as of 11/27/2017. It currently trades at $125.68 and has returned 1.77% during the past week.Marriott International, Inc. (NASDAQ:MAR) and Expedia, Inc. (NASDAQ:EXPE) are the two most active stocks in the Lodging industry based on today’s trading volumes. We will compare the two companies based on the strength of various metrics, including growth, profitability, risk, return, and valuation to determine if one is a better investment than the other.GrowthCompanies that can increase earnings at a high compound rate over time are attractive to investors. Analysts expect MAR to grow earnings at a 15.53% annual rate over the next 5 years. Comparatively, EXPE is expected to grow at a 16.92% annual rate. All else equal, EXPE’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth in and of itself is not necessarily valuable, and it can even be harmful to shareholders if companies overinvest in unprofitable projects in pursuit of that growth. We will use EBITDA margin and Return on Investment (ROI), which adjust for differences in capital structure, as measure of profitability and return. , compared to an EBITDA margin of 15.1% for Expedia, Inc. (EXPE). MAR’s ROI is 7.00% while EXPE has a ROI of 6.00%. The interpretation is that MAR’s business generates a higher return on investment than EXPE’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+Earnings don’t always accurately reflect the amount of cash that a company brings in. MAR’s free cash flow (“FCF”) per share for the trailing twelve months was +1.17. Comparatively, EXPE’s free cash flow per share was -4.17. On a percent-of-sales basis, MAR’s free cash flow was 2.5% while EXPE converted -7.24% of its revenues into cash flow. This means that, for a given level of sales, MAR is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios measure a company’s ability to meet short-term obligations and longer-term debts. MAR has a current ratio of 0.50 compared to 0.70 for EXPE. This means that EXPE can more easily cover its most immediate liabilities over the next twelve months. MAR’s debt-to-equity ratio is 1.92 versus a D/E of 0.92 for EXPE. MAR is therefore the more solvent of the two companies, and has lower financial risk.ValuationMAR trades at a forward P/E of 26.31, a P/B of 10.47, and a P/S of 2.06, compared to a forward P/E of 23.31, a P/B of 4.15, and a P/S of 1.95 for EXPE. MAR is the expensive of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock is not necessarily a value stock. Most of the time, a stock is cheap for good reason. A stock only has value if the current price is substantially below the price at which it should trade in the future. MAR is currently priced at a 3.72% to its one-year price target of 122.35. Comparatively, EXPE is -18.5% relative to its price target of 154.21. This suggests that EXPE is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.40 for MAR and 2.00 for EXPE, which implies that analysts are more bullish on the outlook for MAR.Risk and VolatilityBeta is an important measure that gives investors a sense of the market risk associated with a particular stock. A beta above 1 signals above average market risk, while a beta below 1 implies below average volatility. MAR has a beta of 1.34 and EXPE’s beta is 0.91. EXPE’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentComparing the number of shares sold short to the float is a method analysts often use to get a reading on investor sentiment. MAR has a short ratio of 5.14 compared to a short interest of 4.61 for EXPE. This implies that the market is currently less bearish on the outlook for EXPE.SummaryExpedia, Inc. (NASDAQ:EXPE) beats Marriott International, Inc. (NASDAQ:MAR) on a total of 11 of the 14 factors compared between the two stocks. EXPE generates a higher return on investment, is more profitable, higher liquidity and has lower financial risk. In terms of valuation, EXPE is the cheaper of the two stocks on an earnings, book value and sales basis, EXPE is more undervalued relative to its price target. Finally, EXPE has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

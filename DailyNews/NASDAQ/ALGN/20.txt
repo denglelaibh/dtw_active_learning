@@ -1,0 +1,40 @@
+
+By Lee Jackson November 21, 2017 9:20 am EST
+
+The market looks for a second day of gains as the futures this morning are indicating a move higher when trading begins.With the Thanksgiving holiday right around the corner, many on Wall Street may be embarking on travel so it’s a solid bet that the volume will drop today and really slow down tomorrow. With this bull market now more than eight years old, investors have shown for more than the past five years that they will buy all market pullbacks. Those same investors are also looking for new trading and investing ideas.24/7 Wall St. reviews dozens of analyst research reports each morning to find new trading and investing ideas for its readers. Some analyst calls cover stocks to buy, while others cover stocks to sell or avoid.Additional color and commentary has also been added on some of these daily analyst calls. The consensus analyst price target data are from the Thomson Reuters sell-side research service.These were the top analyst upgrades, downgrades and other research calls from Tuesday, November 21, 2017:Align Technology Inc (NASDAQ: ALGN) saw its target price raised at Stifel to $265 from $245. That compares with the consensus price target on Wall Street of $259.80. The stock has traded in a 52-week range of $88.56 to $258.61. The shares closed Monday at $255.51.CACI International Inc. (NYSE: CACI) was resumed with a Buy rating at Stifel and they have a $151 price objective. The 52-week trading range is $112.10 to $147.31. The Wall Street consensus price target is posted at $146.93. The stock closed Monday at $126.90.Comcast Inc. (NASDAQ: CMCSA) was started with a Buy rating at Buckingham research. The 52-week trading range for the cable and entertainment giant is $34.01 to $42.18. The consensus price target for the shares is posted at $45.28. The stock closed Monday at $35.83.Deere & Company Inc. (NYSE: DE) is raised to Outperform from Neutral at Robert Baird and the analysts have a $155 price objective. That compares with the current Wall Street consensus price target of $132.37. Baird recently downgraded the stock as analysts feared that another record crop pressuring corn prices could push out/moderate the recovery in North American agriculture equipment demand. Throughout the quarter it became apparent that the firm’s fears did not materialize as equipment demand in seasonally important October was very strong. The 52-week trading range is $91.84 to $137.32. The stock closed Monday at $136.92.Esco Technologies Inc. (NYSE: ESE) is raised to Buy from Hold at Needham. The analysts were impressed by the demand for new products at Doble, which they estimate will see healthy growth and expanding margins for the next few years. Further, they gained greater confidence in the broader mode. The 52-week trading range for the shares is $50.30 to $63.80. The Wall Street consensus price target is set at $67. The stock closed Monday at $62.35.Intuit Inc. (NASDAQ: INTU) had analysts busy after reporting earnings. RBC keeps the stock at a Sector Perform rating with a price target of $160, while Stifel raises their price target to $148 and maintains a Hold rating. Those targets compared with the Wall Street consensus price target of $147.88. The 52-week trading range is $111.478 to $158.90. The shares closed Monday at $157.78 and are slightly lower in the pre-market trading. 
+
+24/7 Wall St.
+Why This May Be the Perfect Time to Chase Warren Buffett’s Largest Stock Picks
+
+
+
+		wallst_recirc_link_tracking_init( "19615148895a1f9c33a003e", "graphic" );
+	
+Santander Consumer USA Holdings Inc. (NYSE: SC) was added to the Franchise Pick List at Jefferies. This is the firm’s list of the highest conviction stock picks rated Buy. The 52-week trading range for the company is $11.12 to $17.17. The Wall Street consensus price objective is $18.03. The stock closed Monday at $17.07Square Inc. (NYSE: SQ) was started with a rating of Market Perform at Wells Fargo. The 52-week trading range is $12.25 to $46.06, and the consensus price objective is posted at $38.50. The shares closed Monday at $45.21.Urban Outfitters Inc. (NASDAQ: URBN) is raised to Overweight from Equalweight at J.P. Morgan following earnings. The 52-week trading range for the stock is $16.19 to $39.29. The Wall Street consensus price target is $22.30. The shares ended the Monday trading session way above that level at $28.27, but are somewhat lower in the pre-market action.Vertiv Inc. (NASDAQ: VRTV) is raised to Buy from Hold at Merrill Lynch. The 52-week trading range for the shares is $20.35 to $62.60. The consensus price objective on Wall Street is $29.62. The stock closed Monday at $24.60.Other key analysts upgrades and downgrades were seen in the following:Booz Allen Hamilton Inc. (NYSE: BAH) had coverage resumed at Stifel with a $46 price target. That is in comparison to the Wall Street consensus target of $42.80. The 52-week trading range for the company is $31.06 to $39.67. The shares closed Monday at $37.17.Grupo Supervielle S.A. (NYSE: SUPV) was started with an Overweight rating at J.P. Morgan. The shares have traded in a 52-week range of $11.98 to $27.25. The consensus price target for the company is $22.81. The stock closed above that level on Monday at $25.63.Life Storage Inc. (NYSE: LSI) is raised to Neutral from Underperform at Merrill Lynch. The 52-week trading range is $69 to $89.85, and the consensus price target is $77. Shares closed way above that level on Monday at $87.95.Merchants Bancorp Inc. (NASDAQ: MBIN) was started with an Outperform rating at Raymond James. The 52-week trading range is $9.96 to $19.16. The consensus price target for the company was not available. The shares ended Monday at $17.68.Planet Fitness Inc. (NYSE: PLNT) was started with a Buy rating at D.A. Davidson. The 52-week trading range for the stock is $18.32 to $30.83. The consensus price target for the stock was also not available. The shares closed Monday at $30.15.Ryerson Inc. (NYSE: RYI) was downgraded to Sector Weight from Overweight at KeyBanc Capital Markets. The 52-week trading range is $7.65 to $16.85. The consensus price objective is posted at $12.06. The shares closed Monday at $8.85, up over 4% on the day.Superior Energy Services Inc. (NYSE: SPN) is raised to Buy from Hold at SunTrust Robinson Humphrey. The 52-week trading range is $7.66 to $19.28. The consensus price target is set at $11.58. The stock closed Monday at $8.81.The KEYW Holding Corporation (NASDAQ: KEYW) was started with a Hold rating at Stifel with a $6 price target. That compares with the Wall Street consensus target of $8.86. The 52-week trading range is $4.94 to $13.57. The shares ended the Monday trading session at $5.31.In case you missed it, here are Monday’s Analyst Upgrades and Downgrades. They included Cardinal Health, Monster Beverage, PayPal, Viacom, Verizon, Wal-Mart and more.
+
+
+
+
+
+
+
+
+
+I'm interested in the 
+				Newsletter
+
+
+
+
+Get Newsletter
+terms and conditions
+
+
+ 
+
+
+	if(typeof jQuery == "function") {
+		jQuery('.newsletter-subscribe input[type="text"]').each(function() {if(this.value)jQuery(this).parents('div').find('label').hide();});
+		}
+
+By Lee Jackson

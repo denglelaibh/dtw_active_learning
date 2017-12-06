@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Adobe Systems Incorporated (NASDAQ:ADBE) shares are up more than 75.76% this year and recently increased 2.66% or $4.69 to settle at $180.94. LogMeIn, Inc. (NASDAQ:LOGM), on the other hand, is up 27.92% year to date as of 11/02/2017. It currently trades at $122.90 and has returned 0.70% during the past week.Adobe Systems Incorporated (NASDAQ:ADBE) and LogMeIn, Inc. (NASDAQ:LOGM) are the two most active stocks in the Application Software industry based on today’s trading volumes. The market is clearly enthusiastic about both these stocks, but which is the better investment? To answer this, we will compare the two companies based on the strength of their growth, profitability, risk, returns, valuation, analyst recommendations, and insider trends.GrowthCompanies that can consistently grow earnings at a high compound rate usually have the greatest potential to create value for shareholders in the long-run. Analysts expect ADBE to grow earnings at a 29.00% annual rate over the next 5 years. Comparatively, LOGM is expected to grow at a 38.40% annual rate. All else equal, LOGM’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsJust, if not more, important than the growth rate is the quality of that growth. Growth can actual be harmful to investors if it comes at the cost of weak profitability and low returns. To adjust for differences in capital structure we’ll use EBITDA margin and Return on Investment (ROI) as measures of profitability and return., compared to an EBITDA margin of 16.84% for LogMeIn, Inc. (LOGM). ADBE’s ROI is 13.20% while LOGM has a ROI of 1.70%. The interpretation is that ADBE’s business generates a higher return on investment than LOGM’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The amount of free cash flow available to investors is ultimately what determines the value of a stock. ADBE’s free cash flow (“FCF”) per share for the trailing twelve months was +1.30. Comparatively, LOGM’s free cash flow per share was +1.19. On a percent-of-sales basis, ADBE’s free cash flow was 10.94% while LOGM converted 0.02% of its revenues into cash flow. This means that, for a given level of sales, ADBE is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios are important because they reveal the financial health of a company. ADBE has a current ratio of 2.00 compared to 0.80 for LOGM. This means that ADBE can more easily cover its most immediate liabilities over the next twelve months. ADBE’s debt-to-equity ratio is 0.23 versus a D/E of 0.00 for LOGM. ADBE is therefore the more solvent of the two companies, and has lower financial risk.ValuationADBE trades at a forward P/E of 32.96, a P/B of 10.93, and a P/S of 12.93, compared to a forward P/E of 25.04, a P/B of 2.10, and a P/S of 10.49 for LOGM. ADBE is the expensive of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock isn’t a good investment if the stock is priced accurately. To get a sense of “value” we must compare the current price to some measure of intrinsic value such as a price target. ADBE is currently priced at a 1.16% to its one-year price target of 178.86. Comparatively, LOGM is -11.9% relative to its price target of 139.50. This suggests that LOGM is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 1.80 for ADBE and 1.90 for LOGM, which implies that analysts are more bullish on the outlook for LOGM.Risk and VolatilityTo gauge the market risk of a particular stock, investors use beta. Stocks with a beta above 1 are more volatile than the market as a whole. Conversely, a beta below 1 implies below average systematic risk. ADBE has a beta of 1.04 and LOGM’s beta is 1.36. ADBE’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentThe analysis of insider buying and selling trends can be extended to the aggregate level. Short interest, which represents the percentage of a stock’s tradable shares currently being shorted, captures what the market as a whole feels about a stock. ADBE has a short ratio of 2.13 compared to a short interest of 6.21 for LOGM. This implies that the market is currently less bearish on the outlook for ADBE.SummaryAdobe Systems Incorporated (NASDAQ:ADBE) beats LogMeIn, Inc. (NASDAQ:LOGM) on a total of 8 of the 14 factors compared between the two stocks. ADBE is more profitable, generates a higher return on investment, has higher cash flow per share, has a higher cash conversion rate and higher liquidity. Finally, ADBE has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

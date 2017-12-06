@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+The Boeing Company (NYSE:BA) shares are up more than 69.39% this year and recently increased 0.32% or $0.84 to settle at $263.70. United Technologies Corporation (NYSE:UTX), on the other hand, is up 7.54% year to date as of 11/15/2017. It currently trades at $117.89 and has returned -0.41% during the past week.The Boeing Company (NYSE:BA) and United Technologies Corporation (NYSE:UTX) are the two most active stocks in the Aerospace/Defense Products & Services industry based on today’s trading volumes. Investors are clearly interested in the two names, but is one a better choice than the other? We will compare the two companies across growth, profitability, risk, valuation, and insider trends to answer this question.GrowthCompanies that can increase earnings at a high compound rate over time are attractive to investors. Analysts expect BA to grow earnings at a 18.94% annual rate over the next 5 years. Comparatively, UTX is expected to grow at a 5.49% annual rate. All else equal, BA’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth in and of itself is not necessarily valuable, and it can even be harmful to shareholders if companies overinvest in unprofitable projects in pursuit of that growth. We will use EBITDA margin and Return on Investment (ROI), which adjust for differences in capital structure, as measure of profitability and return. , compared to an EBITDA margin of 17.76% for United Technologies Corporation (UTX). BA’s ROI is 47.90% while UTX has a ROI of 12.60%. The interpretation is that BA’s business generates a higher return on investment than UTX’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+Earnings don’t always accurately reflect the amount of cash that a company brings in. BA’s free cash flow (“FCF”) per share for the trailing twelve months was +3.54. Comparatively, UTX’s free cash flow per share was -1.26. On a percent-of-sales basis, BA’s free cash flow was 2.23% while UTX converted -1.76% of its revenues into cash flow. This means that, for a given level of sales, BA is able to generate more free cash flow for investors.Liquidity and Financial RiskAnalysts look at liquidity and leverage ratios to assess how easily a company can cover its liabilities. BA has a current ratio of 1.20 compared to 1.30 for UTX. This means that UTX can more easily cover its most immediate liabilities over the next twelve months. BA’s debt-to-equity ratio is 9.92 versus a D/E of 0.91 for UTX. BA is therefore the more solvent of the two companies, and has lower financial risk.ValuationBA trades at a forward P/E of 23.78, a P/B of 144.89, and a P/S of 1.73, compared to a forward P/E of 17.24, a P/B of 3.11, and a P/S of 1.60 for UTX. BA is the expensive of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock isn’t a good investment if the stock is priced accurately. To get a sense of “value” we must compare the current price to some measure of intrinsic value such as a price target. BA is currently priced at a -5.85% to its one-year price target of 280.09. Comparatively, UTX is -7.41% relative to its price target of 127.33. This suggests that UTX is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.20 for BA and 2.50 for UTX, which implies that analysts are more bullish on the outlook for UTX.Risk and VolatilityBeta is an important measure that gives investors a sense of the market risk associated with a particular stock. A beta above 1 signals above average market risk, while a beta below 1 implies below average volatility. BA has a beta of 1.22 and UTX’s beta is 1.06. UTX’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentShort interest is another tool that analysts use to gauge investor sentiment. It represents the percentage of a stock’s tradable shares that are being shorted. BA has a short ratio of 2.07 compared to a short interest of 3.22 for UTX. This implies that the market is currently less bearish on the outlook for BA.SummaryUnited Technologies Corporation (NYSE:UTX) beats The Boeing Company (NYSE:BA) on a total of 8 of the 14 factors compared between the two stocks. UTX is growing fastly, higher liquidity and has lower financial risk. In terms of valuation, UTX is the cheaper of the two stocks on an earnings, book value and sales basis, UTX is more undervalued relative to its price target. Finally, RKDA has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

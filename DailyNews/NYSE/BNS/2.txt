@@ -1,0 +1,39 @@
+You currently have:Go to the Subscriptions Centre to manage your:Log out of your CBC account.
+By Anjuli Patil, CBC News
+
+				if(!CBC) { var CBC = {}; }
+				if(!CBC.APP) { CBC.APP = {}; }
+				if(!CBC.APP.SC) { CBC.APP.SC = {}; }
+				if(!CBC.APP.SC.DTM) { CBC.APP.SC.DTM = {}; }
+				if(!CBC.APP.SC.DTM.DATA) { CBC.APP.SC.DTM.DATA = {}; }
+				CBC.APP.SC.DTM.DATA.authors = "Anjuli Patil, CBC News";
+			
+Posted: Nov 27, 2017 6:33 PM AT
+Last Updated: Nov 28, 2017 2:11 PM AT
+
+              Access-A-Bus is a shared ride bus service for individuals who are unable to use Halifax Transit due to a mobility impairment or cognitive disability. (CBC)            Anjuli Patil
+ReporterAnjuli Patil is a reporter and occasional video journalist with CBC Nova Scotia's digital team.A Halifax woman with mobility issues says she was left humiliated, frustrated and stranded after an Access-A-Bus driver said the walker and suitcase that she brought to a local food bank couldn't come back with her.Jodi Van Iderstine said she was able to get to the Parker Street Food and Furniture Bank using the service — a shared ride bus service for individuals who are unable to use Halifax Transit due to a mobility impairment or cognitive disability — on Friday with her walker and suitcase meant for carrying food.But she said she ran into trouble on the way back."When I went to get on the bus to come back home, this particular driver — and there's been an issue with this driver in the past, same thing, same place — turned around and said, 'You can't get on the bus,'" said Van Iderstine.Jodi Van Iderstine's rollator and suitcase (Jodi Van Iderstine)Van Iderstine said the driver called his supervisor and both told her she had "too much stuff." She said the driver — who was not the same driver who took her to the food bank — had an issue with her rollator, which is a walker with wheels and a seat, and her suitcase full of food.The suitcase, Van Iderstine said, was strapped to the seat of her walker with bungee cords and was secure. But she said the driver's supervisor was "in no mood to listen to reason." "That supervisor treated me like I was mentally incompetent and useless. He couldn't get out of there fast enough because he could not logically or reasonably defend the positions he was taking and he knew it," said Van Iderstine.She said she can only get a food order from Parker Street once a month and that she doesn't have the extra income to take the $5 round trip to and from the food bank multiple times a month."What is the point of Access-A-Bus if you can't get your groceries home?" she said, adding she called Nova Scotia's Department of Community Services to get a ride home.Jodi Van Iderstine's rollator and suitcase. (Jodi Van Iderstine)Van Iderstine said the same driver and supervisor refused to drive her home back in April for the same reason. She said Kevin McKay, the operations manager at the food bank, ended up driving her home.McKay said he didn't see Van Iderstine's interaction with the driver and the supervisor in April, but confirmed he drove her home that day."It's a little strange for her to have to get a ride out and then to be denied service getting back with basically just a little bit more weight," said McKay, adding there needs to be more consistency at Access-A-Bus."She didn't leave Parker Street with anything more than she came with.… If she came with it, she obviously was allowed to have service with Access-A-Bus. And then for her to be denied service, yeah, that's a little bit troubling."A spokesperson for the Halifax municipality, which operates the Access-A-Bus service, would not comment on Van Iderstine's case specifically but said users are required to keep their packages to a minimum."If in the past a person has made it onto a bus with more packages than the rules allow, the driver was simply going above and beyond to accommodate. A driver who does not want to push these set restrictions is not at fault," Nick Ritcey, a senior communications adviser for Halifax told CBC News in an email.Ritcey also pointed to rules in the Access-A-Bus guide that state drivers "have the right to refuse to carry packages they consider unsafe."Jodi Van Iderstine's rollator and suitcase (Jodi Van Iderstine)Van Iderstine said the situation was both "humiliating" and "frustrating." She believes she's being denied service because she filed a complaint against another driver two years ago. But whatever the reason, she said she doesn't want to be stranded again."The Access-A-Bus management needs to take some sensitivity training on what it's like to be faced with physical challenges," she said. "And they need to start using a little common sense and compassion. You can't treat people like they're stupid."Severe weather warnings or watches in effect for:Mainly Sunny1°CMostly Cloudy1°CMainly Sunny4°CMainly Sunny4°CMainly Sunny4°C
+ Breaking
+Air Transat failed passengers stuck on 2 flights at Ottawa airport, agency decides
+ New
+Death of drum technician in Radiohead stage collapse to be subject of Ontario coroner's inquest
+ Post-Weinstein era prompts swift action against stars accused of sexual misconduct
+ Live
+Families share more stories of loss, violence and discrimination as MMIWG hearing continues
+ New
+Patients needing admission to hospital stuck in ER longer, report says
+ RCMP should pay maximum $1M in Moncton Mountie shootings, Crown says
+ Nuclear weapons
+'Just a matter of time': North Korea's missile capabilities may be closer than once thought
+ Massacre survivors, family members press Liberals for stronger gun laws
+ 72 new galaxies revealed by European telescope
+ PARADISE PAPERS
+Mulroney Institute bankrolled by billionaires steeped in scandal
+ Updated
+Ottawa backs off of court proceeding on First Nations child health care
+ The National Today
+Trump may turf Tillerson, U.S. on diplomatic defensive as U.K. ties turn tart
+ Opinion
+Is there a path to redemption for any of the high-profile men accused of sexual misconduct?  
+ 'We're doing the best we can': French immersion teacher shortage in Canada a chronic and stressful problem
+ Trump sending anti-Muslim tweets was 'wrong thing to do,' British PM saysCBCRadio-Canada©2017 CBC/Radio-Canada. All rights reserved

@@ -1,0 +1,11 @@
+
+By Sandra Henry-Stocker,
+
+
+Unix Dweeb,
+Network World
+|
+Nov 28, 2017 11:02 AM
+PT
+
+Use commas to separate multiple email addressesYour message has been sent.There was an error emailing this page.NXP Semiconductors, a world leader in secure connectivity solutions, just announced a Linux distribution that is intended to support factory automation. It's called Open Industrial Linux (OpenIL), and it's promising true industrial-grade security based on trusted computing, hardened software, cryptographic operations and end-to-end security.The fact that factory managers and industrial equipment manufacturers are turning to Linux is not surprising considering its operational stability, professional approach to system security, and its obvious low cost of ownership. The importance of the security and reliability of manufacturing security to the well being of any industrial nation is clear from the focus that DHS places on this sector.OpenIL is helping to usher in a new trend in smart factory automation referred to as Industry 4.0. This "smart factory" vision was initiated in Germany and provides features such as high flexibility, self-optimization, self-configuration, self-diagnosis, and intelligent worker support.Industry 4.0 provides a focus on:OpenIL includes real-time OS extensions and TSL (time-sensitive networking) support. It also makes it easy for OEMs to add their own software through the Linux file system.OpenIL includes the following:You can read more about OpenIL by clicking on the link provided and even download source to get started as a contributor.Check out NXP Semiconductors™ N.V. (NASDAQ:NXPI) for more information on that company's activities and its support for this critical step forward in factory automation and security.Sandra Henry-Stocker has been administering Unix systems for more than 30 years. She describes herself as "USL" (Unix as a second language) but remembers enough English to write books and buy groceries. She lives in the mountains in Virginia where, when not working with or writing about Unix, she's chasing the bears away from her bird feeders.Copyright © 2017 IDG Communications, Inc.

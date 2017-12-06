@@ -1,0 +1,27 @@
+Apple is extremely overrated in terms of analysis of Price/Earnings to Growth and Price/Sales to Growth multiples.Apple is overvalued in terms of analysis of internal growth.DCF valuation indicates a weak potential for further growth of Apple.Three different approaches to evaluating Apple (AAPL) do not indicate rapid and stable growth of the company's market price in the near future.
+
+If asked which value driver has the greatest impact on multiples, analysts and investors are likely to answer 'growth'. The problem is that Apple is now extremely overpriced in the context of growth rate.It is almost meaningless to compare Apple with other companies directly through the multiples. Firstly because, probably except for Microsoft (MSFT), Apple has virtually no close competitors among the public companies. And secondly, the phase of Apple life cycle also has few analogs. So, if we want to compare Apple's multiples, they should first be adjusted to the pace of growth. The most suitable multiples for this purpose, in my opinion, are Price/Earnings to Growth and Price/Sales to Growth. In this case, in order to calculate them, I used not the actual indicators of earnings and revenues, but the predictable ones. Thus, the obtained multiples represent the ratio of P/E Forward and P/S Forward to the expected profit and revenue growth.For comparison, I chose the companies from the list - FAAMG and Alibaba (NYSE:BABA). And here's what I've got:
+
+
+
+As you can see, the result of Apple turned out to be the highest in both multiples, which means the maximum balanced price of its shares does not exceed $123.Let's move on and look at how the growth of Apple's financial indicators relate to the current level of its multiples.Let's start with EPS and P/E growth rates. In the calendar Q3, the three-year CAGR EPS (ttm) diluted amounted to 12,68% - this is the second worst result of Apple over the past ten years. And at the same time, the current P/E multiple is the highest since the year 2008. This is an apparent inconsistency indicating the reassessment of the company.
+
+The situation with EBITDA is approximately the same. A four-year CAGR of this indicator in the last quarter rose to 7,63%, which is very close to the historical minimum values. However, EV/EBITDA is at the level of the year, when the four-year CAGR of EBITDA amounted to more than 60%:
+
+Finally, the growth rate of Apple's OpFCF in the last quarter was the second worst in the history of the company, and EV/OpFCF multiple rose to the maximum, recorded over the last 7 years:
+
+As we can see, in terms of growth of EPS, EBITDA and OpFCF, the market has been chronically overestimating Apple in the last few years.Now let's see what the DCF analysis says about the fair price of Apple.In July, I described in detail the building of my DCF-model for Apple based on the prospects of the global smartphone market. In this article, I will update these calculations.First of all, it is worth noting that the results of the last quarter and the release of the new line of Apple products raised the expectations regarding the future revenue of the company.Here's what they were like in July:
+
+Here's what they look like now.
+
+Accordingly, I had to adjust Apple's revenue predictions for the next 10 years:
+
+Here is the actual WACC calculation:
+
+Note that the current 1-y Beta Coefficient of Apple is 1,26, which is very close to the historical maximum of the year 2005. The bigger beta means greater systematic risk which is negative for the company and indicates high short-term speculative interest in the shares of the company.
+
+I assume that Apple's operating margin will gradually decrease to the level of 23% due to the increased competition:
+
+AAPL Operating Margin (TTM) data by YChartsHere's the model itself:
+
+The DCF-based target price of Apple's shares is $199, offering 14% upside.Thus, Apple is overvalued in two out of three analyses, and the result of only one analysis gives more or less fair price estimation. I perfectly understand that Apple's dividend policy and the generous buyback program provide a good support for shares. However, in my opinion, the chronically over-the-top multiples amid record-low growth rates of Apple's key financial indicators are not the best combination for shares in wait for rapid and stable growth.Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.The chat platform is currently undergoing maintenance.To see the chat, try to refresh in about 5-10 minutes.Chat is not supported in your browser version.Please upgrade your browser or use a different browser, such as Google Chrome.You do not have permissions for this room.

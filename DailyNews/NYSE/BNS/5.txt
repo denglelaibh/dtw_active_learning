@@ -1,0 +1,38 @@
+You currently have:Go to the Subscriptions Centre to manage your:Log out of your CBC account.
+By David Burke, CBC News
+
+				if(!CBC) { var CBC = {}; }
+				if(!CBC.APP) { CBC.APP = {}; }
+				if(!CBC.APP.SC) { CBC.APP.SC = {}; }
+				if(!CBC.APP.SC.DTM) { CBC.APP.SC.DTM = {}; }
+				if(!CBC.APP.SC.DTM.DATA) { CBC.APP.SC.DTM.DATA = {}; }
+				CBC.APP.SC.DTM.DATA.authors = "David Burke, CBC News";
+			
+Posted: Nov 24, 2017 9:30 PM AT
+Last Updated: Nov 24, 2017 9:31 PM AT
+
+              There is a big demand for the food bank in the Greystone area, where about 140 people a month use the service.  (Dave Laughlin/CBC)            Doors at the Greystone Food Bank in Spryfield are locked after squabbling and infighting among organizers came to a head earlier this week.The Community of Rockingstone Society used to run the food bank, but now it's not clear who's in charge, according to Feed Nova Scotia."We didn't have the information we needed. We weren't sure where the responsibility or the accountability was. There were organizational challenges," said Becky Mason, the director of community connections with Feed Nova Scotia.Organizers at the Greystone Food Bank haven't gotten along for years, Mason said. Many volunteer groups go through periods of upheaval as old members leave and new ones come on board, she said.The food bank serves an average of 140 individuals a month and is open one day a week, said Mason. Many people in the Greystone area live in public housing and have low incomes.Becky Mason works for Feed Nova Scotia. She says her organization has already worked out a way to get food to the needy without using the Greystone Food Bank. (Dave Laughlin/CBC)Two groups at the food bank are fighting for control and that's led to some of the confusion about who's in charge.The Rockingstone Society that ran the food bank was dissolved this week after arguments among its members persisted. A new group, the Alternatives Outreach Society, was formed to run the food bank.With so much uncertainty, Feed Nova Scotia decided to stop food deliveries to Greystone.Feed Nova Scotia handles the collection and distribution of food for 146 food banks, shelters and meal programs in the province. (Dave Laughlin/CBC)On Thursday, the Metropolitan Regional Housing Authority, which provides space for the food bank, changed the building's locks, keeping everyone involved with the food bank out. The Department of Community Services funds the housing authority through Housing Nova Scotia.A department spokesperson said Community Services was providing the space for a food bank and the space is no longer being used for that purpose, so the locks were changed."We provided space for the operation of a food bank. We received notification from Feed Nova Scotia that they were suspending the service to this location. We then changed the locks in response. It's not uncommon for us to do that in situations like this," said Heather Fairbairn.Jodi Brown says the Alternatives Outreach Society is ready to run a food bank and wants to work with Feed Nova Scotia. (Dave Laughlin/CBC)Jodi Brown was a member of the old board and is part of the new society as well.  "I understand Feed Nova Scotia got scared," said Brown. "It was like a knee-jerk reaction. They got scared and they pulled out. I'm really excited to work with Feed Nova Scotia again. Our society is ready to work with them."Even though the Greystone Food Bank is shut down, people will still be able to get food. Mason said Feed Nova Scotia will now deliver food for the Greystone area to St. Paul's Family Resource Institute, which also runs a food bank in Spryfield.Feed Nova Scotia doesn't expect anyone to be harmed by the food bank's closure since the food bank was open earlier this week. (Dave Laughlin/CBC)That food will then be delivered to the Greystone community police office on 146 Greystone Dr., where people can pick it up on Wednesday. People in the area who need food are asked to call 902-477-5090 on Monday or Tuesday to make sure they can get the food they need.Mason doesn't believe this week's disruption in service will cause too much harm."We see this as a temporary measure to get us through the next two months and we're really looking forward to working with the community in January."Severe weather warnings or watches in effect for:Partly Cloudy2°CPartly Cloudy1°CMostly Cloudy3°CMainly Sunny4°CMainly Sunny4°C
+ Breaking
+Air Transat failed passengers stuck on 2 flights at Ottawa airport, agency decides
+ New
+Death of drum technician in Radiohead stage collapse to be subject of Ontario coroner's inquest
+ Post-Weinstein era prompts swift action against stars accused of sexual misconduct
+ Live
+Families share more stories of loss, violence and discrimination as MMIWG hearing continues
+ New
+Patients needing admission to hospital stuck in ER longer, report says
+ RCMP should pay maximum $1M in Moncton Mountie shootings, Crown says
+ Nuclear weapons
+'Just a matter of time': North Korea's missile capabilities may be closer than once thought
+ Massacre survivors, family members press Liberals for stronger gun laws
+ 72 new galaxies revealed by European telescope
+ PARADISE PAPERS
+Mulroney Institute bankrolled by billionaires steeped in scandal
+ Updated
+Ottawa backs off of court proceeding on First Nations child health care
+ The National Today
+Trump may turf Tillerson, U.S. on diplomatic defensive as U.K. ties turn tart
+ Opinion
+Is there a path to redemption for any of the high-profile men accused of sexual misconduct?  
+ 'We're doing the best we can': French immersion teacher shortage in Canada a chronic and stressful problem
+ Trump sending anti-Muslim tweets was 'wrong thing to do,' British PM saysCBCRadio-Canada©2017 CBC/Radio-Canada. All rights reserved

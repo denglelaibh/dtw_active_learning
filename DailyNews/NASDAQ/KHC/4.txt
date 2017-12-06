@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+The Kraft Heinz Company (NASDAQ:KHC) shares are down more than -9.55% this year and recently decreased -0.79% or -$0.63 to settle at $78.98. Blue Buffalo Pet Products, Inc. (NASDAQ:BUFF), on the other hand, is up 27.20% year to date as of 11/28/2017. It currently trades at $30.58 and has returned 5.12% during the past week.The Kraft Heinz Company (NASDAQ:KHC) and Blue Buffalo Pet Products, Inc. (NASDAQ:BUFF) are the two most active stocks in the Food – Major Diversified industry based on today’s trading volumes. Investors are clearly interested in the two names, but is one a better choice than the other? We will compare the two companies across growth, profitability, risk, valuation, and insider trends to answer this question.GrowthThe ability to consistently grow earnings at a high compound rate is a defining characteristic of the best companies for long-term investment. Analysts expect KHC to grow earnings at a 9.87% annual rate over the next 5 years. Comparatively, BUFF is expected to grow at a 15.48% annual rate. All else equal, BUFF’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth isn’t very attractive to investors if companies are sacrificing profitability and shareholder returns to achieve that growth. We will use EBITDA margin and Return on Investment (ROI), which control for differences in capital structure between the two companies, to measure profitability and return., compared to an EBITDA margin of 22.74% for Blue Buffalo Pet Products, Inc. (BUFF). KHC’s ROI is 5.30% while BUFF has a ROI of 27.30%. The interpretation is that BUFF’s business generates a higher return on investment than KHC’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is simply the present value of its future free cash flows. KHC’s free cash flow (“FCF”) per share for the trailing twelve months was -1.52. Comparatively, BUFF’s free cash flow per share was +0.10. On a percent-of-sales basis, KHC’s free cash flow was -6.99% while BUFF converted 1.7% of its revenues into cash flow. This means that, for a given level of sales, BUFF is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios measure a company’s ability to meet short-term obligations and longer-term debts. KHC has a current ratio of 0.80 compared to 4.20 for BUFF. This means that BUFF can more easily cover its most immediate liabilities over the next twelve months. KHC’s debt-to-equity ratio is 0.54 versus a D/E of 1.62 for BUFF. BUFF is therefore the more solvent of the two companies, and has lower financial risk.ValuationKHC trades at a forward P/E of 20.39, a P/B of 1.64, and a P/S of 3.67, compared to a forward P/E of 29.60, a P/B of 24.66, and a P/S of 4.86 for BUFF. KHC is the cheaper of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsInvestors often compare a stock’s current price to an analyst price target to get a sense of the potential upside within the next year. KHC is currently priced at a -12.53% to its one-year price target of 90.29. Comparatively, BUFF is 0.82% relative to its price target of 30.33. This suggests that KHC is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.70 for KHC and 2.10 for BUFF, which implies that analysts are more bullish on the outlook for KHC.Insider Activity and Investor SentimentShort interest is another tool that analysts use to gauge investor sentiment. It represents the percentage of a stock’s tradable shares that are being shorted. KHC has a short ratio of 4.07 compared to a short interest of 9.46 for BUFF. This implies that the market is currently less bearish on the outlook for KHC.SummaryThe Kraft Heinz Company (NASDAQ:KHC) beats Blue Buffalo Pet Products, Inc. (NASDAQ:BUFF) on a total of 7 of the 14 factors compared between the two stocks. KHC is more profitable and has lower financial risk. In terms of valuation, KHC is the cheaper of the two stocks on an earnings, book value and sales basis, KHC is more undervalued relative to its price target. Finally, KHC has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

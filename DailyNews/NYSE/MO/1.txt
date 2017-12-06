@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Altria Group, Inc. (NYSE:MO) shares are down more than -0.37% this year and recently increased 1.46% or $0.97 to settle at $67.37. Philip Morris International Inc. (NYSE:PM), on the other hand, is up 12.23% year to date as of 11/28/2017. It currently trades at $102.68 and has returned -0.66% during the past week.Altria Group, Inc. (NYSE:MO) and Philip Morris International Inc. (NYSE:PM) are the two most active stocks in the Cigarettes industry based on today’s trading volumes. We will compare the two companies based on the strength of various metrics, including growth, profitability, risk, return, and valuation to determine if one is a better investment than the other.GrowthThe ability to grow earnings at a compound rate over time is a crucial determinant of investment value. Analysts expect MO to grow earnings at a 8.10% annual rate over the next 5 years. Comparatively, PM is expected to grow at a 9.77% annual rate. All else equal, PM’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth in and of itself is not necessarily valuable, and it can even be harmful to shareholders if companies overinvest in unprofitable projects in pursuit of that growth. We will use EBITDA margin and Return on Investment (ROI), which adjust for differences in capital structure, as measure of profitability and return. , compared to an EBITDA margin of 15.35% for Philip Morris International Inc. (PM). MO’s ROI is 53.30% while PM has a ROI of 49.10%. The interpretation is that MO’s business generates a higher return on investment than PM’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+If there’s one thing investors care more about than earnings, it’s cash flow. MO’s free cash flow (“FCF”) per share for the trailing twelve months was +0.51. Comparatively, PM’s free cash flow per share was -0.09. On a percent-of-sales basis, MO’s free cash flow was 3.78% while PM converted -0.19% of its revenues into cash flow. This means that, for a given level of sales, MO is able to generate more free cash flow for investors.Liquidity and Financial RiskBalance sheet risk is one of the biggest factors to consider before investing. MO has a current ratio of 0.80 compared to 1.10 for PM. This means that PM can more easily cover its most immediate liabilities over the next twelve months.ValuationMO trades at a forward P/E of 18.81, a P/B of 10.61, and a P/S of 5.00, compared to a forward P/E of 19.37, and a P/S of 5.84 for PM. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock isn’t a good investment if the stock is priced accurately. To get a sense of “value” we must compare the current price to some measure of intrinsic value such as a price target. MO is currently priced at a -5.72% to its one-year price target of 71.46. Comparatively, PM is -16.48% relative to its price target of 122.94. This suggests that PM is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.10 for MO and 2.40 for PM, which implies that analysts are more bullish on the outlook for PM.Risk and VolatilityBeta is a metric that investors frequently use to analyze a stock’s systematic risk. A beta above 1 implies above average market volatility. Conversely, a stock with a beta below 1 is seen as less risky than the overall market. MO has a beta of 0.64 and PM’s beta is 0.95. MO’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentThe analysis of insider buying and selling trends can be extended to the aggregate level. Short interest, which represents the percentage of a stock’s tradable shares currently being shorted, captures what the market as a whole feels about a stock. MO has a short ratio of 1.70 compared to a short interest of 2.05 for PM. This implies that the market is currently less bearish on the outlook for MO.SummaryAltria Group, Inc. (NYSE:MO) beats Philip Morris International Inc. (NYSE:PM) on a total of 9 of the 14 factors compared between the two stocks. MO is more profitable, generates a higher return on investment, has higher cash flow per share and has a higher cash conversion rate. In terms of valuation, MO is the cheaper of the two stocks on an earnings and sales basis, Finally, MO has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+It is interesting to note that NVIDIA Corporation (NASDAQ:NVDA) is active and made a solid movement in the last trading day. Now trading with a market value of 130.25B, the company has a mix of catalysts and obstacles that spring from the nature of its operations. Everyone seems to have their own opinion of this stock. But what do the numbers really say? We think it’s a great time to take a fresh look.NVIDIA Corporation (NASDAQ:NVDA) Fundamentals That MatterIt’s generally a good idea to start with the most fundamental piece of the picture: the balance sheet. The balance sheet health of any company plays a key role in its ability to meet its obligations and maintain the faith of its investment base. For NVDA, the company currently has 2.8 billion of cash on the books, which is offset by 28 million in current liabilities. The trend over time is important to note. In this case, the company’s debt has been falling. The company also has 9.83 billion in total assets, balanced by 3.48 billion in total liabilities, which should give you a sense of the viability of the company under any number of imagined business contexts.NVIDIA Corporation (NVDA) saw 1.09 billion in free cash flow last quarter, representing a quarterly net change in cash of 814 million. Perhaps most importantly where cash movements are concerned, the company saw about 1.16 billion in net operating cash flow.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+NVIDIA Corporation (NASDAQ:NVDA) Revenue Growth PotentialAs far as key trends that demonstrate something of the future investment potential of this stock, we need to take a closer look at the top line, first and foremost. Last quarter, the company saw 2.64 billion in total revenues. That represents a quarterly year/year change in revenues of 0.32 in sequential terms, the NVDA saw sales decline by 0.18.But what about the bottom line? After all, that’s what really matters in the end. NVIDIA Corporation (NVDA) is intriguing when broken down to its core data. The cost of selling goods last quarter was 1.07 billion, yielding a gross basic income of 1.57 billion. For shareholders, given the total diluted outstanding shares of 628 million, this means overall earnings per share of 1.33. Note, this compares with a consensus analyst forecast of 1.13 in earnings per share for its next fiscal quarterly report.
+(adsbygoogle = window.adsbygoogle || []).push({});
+Is NVIDIA Corporation (NASDAQ:NVDA) Valuation AttractiveLooking ahead at valuations, according to the consensus, the next fiscal year is forecast to bring about 4.59 in total earnings per share. If we consider a median price to earnings ratio on the stock, that corresponds with a stock price of 46.83. However, one should always remember: the trends are more important than the forecasts. This continues to be an interesting story, and we look forward to updating it again soon on NVIDIA Corporation.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

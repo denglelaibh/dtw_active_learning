@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+CVS Health Corporation (NYSE:CVS) shares are down more than -7.87% this year and recently increased 3.27% or $2.3 to settle at $72.70. Express Scripts Holding Company (NASDAQ:ESRX), on the other hand, is down -10.68% year to date as of 11/28/2017. It currently trades at $61.44 and has returned 0.03% during the past week.CVS Health Corporation (NYSE:CVS) and Express Scripts Holding Company (NASDAQ:ESRX) are the two most active stocks in the Health Care Plans industry based on today’s trading volumes. Investors are clearly interested in the two names, but is one a better choice than the other? We will compare the two companies across growth, profitability, risk, valuation, and insider trends to answer this question.GrowthCompanies that can consistently grow earnings at a high compound rate usually have the greatest potential to create value for shareholders in the long-run. Analysts expect CVS to grow earnings at a 6.95% annual rate over the next 5 years. Comparatively, ESRX is expected to grow at a 11.79% annual rate. All else equal, ESRX’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth doesn’t mean much if it comes at the cost of weak profitability. To adjust for differences in capital structure we’ll use EBITDA margin and Return on Investment (ROI) as measures of profitability and return. , compared to an EBITDA margin of 6.75% for Express Scripts Holding Company (ESRX). CVS’s ROI is 9.90% while ESRX has a ROI of 12.90%. The interpretation is that ESRX’s business generates a higher return on investment than CVS’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+If there’s one thing investors care more about than earnings, it’s cash flow. CVS’s free cash flow (“FCF”) per share for the trailing twelve months was +1.55. Comparatively, ESRX’s free cash flow per share was +3.18. On a percent-of-sales basis, CVS’s free cash flow was 0.88% while ESRX converted 1.8% of its revenues into cash flow. This means that, for a given level of sales, ESRX is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios provide insight into the financial health of a company, and allow investors to determine the likelihood that the company will be able to continue operating as a going concern. CVS has a current ratio of 1.00 compared to 0.70 for ESRX. This means that CVS can more easily cover its most immediate liabilities over the next twelve months. CVS’s debt-to-equity ratio is 0.74 versus a D/E of 0.94 for ESRX. ESRX is therefore the more solvent of the two companies, and has lower financial risk.ValuationCVS trades at a forward P/E of 11.45, a P/B of 2.12, and a P/S of 0.41, compared to a forward P/E of 8.04, a P/B of 2.21, and a P/S of 0.35 for ESRX. CVS is the cheaper of the two stocks on book value basis but is expensive in terms of P/E and P/S ratio. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsJust because a stock is cheaper doesn’t mean there’s more value to be had. In order to assess value we need to compare the current price to where it’s likely to trade in the future. CVS is currently priced at a -13.96% to its one-year price target of 84.50. Comparatively, ESRX is -9.17% relative to its price target of 67.64. This suggests that CVS is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.20 for CVS and 2.90 for ESRX, which implies that analysts are more bullish on the outlook for ESRX.Risk and VolatilityAnalyst use beta to measure a stock’s volatility relative to the overall market. Stocks with a beta above 1 tend to have bigger swings in price than the market as a whole, the opposite being the case for stocks with a beta below 1. CVS has a beta of 0.86 and ESRX’s beta is 0.85. ESRX’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentComparing the number of shares sold short to the float is a method analysts often use to get a reading on investor sentiment. CVS has a short ratio of 3.35 compared to a short interest of 8.53 for ESRX. This implies that the market is currently less bearish on the outlook for CVS.SummaryExpress Scripts Holding Company (NASDAQ:ESRX) beats CVS Health Corporation (NYSE:CVS) on a total of 8 of the 14 factors compared between the two stocks. ESRX higher liquidity, is more profitable, generates a higher return on investment, has higher cash flow per share and has a higher cash conversion rate. In terms of valuation, ESRX is the cheaper of the two stocks on an earnings and sales basis, Finally, CI has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

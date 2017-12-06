@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Exxon Mobil Corporation (NYSE:XOM) shares are down more than -9.52% this year and recently increased 0.69% or $0.56 to settle at $81.67. Chevron Corporation (NYSE:CVX), on the other hand, is down -1.06% year to date as of 11/27/2017. It currently trades at $116.45 and has returned 1.51% during the past week.Exxon Mobil Corporation (NYSE:XOM) and Chevron Corporation (NYSE:CVX) are the two most active stocks in the Major Integrated Oil & Gas industry based on today’s trading volumes. Investor interest in the two stocks is clearly very high, but which is the better investment? To answer this question, we will compare the two companies across growth, profitability, risk, and valuation metrics, and also examine their analyst ratings and insider activity trends.GrowthThe ability to consistently grow earnings at a high compound rate is a defining characteristic of the best companies for long-term investment. Analysts expect XOM to grow earnings at a 21.17% annual rate over the next 5 years. Comparatively, CVX is expected to grow at a 52.03% annual rate. All else equal, CVX’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth doesn’t mean much if it comes at the cost of weak profitability. To adjust for differences in capital structure we’ll use EBITDA margin and Return on Investment (ROI) as measures of profitability and return. , compared to an EBITDA margin of 23.15% for Chevron Corporation (CVX). XOM’s ROI is 0.60% while CVX has a ROI of -1.40%. The interpretation is that XOM’s business generates a higher return on investment than CVX’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is simply the present value of its future free cash flows. XOM’s free cash flow (“FCF”) per share for the trailing twelve months was -0.16. Comparatively, CVX’s free cash flow per share was +0.06. On a percent-of-sales basis, XOM’s free cash flow was -0.3% while CVX converted 0.1% of its revenues into cash flow. This means that, for a given level of sales, CVX is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios are important because they reveal the financial health of a company. XOM has a current ratio of 0.90 compared to 1.00 for CVX. This means that CVX can more easily cover its most immediate liabilities over the next twelve months. XOM’s debt-to-equity ratio is 0.22 versus a D/E of 0.29 for CVX. CVX is therefore the more solvent of the two companies, and has lower financial risk.ValuationXOM trades at a forward P/E of 19.72, a P/B of 1.91, and a P/S of 1.43, compared to a forward P/E of 22.32, a P/B of 1.49, and a P/S of 1.71 for CVX. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsWhen investing it’s crucial to distinguish between price and value. As Warren Buffet said, “price is what you pay, value is what you get”. XOM is currently priced at a -3.19% to its one-year price target of 84.36. Comparatively, CVX is -6.26% relative to its price target of 124.22. This suggests that CVX is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.90 for XOM and 2.10 for CVX, which implies that analysts are more bullish on the outlook for XOM.Risk and VolatilityNo discussion on value is complete without taking into account risk. Analysts use a stock’s beta, which measures the volatility of a stock compared to the overall market, to measure systematic risk. A stock with a beta above 1 is more volatile than the market. Conversely, a beta below 1 implies a below average level of risk. XOM has a beta of 0.82 and CVX’s beta is 1.21. XOM’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentAnalysts often look at short interest, or the percentage of a company’s float currently being shorted by investors, to aid in their outlook for a particular stock. XOM has a short ratio of 3.64 compared to a short interest of 4.50 for CVX. This implies that the market is currently less bearish on the outlook for XOM.SummaryChevron Corporation (NYSE:CVX) beats Exxon Mobil Corporation (NYSE:XOM) on a total of 8 of the 14 factors compared between the two stocks. CVX generates a higher return on investment, is more profitable, has higher cash flow per share, has a higher cash conversion rate and higher liquidity. CVX is more undervalued relative to its price target. Finally, TSN has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

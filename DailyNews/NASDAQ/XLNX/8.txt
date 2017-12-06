@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Xilinx, Inc. (NASDAQ:XLNX) shares are up more than 20.32% this year and recently increased 1.16% or $0.83 to settle at $72.64. Diodes Incorporated (NASDAQ:DIOD), on the other hand, is up 22.01% year to date as of 11/20/2017. It currently trades at $31.32 and has returned 1.00% during the past week.Xilinx, Inc. (NASDAQ:XLNX) and Diodes Incorporated (NASDAQ:DIOD) are the two most active stocks in the Semiconductor – Integrated Circuits industry based on today’s trading volumes. To determine if one is a better investment than the other, we will compare the two companies’ growth, profitability, risk, return, and valuation characteristics, as well as their analyst ratings and sentiment signals.GrowthCompanies that can consistently grow earnings at a high compound rate usually have the greatest potential to create value for shareholders in the long-run. Analysts expect XLNX to grow earnings at a 9.05% annual rate over the next 5 years. Comparatively, DIOD is expected to grow at a 28.40% annual rate. All else equal, DIOD’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth isn’t very attractive to investors if companies are sacrificing profitability and shareholder returns to achieve that growth. We will use EBITDA margin and Return on Investment (ROI), which control for differences in capital structure between the two companies, to measure profitability and return., compared to an EBITDA margin of 15.64% for Diodes Incorporated (DIOD). XLNX’s ROI is 15.90% while DIOD has a ROI of 2.30%. The interpretation is that XLNX’s business generates a higher return on investment than DIOD’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+Earnings don’t always accurately reflect the amount of cash that a company brings in. XLNX’s free cash flow (“FCF”) per share for the trailing twelve months was +0.40. Comparatively, DIOD’s free cash flow per share was +0.06. On a percent-of-sales basis, XLNX’s free cash flow was 4.27% while DIOD converted 0% of its revenues into cash flow. This means that, for a given level of sales, XLNX is able to generate more free cash flow for investors.Liquidity and Financial RiskBalance sheet risk is one of the biggest factors to consider before investing. XLNX has a current ratio of 9.90 compared to 3.10 for DIOD. This means that XLNX can more easily cover its most immediate liabilities over the next twelve months. XLNX’s debt-to-equity ratio is 0.70 versus a D/E of 0.38 for DIOD. XLNX is therefore the more solvent of the two companies, and has lower financial risk.ValuationXLNX trades at a forward P/E of 25.77, a P/B of 7.25, and a P/S of 7.59, compared to a forward P/E of 18.34, a P/B of 1.80, and a P/S of 1.53 for DIOD. XLNX is the expensive of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock isn’t a good investment if the stock is priced accurately. To get a sense of “value” we must compare the current price to some measure of intrinsic value such as a price target. XLNX is currently priced at a 3.4% to its one-year price target of 70.25. Comparatively, DIOD is -9.66% relative to its price target of 34.67. This suggests that DIOD is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.70 for XLNX and 2.60 for DIOD, which implies that analysts are more bullish on the outlook for XLNX.Risk and VolatilityBeta is a metric that investors frequently use to analyze a stock’s systematic risk. A beta above 1 implies above average market volatility. Conversely, a stock with a beta below 1 is seen as less risky than the overall market. XLNX has a beta of 1.10 and DIOD’s beta is 1.24. XLNX’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentThe analysis of insider buying and selling trends can be extended to the aggregate level. Short interest, which represents the percentage of a stock’s tradable shares currently being shorted, captures what the market as a whole feels about a stock. XLNX has a short ratio of 4.20 compared to a short interest of 2.98 for DIOD. This implies that the market is currently less bearish on the outlook for DIOD.SummaryDiodes Incorporated (NASDAQ:DIOD) beats Xilinx, Inc. (NASDAQ:XLNX) on a total of 8 of the 14 factors compared between the two stocks. DIOD is more profitable and has lower financial risk. In terms of valuation, DIOD is the cheaper of the two stocks on an earnings, book value and sales basis, DIOD is more undervalued relative to its price target. Finally, DIOD has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

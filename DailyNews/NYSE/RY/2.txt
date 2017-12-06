@@ -1,0 +1,61 @@
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6229808-1', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+
+/* Style Definitions */
+span.prnews_span
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+a.prnews_a
+{
+color:blue;
+}
+li.prnews_li
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+p.prnews_p
+{
+font-size:0.62em;
+font-family:"Arial";
+color:black;
+margin:0in;
+}
+
+Online Member CentreCision Communications Cloud™Cision PR EditionCisionPointMediaSource Monitoring/EvaluationVisible IntelligenceFastFinderMy CNW
+CNW AccessSign Up Advanced Search  News provided byNov 29, 2017, 06:15 ET Share this articleTORONTO, Nov. 29, 2017 /CNW/ - Royal Bank of Canada (RY on TSX and NYSE) today announced that Mark Hughes, Group Chief Risk Officer (GCRO), will retire effective April 9, 2018 after 37 years at the bank."Throughout his distinguished career, Mark has had a significant impact on RBC's success. His strong understanding of RBC's businesses, along with deep insights into the ever-evolving risk and regulatory environment made him an exceptional GCRO and has helped RBC execute our growth strategy supported by a foundation of strong risk management," said Dave McKay, RBC's President and Chief Executive Officer. "On behalf of RBC, I would like to thank Mark for his many contributions to RBC and to the global risk management industry more broadly. We wish him all the very best in his upcoming retirement."Mr. Hughes joined RBC in 1981 and held progressively senior roles at the bank primarily in Corporate Banking and Global Credit in a number of international offices. He was Executive Vice-President and Chief Operating Officer of Capital Markets before being appointed Group Chief Risk Officer in 2013.Graeme Hepworth, currently Executive Vice-President, Retail & Commercial Risk, has been appointed Deputy Chief Risk Officer, effective February 1, 2018 reporting to Mr. Hughes. On April 9, 2018, Mr. Hepworth will assume the role of Group Chief Risk Officer reporting to Mr. McKay and he will join RBC's Group Executive as one of ten executives responsible for setting the overall strategic direction of RBC.Mr. Hepworth joined RBC in 1997 in Group Risk Management and over the years held a number of progressively senior positions supporting all of RBC's businesses and working in our core markets outside of Canada as Head of U.S. Market Risk, and Chief Risk Officer, Europe. In his current role, Mr. Hepworth provides primary risk management support to Personal & Commercial Banking, Wealth Management and Insurance, and contributes to the risk strategies that enable these segments to achieve their business objectives."Graeme's deep expertise in credit and market risk and exposure to all of our key businesses, along with his global perspective will serve him well in his new role. He will be an excellent addition to our Group Executive Committee," adds Mr. McKay.About RBCRoyal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance. Our success comes from the 80,000 employees who bring our vision, values and strategy to life so we can help our clients thrive and communities prosper. As Canada's biggest bank, and one of the largest in the world based on market capitalization, we have a diversified business model with a focus on innovation and providing exceptional experiences to our 16 million clients in Canada, the U.S. and 35 other countries. For more information, please visit rbc.com.We are proud to support a broad range of community initiatives through donations, community investments and employee volunteer activities. See how at rbc.com/community-sustainability/.SOURCE Royal Bank of CanadaFor further information:  Media contact: Amy Cairncross, SVP, Communications, amy.cairncross@rbc.com, 416-974-8558; Investor Relations contact: Dave Mun, SVP & Head, Investor Relations, dave.mun@rbc.com, 416-974-4924
+http://www.rbc.com
+Royal Bank of Canada
+                                																								                About RBC
+Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance. Our success comes from the 80,000 employees who bring our vision, values and strategy to life so we can help our clients thrive and communities prosper. As Canada’s biggest bank, and one of the largest in the world based on market capitalization,...
+                                   Also from this source:RRYIR
+                                																								                About RBC
+Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance. Our success comes from the 80,000 employees who bring our vision, values and strategy to life so we can help our clients thrive and communities prosper. As Canada’s biggest bank, and one of the largest in the world based on market capitalization,...
+                                  RBC
+                                																								                About RBC
+Royal Bank of Canada is Canada’s largest bank, and one of the largest banks in the world, based on market capitalization. We are one of North America’s leading diversified financial services companies, and provide personal and commercial banking, wealth management, insurance, investor services and capital markets products and services on a global basis. We have over 80,000...
+                                   Also from this source:
+ You just read:
+ News provided byNov 29, 2017, 06:15 ET Share this articleNov 21, 2017, 03:24 ETPreview: Royal Bank of Canada Designated a Global Systemically Important Bank
+ Contact Us 
+
++1-877-269-7890
+Phone 8AM - 10PM ET
+ Share this article

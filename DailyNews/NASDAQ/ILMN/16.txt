@@ -1,0 +1,118 @@
+
+Systems, reagents and software to cover broad range of clinical 
+      applications
+Illumina NextSeq 550Dx (Photo: Business Wire)Illumina NextSeq 550Dx (Photo: Business Wire)SAN DIEGO--(BUSINESS WIRE)--Illumina, Inc. (NASDAQ: ILMN) announced today the introduction of its 
+      NextSeq™ 550Dx instrument, the company’s second FDA-regulated and CE-IVD 
+      marked next-generation sequencing (NGS) system. The company also 
+      announced that the intended use for the MiSeq™Dx instrument has been 
+      updated to include the use of DNA libraries generated from 
+      formalin-fixed paraffin embedded (FFPE) tissues, paving the way for 
+      clinical labs to use FFPE samples when developing clinical tests for new 
+      applications. With the NextSeq 550Dx and the MiSeqDx, Illumina now has a 
+      highly robust diagnostic NGS product portfolio capable of covering a 
+      broad range of clinical applications to serve almost any clinical lab 
+      need for NGS-based in vitro diagnostic (IVD) products.
+    
+NextSeq 550Dx
+
+      Illumina introduces the NextSeq 550Dx instrument, which is the second 
+      FDA regulated CE-IVD market platform to deliver the power of 
+      high-throughput NGS to the clinical laboratory. With dual boot 
+      functionality, the NextSeq 550Dx platform includes a diagnostic mode (Dx 
+      mode) and a research mode, which provides the flexibility to perform 
+      both clinical research and develop a range of IVD assays on a single 
+      instrument. For large clinical laboratories, the NextSeq 550Dx 
+      instrument offers a validated high-throughput platform and will soon 
+      provide access to an expanding pipeline of clinical applications in 
+      oncology and reproductive health.
+    
+      Assays that are run on the NextSeq 550Dx instrument follow a simple 
+      process including sequencing and data analysis. The setup of workflows 
+      for different applications are fully integrated in NextSeq 550Dx 
+      software. The instrument also offers fully-integrated onboard analysis 
+      software with modular software architecture to support current and 
+      future assays.
+    
+      “NGS is beginning to play a significant role in the clinic,” said Garret 
+      Hampton, Executive Vice President of Clinical Genomics at Illumina. 
+      “Illumina is working to provide clinical solutions that support the 
+      diagnosis and management of complex diseases, as well as expanding the 
+      IVD menu.”
+    
+      For additional information on the NextSeq 550Dx, please visit www.illumina.com/nextseq550dx.
+    
+MiSeqDx
+
+      The expanded intended use of the MiSeqDx instrument, which was the first 
+      FDA regulated NGS sequencer, enables the development of additional 
+      advanced diagnostic products and services at clinical labs by giving 
+      clinicians access to information generated on Illumina’s NGS technology. 
+      In addition to the updated intended use for the MiSeqDx system, Illumina 
+      also offers the regulated MiSeqDx Reagent Kit v3, the latest version of 
+      Illumina sequencing chemistry available to MiSeqDx customers, and the 
+      TruSeq™ Custom Amplicon Kit Dx for library preparation. These new 
+      products replace the MiSeqDx Universal Kit 1.0, which was regulated by 
+      the FDA in 2013 and allowed clinical labs to conduct DNA analysis using 
+      DNA obtained from human whole blood.
+    
+      “The expansion and launch of these regulated platforms represent 
+      regulatory milestones important to the clinical community,” said Kathy 
+      Davy, Vice President of Marketing, Clinical Genomics at Illumina. “The 
+      most relevant genetic information that can help cancer patients is often 
+      contained in FFPE tissues removed during surgery. Information gleaned 
+      from these samples can inform clinicians about tumor biology and help 
+      guide therapeutic selection.”
+    
+      Illumina has updated the existing intended use for the MiSeqDx system to 
+      include the use of FFPE sample inputs for assays performed on the 
+      instrument. This update will support the launch of the following new 
+      reagent kits:
+    
+      The MiSeqDx now has the following IVD menu:
+    
+      Illumina and its IVD development partners are now developing assays that 
+      use FFPE as a starting point on the MiSeqDx instrument and are working 
+      to bring additional IVD tests to the MiSeqDx. For more information on 
+      the expanded use of the MiSeqDx system, visit http://www.illumina.com/miseqdx.
+    
+About Illumina
+
+      Illumina is improving human health by unlocking the power of the genome. 
+      Our focus on innovation has established us as the global leader in DNA 
+      sequencing and array-based technologies, serving customers in the 
+      research, clinical, and applied markets. Our products are used for 
+      applications in the life sciences, oncology, reproductive health, 
+      agriculture, and other emerging segments. To learn more, visit www.illumina.com and 
+      follow @illumina.
+    
+Use of forward-looking statements
+
+      This release contains forward-looking statements that involve risks and 
+      uncertainties. These forward-looking statements are based on our 
+      expectations as of the date of this release and may differ materially 
+      from actual future events or results. Among the important factors that 
+      could cause actual results to differ materially from those in any 
+      forward-looking statements are (i) our ability to further develop and 
+      commercialize our instruments and consumables, and to deploy new 
+      products such as the NextSeq 550Dx instrument, services and 
+      applications, and expand the markets for our technology platforms; (ii) 
+      our ability to manufacture robust instrumentation and consumables; (iii) 
+      our ability to successfully identify and integrate acquired 
+      technologies, products or businesses; (iv) the future conduct and growth 
+      of the business and the markets in which we operate; and (v) challenges 
+      inherent in developing, manufacturing, and launching new products and 
+      services, together with other factors detailed in our filings with 
+      the Securities and Exchange Commission, including our most recent 
+      filings on Forms 10-K and 10-Q, or in information disclosed in public 
+      conference calls, the date and time of which are released beforehand. We 
+      undertake no obligation, and do not intend, to update these 
+      forward-looking statements, to review or confirm analysts’ expectations, 
+      or to provide interim reports or updates on the progress of the current 
+      quarter.
+    
+
+      Illumina, Inc.Investors:Jacquie Ross, CFA858-255-5243IR@illumina.comorMedia:Tina 
+      Amirkiai858-882-6822PR@illumina.com
+Illumina Grows Clinical IVD Portfolio with Introduction of its NextSeq™ 550Dx System and the Expanded Use of MiSeq™Dx System.
+      Illumina, Inc.Investors:Jacquie Ross, CFA858-255-5243IR@illumina.comorMedia:Tina 
+      Amirkiai858-882-6822PR@illumina.com

@@ -1,0 +1,45 @@
+Analog Devices’ Integrated Precision Solution Enables Safer and Up to 50% More Efficient Battery Manufacturing (Photo: Business Wire)Analog Devices’ Integrated Precision Solution Enables Safer and Up to 50% More Efficient Battery Manufacturing (Photo: Business Wire)NORWOOD, Mass.--(BUSINESS WIRE)--Analog 
+      Devices, Inc. today introduced a precision integrated analog front 
+      end, controller, and pulse-width modulator (PWM) for battery testing and 
+      formation capable of increasing system accuracy and efficiency in 
+      lithium-ion battery formation and grading. Compared to conventional 
+      technology, the new AD8452 provides 50% more channels in the same amount 
+      of space, adding capacity and increasing battery production throughput. 
+      The AD8452 uses switching technology that recycles the energy from the 
+      battery while discharging and delivers 10 times more accuracy than 
+      conventional switching solutions. The higher accuracy allows for more 
+      uniform cells within battery packs and contributes to longer living 
+      batteries in applications such as electric vehicles. It also enhances 
+      the safety of manufacturing processes by providing better detection and 
+      monitoring to help prevent over and undercharging which can lead to 
+      battery failures. The AD8452 delivers bill of material (BoM) cost 
+      savings of up to 50% for charging/discharging boards and potential 
+      system cost savings of approximately 20%. System simulating 
+      demonstration boards will be available and can enable lower R&D 
+      engineering cost and shorter time to market for test equipment 
+      manufacturers.
+    
+AD8452 Product Features
+
+Pricing and Availability
+
+Price EachPer 1,000
+
+About Analog DevicesAnalog Devices is the leading global 
+      high-performance analog technology company dedicated to solving the 
+      toughest engineering challenges. We enable our customers to interpret 
+      the world around us by intelligently bridging the physical and digital 
+      with unmatched technologies that sense, measure, power, connect and 
+      interpret. Visit http://www.analog.com.
+    
+Visit ADI’s multimedia gallery to review more product images: http://www.analog.com/en/about-adi/news-room/multimedia-gallery.html
+
+Follow ADI on Twitter at http://www.twitter.com/ADI_News
+
+Read and subscribe to Analog Dialogue, ADI’s monthly technical 
+      journal, at: http://www.analog.com/analog-dialogue.html
+
+
+      Analog Devices, Inc.Linda Kincaidlinda.kincaid@analog.com
+Analog Devices’ Integrated Precision Solution Enables Safer and Up to 50% More Efficient Battery Manufacturing
+      Analog Devices, Inc.Linda Kincaidlinda.kincaid@analog.com

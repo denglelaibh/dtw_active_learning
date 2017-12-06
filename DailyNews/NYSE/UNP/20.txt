@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+The shares of Union Pacific Corporation have increased by more than 13.68% this year alone. The shares recently went up by 0.63% or $0.74 and now trades at $117.86. The shares of Brixmor Property Group Inc. (NYSE:BRX), has slumped by -24.49% year to date as of 11/22/2017. The shares currently trade at $18.44 and have been able to report a change of 1.10% over the past one week.The stock of Union Pacific Corporation and Brixmor Property Group Inc. were two of the most active stocks on Wedday. Investors seem to be very interested in what happens to the stocks of these two companies but do investors favor one over the other? We will analyze the growth, profitability, risk, valuation, and insider trends of both companies and see which one investors prefer.Next 5Y EPS Growth: 13.29% versus 13.14%When a company is able to grow consistently in terms of earnings at a high compound rate have the highest likelihood of creating value for its shareholders over time. Analysts have predicted that UNP will grow it’s earning at a 13.29% annual rate in the next 5 years. This is in contrast to BRX which will have a positive growth at a 13.14% annual rate. This means that the higher growth rate of UNP implies a greater potential for capital appreciation over the years.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth alone cannot be used to see if the company will be valuable. Shareholders will be the losers if a company invest in ventures that aren’t profitable enough to support upbeat growth. In order for us to accurately measure profitability and return, we will be using the EBITDA margin which balances the difference in capital structure. UNP has an EBITDA margin of 50.96%, this implies that the underlying business of BRX is more profitable.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is ultimately determined by the amount of cash flow that the investors have available. Over the last 12 months, UNP’s free cash flow per share is a positive 3.32, while that of BRX is positive 0.48.Liquidity and Financial RiskThe ability of a company to meet up with its short-term obligations and be able to clear its longer-term debts is measured using Liquidity and leverage ratios. The debt ratio of UNP is 0.88 compared to 1.96 for BRX. BRX can be able to settle its long-term debts and thus is a lower financial risk than UNP.ValuationUNP currently trades at a forward P/E of 18.17, a P/B of 4.89, and a P/S of 4.46 while BRX trades at a forward P/E of 21.49, a P/B of 1.92, and a P/S of 4.37. This means that looking at the earnings, book values and sales basis, UNP is the cheaper one. It is very obvious that earnings are the most important factors to investors, thus analysts are most likely to place their bet on the P/E.Analyst Price Targets and OpinionsThe mistake some people make is that they think a cheap stock has more value to it. In order to know the value of a stock, there is need to compare its current price to its likely trading price in the future. The price of UNP is currently at a -4.09% to its one-year price target of 122.89. Looking at its rival pricing, BRX is at a -14.51% relative to its price target of 21.57. This figure implies that over the next one year, BRX is a better investment.When looking at the investment recommendation on say a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell), UNP is given a 2.40 while 2.30 placed for BRX. This means that analysts are more bullish on the outlook for UNP stocks.Insider Activity and Investor SentimentShort interest or otherwise called the percentage of a stock’s tradable shares currently being shorted is another data that investors use to get a handle on sentiment. The short ratio for UNP is 2.77 while that of BRX is just 1.26. This means that analysts are more bullish on the forecast for BRX stock.ConclusionThe stock of Union Pacific Corporation defeats that of Brixmor Property Group Inc. when the two are compared, with UNP taking 7 out of the total factors that were been considered. UNP happens to be more profitable, generates a higher ROI, has higher cash flow per share, higher liquidity and has a lower financial risk. When looking at the stock valuation, UNP is the cheaper one on an earnings, book value and sales basis. Finally, the sentiment signal for UNP is better on when it is viewed on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

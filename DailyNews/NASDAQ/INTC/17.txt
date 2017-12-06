@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Intel Corporation (NASDAQ:INTC) shares are up more than 23.38% this year and recently increased 0.22% or $0.1 to settle at $44.75. Cavium, Inc. (NASDAQ:CAVM), on the other hand, is up 42.22% year to date as of 11/24/2017. It currently trades at $88.80 and has returned 16.38% during the past week.Intel Corporation (NASDAQ:INTC) and Cavium, Inc. (NASDAQ:CAVM) are the two most active stocks in the Semiconductor – Broad Line industry based on today’s trading volumes. To determine if one is a better investment than the other, we will compare the two companies’ growth, profitability, risk, return, and valuation characteristics, as well as their analyst ratings and sentiment signals.GrowthOne of the key things investors look for in a company is the ability to grow earnings at a high compound rate over time. Analysts expect INTC to grow earnings at a 8.91% annual rate over the next 5 years. Comparatively, CAVM is expected to grow at a 31.15% annual rate. All else equal, CAVM’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth isn’t very attractive to investors if companies are sacrificing profitability and shareholder returns to achieve that growth. We will use EBITDA margin and Return on Investment (ROI), which control for differences in capital structure between the two companies, to measure profitability and return., compared to an EBITDA margin of 6.29% for Cavium, Inc. (CAVM). INTC’s ROI is 11.10% while CAVM has a ROI of -9.10%. The interpretation is that INTC’s business generates a higher return on investment than CAVM’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is simply the present value of its future free cash flows. INTC’s free cash flow (“FCF”) per share for the trailing twelve months was +0.42. Comparatively, CAVM’s free cash flow per share was +0.47. On a percent-of-sales basis, INTC’s free cash flow was 3.31% while CAVM converted 0.01% of its revenues into cash flow. This means that, for a given level of sales, INTC is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios provide insight into the financial health of a company, and allow investors to determine the likelihood that the company will be able to continue operating as a going concern. INTC has a current ratio of 1.60 compared to 2.90 for CAVM. This means that CAVM can more easily cover its most immediate liabilities over the next twelve months. INTC’s debt-to-equity ratio is 0.45 versus a D/E of 0.85 for CAVM. CAVM is therefore the more solvent of the two companies, and has lower financial risk.ValuationINTC trades at a forward P/E of 13.79, a P/B of 2.96, and a P/S of 3.37, compared to a forward P/E of 24.92, a P/B of 8.10, and a P/S of 6.45 for CAVM. INTC is the cheaper of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsInvestors often compare a stock’s current price to an analyst price target to get a sense of the potential upside within the next year. INTC is currently priced at a -3.78% to its one-year price target of 46.51. Comparatively, CAVM is 4.54% relative to its price target of 84.94. This suggests that INTC is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.50 for INTC and 2.40 for CAVM, which implies that analysts are more bullish on the outlook for INTC.Risk and VolatilityNo discussion on value is complete without taking into account risk. Analysts use a stock’s beta, which measures the volatility of a stock compared to the overall market, to measure systematic risk. A stock with a beta above 1 is more volatile than the market. Conversely, a beta below 1 implies a below average level of risk. INTC has a beta of 1.08 and CAVM’s beta is 1.25. INTC’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentComparing the number of shares sold short to the float is a method analysts often use to get a reading on investor sentiment. INTC has a short ratio of 5.28 compared to a short interest of 4.10 for CAVM. This implies that the market is currently less bearish on the outlook for CAVM.SummaryIntel Corporation (NASDAQ:INTC) beats Cavium, Inc. (NASDAQ:CAVM) on a total of 9 of the 14 factors compared between the two stocks. INTC is more profitable, generates a higher return on investment, has a higher cash conversion rate and has lower financial risk. In terms of valuation, INTC is the cheaper of the two stocks on an earnings, book value and sales basis, INTC is more undervalued relative to its price target. Finally, IDTI has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

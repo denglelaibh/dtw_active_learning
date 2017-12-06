@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Visa Inc. (NYSE:V) shares are up more than 42.36% this year and recently increased 0.99% or $1.09 to settle at $111.07. Mastercard Incorporated (NYSE:MA), on the other hand, is up 44.20% year to date as of 11/01/2017. It currently trades at $148.89 and has returned 1.81% during the past week.Visa Inc. (NYSE:V) and Mastercard Incorporated (NYSE:MA) are the two most active stocks in the Credit Services industry based on today’s trading volumes. Investor interest in the two stocks is clearly very high, but which is the better investment? To answer this question, we will compare the two companies across growth, profitability, risk, and valuation metrics, and also examine their analyst ratings and insider activity trends.GrowthCompanies that can increase earnings at a high compound rate over time are attractive to investors. Analysts expect V to grow earnings at a 16.62% annual rate over the next 5 years. Comparatively, MA is expected to grow at a 16.83% annual rate. All else equal, MA’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth doesn’t mean much if it comes at the cost of weak profitability. To adjust for differences in capital structure we’ll use EBITDA margin and Return on Investment (ROI) as measures of profitability and return. , compared to an EBITDA margin of 57.37% for Mastercard Incorporated (MA). V’s ROI is 15.70% while MA has a ROI of 38.50%. The interpretation is that MA’s business generates a higher return on investment than V’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+If there’s one thing investors care more about than earnings, it’s cash flow. V’s free cash flow (“FCF”) per share for the trailing twelve months was +0.92. Comparatively, MA’s free cash flow per share was +0.94. On a percent-of-sales basis, V’s free cash flow was 10.47% while MA converted 9.29% of its revenues into cash flow. This means that, for a given level of sales, V is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios are important because they reveal the financial health of a company. V has a current ratio of 1.90 compared to 1.70 for MA. This means that V can more easily cover its most immediate liabilities over the next twelve months. V’s debt-to-equity ratio is 0.67 versus a D/E of 0.91 for MA. MA is therefore the more solvent of the two companies, and has lower financial risk.ValuationV trades at a forward P/E of 23.56, a P/B of 9.62, and a P/S of 13.85, compared to a forward P/E of 28.17, a P/B of 27.22, and a P/S of 13.70 for MA. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock isn’t a good investment if the stock is priced accurately. To get a sense of “value” we must compare the current price to some measure of intrinsic value such as a price target. V is currently priced at a -9.12% to its one-year price target of 122.22. Comparatively, MA is -3.92% relative to its price target of 154.97. This suggests that V is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 1.80 for V and 1.80 for MA, which implies that analysts are equally bullish on their outlook for the two stocks.Risk and VolatilityNo discussion on value is complete without taking into account risk. Analysts use a stock’s beta, which measures the volatility of a stock compared to the overall market, to measure systematic risk. A stock with a beta above 1 is more volatile than the market. Conversely, a beta below 1 implies a below average level of risk. V has a beta of 0.96 and MA’s beta is 1.21. V’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentAnalysts often look at short interest, or the percentage of a company’s float currently being shorted by investors, to aid in their outlook for a particular stock. V has a short ratio of 4.46 compared to a short interest of 2.54 for MA. This implies that the market is currently less bearish on the outlook for MA.SummaryVisa Inc. (NYSE:V) beats Mastercard Incorporated (NYSE:MA) on a total of 8 of the 14 factors compared between the two stocks. V is more profitable, has a higher cash conversion rate, higher liquidity and has lower financial risk. In terms of valuation, V is the cheaper of the two stocks on an earnings and book value, V is more undervalued relative to its price target. Finally, BRCD has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

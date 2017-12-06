@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Texas Instruments Incorporated (NASDAQ:TXN) shares are up more than 35.93% this year and recently increased 0.93% or $0.91 to settle at $99.19. Maxim Integrated Products, Inc. (NASDAQ:MXIM), on the other hand, is up 40.55% year to date as of 11/20/2017. It currently trades at $54.21 and has returned 1.02% during the past week.Texas Instruments Incorporated (NASDAQ:TXN) and Maxim Integrated Products, Inc. (NASDAQ:MXIM) are the two most active stocks in the Semiconductor – Broad Line industry based on today’s trading volumes. We will compare the two companies based on the strength of various metrics, including growth, profitability, risk, return, and valuation to determine if one is a better investment than the other.GrowthOne of the key things investors look for in a company is the ability to grow earnings at a high compound rate over time. Analysts expect TXN to grow earnings at a 10.82% annual rate over the next 5 years. Comparatively, MXIM is expected to grow at a 13.65% annual rate. All else equal, MXIM’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsGrowth isn’t very attractive to investors if companies are sacrificing profitability and shareholder returns to achieve that growth. We will use EBITDA margin and Return on Investment (ROI), which control for differences in capital structure between the two companies, to measure profitability and return., compared to an EBITDA margin of 36.92% for Maxim Integrated Products, Inc. (MXIM). TXN’s ROI is 24.60% while MXIM has a ROI of 15.90%. The interpretation is that TXN’s business generates a higher return on investment than MXIM’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+Cash is king when it comes to investing. TXN’s free cash flow (“FCF”) per share for the trailing twelve months was +1.03. Comparatively, MXIM’s free cash flow per share was +0.36. On a percent-of-sales basis, TXN’s free cash flow was 7.59% while MXIM converted 4.41% of its revenues into cash flow. This means that, for a given level of sales, TXN is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios provide insight into the financial health of a company, and allow investors to determine the likelihood that the company will be able to continue operating as a going concern. TXN has a current ratio of 3.90 compared to 14.10 for MXIM. This means that MXIM can more easily cover its most immediate liabilities over the next twelve months. TXN’s debt-to-equity ratio is 0.33 versus a D/E of 0.00 for MXIM. TXN is therefore the more solvent of the two companies, and has lower financial risk.ValuationTXN trades at a forward P/E of 21.82, a P/B of 8.92, and a P/S of 6.72, compared to a forward P/E of 20.33, a P/B of 6.96, and a P/S of 6.61 for MXIM. TXN is the expensive of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsJust because a stock is cheaper doesn’t mean there’s more value to be had. In order to assess value we need to compare the current price to where it’s likely to trade in the future. TXN is currently priced at a 0.09% to its one-year price target of 99.10. Comparatively, MXIM is 0.71% relative to its price target of 53.83. This suggests that TXN is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 2.40 for TXN and 2.50 for MXIM, which implies that analysts are more bullish on the outlook for MXIM.Risk and VolatilityBeta is a metric that investors frequently use to analyze a stock’s systematic risk. A beta above 1 implies above average market volatility. Conversely, a stock with a beta below 1 is seen as less risky than the overall market. TXN has a beta of 1.27 and MXIM’s beta is 1.11. MXIM’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentShort interest is another tool that analysts use to gauge investor sentiment. It represents the percentage of a stock’s tradable shares that are being shorted. TXN has a short ratio of 2.41 compared to a short interest of 2.28 for MXIM. This implies that the market is currently less bearish on the outlook for MXIM.SummaryMaxim Integrated Products, Inc. (NASDAQ:MXIM) beats Texas Instruments Incorporated (NASDAQ:TXN) on a total of 8 of the 14 factors compared between the two stocks. MXIM is more profitable, higher liquidity and has lower financial risk. In terms of valuation, MXIM is the cheaper of the two stocks on an earnings, book value and sales basis, Finally, MXIM has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

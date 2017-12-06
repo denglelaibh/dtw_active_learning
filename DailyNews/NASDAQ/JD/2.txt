@@ -1,0 +1,35 @@
+Menu Breaking news sponsored bySource: ShutterstockGoing into 2017, there was certainly lots of optimism with Nvidia Corporation (NASDAQ:NVDA). Yet many investors underestimated the tremendous momentum. For the year so far, NVDA stock has pulled off a sizzling return of over 100%.Note that the company is now the third-largest chip company in the world. Its market cap is currently at $128 billion.This achievement makes CEO and co-founder Jensen Huang one of the top players in the tech world. Early on, he understood the power of GPUs (graphics processing units), which would ultimately be ideal for the mega-trend of AI (artificial intelligence). After all, this technology allows for tremendous processing power at relatively low costs.But Huang also was strategic in how he evolved his company and focused on disciplined execution. In fact, the latest earnings report highlights this. In the quarter, revenues jumped by 32% to $2.64 billion, and earnings increased by 60% to $1.33 per share. The Street, on the other hand, was looking for revenues of $2.36 billion and earnings of 94 cents a share.However, when you drill down on the numbers, you’ll see how Nvidia is being powered across several key markets, all of which have long-term potential. Here’s a look at these key markets.Datacenter: This has become the focal point of AI. Companies like Amazon.com, Inc. (NASDAQ:AMZN), Microsoft Corporation (NASDAQ:MSFT) and Alphabet Inc (NASDAQ:GOOGL) are aggressively building consumer-facing apps and devices that require next-generation infrastructures.For the most part, this has resulted in accelerated sales of NVDA’s Volta GPU. It’s a chipset that has been adopted by every major internet and cloud service provider. Consider that some of the recent customers include biggies like Alibaba Group Holding Ltd (NYSE:BABA), Tencent Holdings Ltd (OTCMKTS:TCEHY) and Baidu Inc (NASDAQ:BIDU).But of course, NVDA has continued to innovate its offerings. To this end, there is the TensorRT inference acceleration platform, which is focused on the fast-growing hyperscale cloud market. Already more than 1,200 customers have signed on, including Google, BIDU, AMZN, MSFT and JD.Com Inc (ADR) (NASDAQ:JD).Gaming: Even though this is a mature market category, the growth continues at a robust pace. During the latest quarter, revenues rose by 25% to $1.56 billion. It appears that a nice catalyst has come from the sales of the popular Nintendo Switch. But there has also been a lift from collaborations with Activision Blizzard, Inc. (NASDAQ:ATVI), such as with the Density 2 title.Next PageArticle printed from InvestorPlace Media, https://investorplace.com/2017/11/why-nvidia-corporation-stock-is-unstoppable/.©2017 InvestorPlace Media, LLC
+
+								About Us							
+							  ·  													
+								Press Center							
+							  ·  													
+								Resources							
+							  ·  													
+								Advisory Services							
+							  ·  													
+								Free Newsletters							
+							  ·  													
+								Free Reports							
+							  ·  													
+								Contact Us							
+							  ·  													
+								Advertise With Us							
+							  ·  													
+								Employment							
+							  ·  													
+								Privacy							
+							  ·  													
+								Terms and Conditions							
+							  ·  													
+								Disclosures and Disclaimers							
+							  ·  													
+								Media Sites							
+
+
+								RSS							
+							  ·  													
+								Sitemap							
+
+More On InvestorPlace:
+Financial Market Data powered by FinancialContent Services, Inc. All rights reserved. Nasdaq quotes delayed at least 15 minutes, all others at least 20 minutes.Copyright © 2017 InvestorPlace Media, LLC. All rights reserved. 9201 Corporate Blvd, Rockville, MD 20850.

@@ -1,0 +1,73 @@
+
+The entertainment company, home to some of the most iconic and 
+      beloved brands around the globe, taps AWS to accelerate its migration to 
+      the cloud
+SEATTLE--(BUSINESS WIRE)--Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN), 
+      today announced that The Walt Disney Company (NYSE: DIS) has selected 
+      AWS as its preferred public cloud infrastructure provider. Disney will 
+      expand its use of AWS to migrate production workloads to the AWS Cloud. 
+      Disney already leverages AWS’s industry-leading services for a wide 
+      variety of use cases, including websites and digital properties across 
+      all its brands, analytics, mobile, business applications, and machine 
+      learning.
+    
+      For more than eight years, AWS and Disney have collaborated to drive IT 
+      innovation. AWS has provided ongoing architectural best-practices 
+      support to enable Disney’s planned migrations from on-premises to a 
+      cloud-based architecture. Disney’s various segments, including Media 
+      Networks, Parks and Resorts, and The Walt Disney Studios, currently run 
+      business-critical workloads on AWS, driving optimal operational 
+      performance and customer experiences.
+    
+      “Expanding our strategic relationship with AWS and making AWS our 
+      preferred public cloud infrastructure provider aligns with our overall 
+      technical strategy,” said Charles Weiner, Senior Vice President 
+      Enterprise Infrastructure Services for The Walt Disney Company. “We have 
+      had success modernizing our IT operations and transforming the digital 
+      presence of our brands using AWS. We look forward to our continued 
+      collaboration as we accelerate our Digital Platform migration to the 
+      public cloud.”
+    
+      “Leading enterprises across a wide range of industries turn to AWS for 
+      its unmatched breadth of functionality, compute capacity, highly 
+      scalable infrastructure, and proven operational expertise,” said Mike 
+      Clayville, Vice President, Worldwide Commercial Sales at AWS. “For as 
+      long as I can remember, Disney’s entertainment has brought millions of 
+      families together. Now, we are excited to be part of their technology 
+      family, helping them scale, add new services, and innovate with speed so 
+      they can continue to delight people every day, around the world.”
+    
+About Amazon Web ServicesFor more than 11 years, Amazon Web 
+      Services has been the world’s most comprehensive and broadly adopted 
+      cloud platform. AWS offers over 100 fully featured services for compute, 
+      storage, databases, networking, analytics, machine learning and 
+      artificial intelligence (AI), Internet of Things (IoT), mobile, 
+      security, hybrid, and application development, deployment, and 
+      management from 44 Availability Zones (AZs) across 16 geographic regions 
+      in the U.S., Australia, Brazil, Canada, China, Germany, India, Ireland, 
+      Japan, Korea, Singapore, and the UK. AWS services are trusted by 
+      millions of active customers around the world—including the 
+      fastest-growing startups, largest enterprises, and leading government 
+      agencies—to power their infrastructure, make them more agile, and lower 
+      costs. To learn more about AWS, visit https://aws.amazon.com.
+    
+About AmazonAmazon is guided by four principles: customer 
+      obsession rather than competitor focus, passion for invention, 
+      commitment to operational excellence, and long-term thinking. Customer 
+      reviews, 1-Click shopping, personalized recommendations, Prime, 
+      Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Fire 
+      tablets, Fire TV, Amazon Echo, and Alexa are some of the products and 
+      services pioneered by Amazon. For more information, visit www.amazon.com/about 
+      and follow @AmazonNews.
+    
+About The Walt Disney Company:The Walt Disney Company, 
+      together with its subsidiaries, is a diversified worldwide entertainment 
+      company with operations in four business segments: Media Networks, Parks 
+      and Resorts, Studio Entertainment, and Consumer Products & Interactive 
+      Media. Disney is a Dow 30 company and had annual revenues of $55.1 
+      billion in its Fiscal Year 2017. For more information, visit www.thewaltdisneycompany.com.
+    
+
+      Amazon.com, Inc.Media HotlineAmazon-pr@amazon.comwww.amazon.com/pr
+The Walt Disney Company has selected AWS as its preferred public cloud infrastructure provider.
+      Amazon.com, Inc.Media HotlineAmazon-pr@amazon.comwww.amazon.com/pr

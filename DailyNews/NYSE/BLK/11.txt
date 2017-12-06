@@ -1,0 +1,63 @@
+
+
+
+Reuters / Fabrizio Bensch
+
+
+  BlackRock Inc. is turning to the robots for its next big
+  investment idea.
+
+  The world's largest asset manager, which oversees nearly $6
+  trillion, has hatched plans for a set of exchange-traded funds
+  that would let a computer program choose and classify stocks,
+  according to preliminary filings with the U.S. Securities and
+  Exchange Commission.
+
+  The actively managed "iShares Evolved" funds will target major
+  industry groupings: financials, healthcare, media, consumer
+  staples, consumer discretionary and, of course, technology.
+
+  Investors often rely on sector definitions determined by index
+  companies like S&P Dow Jones Indices and MSCI Inc., who
+  control the Global Industry Classification Standard.
+Amazon.com Inc. is not considered an information
+  technology company, but is listed alongside auto parts sellers
+  and other retailers as a consumer discretionary stock. Tobacco
+  companies are considered a consumer staple.
+
+  But unlike traditional passive funds that rely on those indexes,
+  BlackRock's new funds will use advanced data science techniques -
+  such as machine learning - to choose which companies go where.
+
+  "The classification system allows for a company to be classified
+  into multiple sectors rather than being assigned solely to a
+  single sector, reflecting the multi-dimensional nature of these
+  companies," BlackRock said in the filings.
+
+  "Sector constituents are expected to evolve dynamically over time
+  to reflect changing business models."
+
+  A BlackRock spokeswoman declined to comment beyond those
+  documents. The company has for years been using data science
+  techniques in its actively managed funds for large and
+  institutional investors, but has been bringing more of those
+  techniques to funds intended for everyday investors.
+
+  The new funds also mark another move by BlackRock to introduce
+  new products reliant on its own intellectual property rather than
+  through the tracking of a benchmark built by a traditional index
+  provider. In July, BlackRock launched bond ETFs tracking
+  benchmarks built by itself for the first time.
+
+  The robotic ETFs come as S&P and MSCI both are engineering a
+  massive shakeup of their 11-sector schematic.
+
+  The shrinking telecommunications sector is being ditched in favor
+  of a gleaming new "Communication Services" sector that is likely
+  to include at least some of the so-called FANG stocks - Facebook
+  Inc., Amazon, Netflix Inc. and Google parent Alphabet Inc. -
+  along with traditional telecom or media players, such as AT&T
+  Inc. and Walt Disney Co.
+BlackRock has plans to launch sector ETFs for...How the iPhone X could make Apple a $1 trillion company
+More "The Bottom Line" » Over a 40-year career, this 'stubborn scientist' helped change the way we think about cancer and genetics
+More "The Long View" » Get the best of Business Insider delivered to your inbox every day.  Available on iOS or Android

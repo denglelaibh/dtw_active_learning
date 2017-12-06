@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+McDonald’s Corporation (NYSE:MCD) shares are up more than 38.27% this year and recently increased 0.82% or $1.37 to settle at $168.30. Ark Restaurants Corp. (NASDAQ:ARKR), on the other hand, is down -0.41% year to date as of 11/21/2017. It currently trades at $24.15 and has returned 0.42% during the past week.McDonald’s Corporation (NYSE:MCD) and Ark Restaurants Corp. (NASDAQ:ARKR) are the two most active stocks in the Restaurants industry based on today’s trading volumes. To determine if one is a better investment than the other, we will compare the two companies’ growth, profitability, risk, return, and valuation characteristics, as well as their analyst ratings and sentiment signals.GrowthThe ability to grow earnings at a compound rate over time is a crucial determinant of investment value. Analysts expect MCD to grow earnings at a 9.05% annual rate over the next 5 years.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsJust, if not more, important than the growth rate is the quality of that growth. Growth can actual be harmful to investors if it comes at the cost of weak profitability and low returns. To adjust for differences in capital structure we’ll use EBITDA margin and Return on Investment (ROI) as measures of profitability and return., compared to an EBITDA margin of 11.84% for Ark Restaurants Corp. (ARKR). MCD’s ROI is 23.40% while ARKR has a ROI of 11.00%. The interpretation is that MCD’s business generates a higher return on investment than ARKR’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The value of a stock is simply the present value of its future free cash flows. MCD’s free cash flow (“FCF”) per share for the trailing twelve months was +0.63. Comparatively, ARKR’s free cash flow per share was -0.84. On a percent-of-sales basis, MCD’s free cash flow was 2.04% while ARKR converted -0% of its revenues into cash flow. This means that, for a given level of sales, MCD is able to generate more free cash flow for investors.Liquidity and Financial RiskLiquidity and leverage ratios provide insight into the financial health of a company, and allow investors to determine the likelihood that the company will be able to continue operating as a going concern. MCD has a current ratio of 1.30 compared to 0.40 for ARKR. This means that MCD can more easily cover its most immediate liabilities over the next twelve months.ValuationMCD trades at a forward P/E of 24.06, and a P/S of 5.85, compared to a P/B of 2.07, and a P/S of 0.55 for ARKR. MCD is the cheaper of the two stocks on book value basis but is expensive in terms of P/E and P/S ratio. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsJust because a stock is cheaper doesn’t mean there’s more value to be had. In order to assess value we need to compare the current price to where it’s likely to trade in the future. MCD is currently priced at a -4.05% to its one-year price target of 175.41. Comparatively, ARKR is 42.06% relative to its price target of 17.00. This suggests that MCD is the better investment over the next year.Risk and VolatilityBeta is a metric that investors frequently use to analyze a stock’s systematic risk. A beta above 1 implies above average market volatility. Conversely, a stock with a beta below 1 is seen as less risky than the overall market. MCD has a beta of 0.67 and ARKR’s beta is 0.30. ARKR’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentThe analysis of insider buying and selling trends can be extended to the aggregate level. Short interest, which represents the percentage of a stock’s tradable shares currently being shorted, captures what the market as a whole feels about a stock. MCD has a short ratio of 1.90 compared to a short interest of 0.20 for ARKR. This implies that the market is currently less bearish on the outlook for ARKR.SummaryMcDonald’s Corporation (NYSE:MCD) beats Ark Restaurants Corp. (NASDAQ:ARKR) on a total of 9 of the 14 factors compared between the two stocks. MCD is growing fastly, is more profitable, generates a higher return on investment, has higher cash flow per share, has a higher cash conversion rate, higher liquidity and has lower financial risk. MCD is more undervalued relative to its price target. Finally, WEN has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

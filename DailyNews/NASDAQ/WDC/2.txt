@@ -1,0 +1,73 @@
+LAS VEGAS--(BUSINESS WIRE)--Western Digital® Corp. (NASDAQ: WDC) will be showcasing how enterprises 
+      can unlock greater value from data by leveraging the scalability, 
+      flexibility and economic value of hybrid cloud for their workflows. Hear 
+      how Western Digital’s HGST-branded ActiveScale™ P100 
+      and X100 
+      object storage systems are specifically designed for petabyte-scale 
+      datasets, how they facilitate storing data forever, and leverage the 
+      company’s unique component-to-system vertical 
+      innovation to disrupt the economics of data. With Amazon® S3™ 
+      compatibility, the ActiveScale System enables enterprises to easily 
+      leverage the public cloud in a hybrid configuration for cloud-native 
+      applications—an approach proven to be economical and easy to manage at 
+      scale – without sacrificing the security, robust functionality and 
+      integration available with on-premises storage.
+    
+When: November 27 – December 1, 2017
+    
+Where: AWS 
+      re:INVENT 2017, Las Vegas, Venetian Expo Hall, HGST Booth #127
+    
+Learn:
+
+Speaking Sessions:
+
+Follow Western Digital here:Twitter, LinkedIn, IT 
+      Blog, Facebook.
+    
+Keep the conversation going with:#LetDataThrive, 
+      #LongLiveData
+    
+      Tweet This: .@WesternDigiDC 
+      is re:defining the economics of data with #hybridcloud workflows at 
+      #reInvent http://wdc.li/AWSreInvent #LetDataThrive
+
+About Western Digital
+
+      Western Digital creates environments for data to thrive. The company is 
+      driving the innovation needed to help customers capture, preserve, 
+      access and transform an ever-increasing diversity of data. Everywhere 
+      data lives, from advanced data centers to mobile sensors to personal 
+      devices, our industry-leading solutions deliver the possibilities of 
+      data. Western Digital® data-centric solutions are marketed under the 
+      G-Technology®, HGST, SanDisk®, Tegile™, Upthere™ and WD® brands.
+    
+Forward Looking Statements
+
+      This news release contains certain forward-looking statements, including 
+      statements relating to the performance capabilities of our ActiveScale 
+      Systems. These forward-looking statements are subject to risks and 
+      uncertainties that could cause actual results to differ materially from 
+      those expressed in the forward-looking statements, including but not 
+      limited to, the risks detailed in our Securities and Exchange Commission 
+      (“SEC”) filings, including our most recent Form 10-Q filed with the SEC 
+      on Nov. 7, 2017, to which your attention is directed. You should not 
+      place undue reliance on these forward-looking statements and Western 
+      Digital undertakes no obligation to update the forward-looking 
+      statements to reflect subsequent events or circumstances.
+    
+      © 2017 Western Digital Corporation or its affiliates. All rights 
+      reserved. Western Digital, the Western Digital logo, G-Technology, 
+      SanDisk, Tegile, Upthere, WD, and ActiveScale are registered trademarks 
+      or trademarks of Western Digital Corporation or its affiliates in the US 
+      and/or other countries. All other marks are the property of their 
+      respective owners.
+    
+
+      Western DigitalErin HartinCell: 303-601-8053Erin.Hartin@wdc.comorPorter 
+      NovelliGeorge WangCell: 415-448-7436WDDCS@porternovelli.com
+
+@ re:INVENT, Western Digital is disrupting the economics of data for analytical and backup workloads for Big Data and Fast Data applications.
+      Western DigitalErin HartinCell: 303-601-8053Erin.Hartin@wdc.comorPorter 
+      NovelliGeorge WangCell: 415-448-7436WDDCS@porternovelli.com
+

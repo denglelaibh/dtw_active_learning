@@ -1,0 +1,42 @@
+ No spam. No Hidden Fees. Unsubscribe Anytime.
+    <!-- (function() { var IE = /*@cc_on!@*/false; if (!IE) { return; } if (document.compatMode && document.compatMode == 'BackCompat') { if (document.getElementById("af-form-1334716026")) { document.getElementById("af-form-1334716026").className = 'af-form af-quirksMode'; } if (document.getElementById("af-body-1334716026")) { document.getElementById("af-body-1334716026").className = "af-body inline af-quirksMode"; } if (document.getElementById("af-header-1334716026")) { document.getElementById("af-header-1334716026").className = "af-header af-quirksMode"; } if (document.getElementById("af-footer-1334716026")) { document.getElementById("af-footer-1334716026").className = "af-footer af-quirksMode"; } } })(); -->
+Paychex, Inc. (NASDAQ:PAYX) shares are up more than 6.26% this year and recently increased 0.02% or $0.01 to settle at $64.69. Robert Half International Inc. (NYSE:RHI), on the other hand, is up 12.12% year to date as of 11/24/2017. It currently trades at $54.69 and has returned -0.38% during the past week.Paychex, Inc. (NASDAQ:PAYX) and Robert Half International Inc. (NYSE:RHI) are the two most active stocks in the Staffing & Outsourcing Services industry based on today’s trading volumes. The market is clearly enthusiastic about both these stocks, but which is the better investment? To answer this, we will compare the two companies based on the strength of their growth, profitability, risk, returns, valuation, analyst recommendations, and insider trends.GrowthThe ability to grow earnings at a compound rate over time is a crucial determinant of investment value. Analysts expect PAYX to grow earnings at a 8.43% annual rate over the next 5 years. Comparatively, RHI is expected to grow at a 4.15% annual rate. All else equal, PAYX’s higher growth rate would imply a greater potential for capital appreciation.
+     (adsbygoogle = window.adsbygoogle || []).push({});
+Profitability and ReturnsA high growth rate isn’t necessarily valuable to investors. In fact, companies that overinvest in low return projects just to achieve a high growth rate can actually destroy shareholder value. Profitability and returns are a measure of the quality of a company’s business and its growth opportunities. We’ll use EBITDA margin and Return on Investment (ROI) to measure this., compared to an EBITDA margin of 11.48% for Robert Half International Inc. (RHI). PAYX’s ROI is 41.50% while RHI has a ROI of 31.50%. The interpretation is that PAYX’s business generates a higher return on investment than RHI’s.Cash Flow 
+(adsbygoogle = window.adsbygoogle || []).push({});
+The amount of free cash flow available to investors is ultimately what determines the value of a stock. PAYX’s free cash flow (“FCF”) per share for the trailing twelve months was +0.41. Comparatively, RHI’s free cash flow per share was +0.75. On a percent-of-sales basis, PAYX’s free cash flow was 4.68% while RHI converted 1.79% of its revenues into cash flow. This means that, for a given level of sales, PAYX is able to generate more free cash flow for investors.Liquidity and Financial RiskAnalysts look at liquidity and leverage ratios to assess how easily a company can cover its liabilities. PAYX has a current ratio of 1.10 compared to 1.80 for RHI. This means that RHI can more easily cover its most immediate liabilities over the next twelve months. PAYX’s debt-to-equity ratio is 0.03 versus a D/E of 0.00 for RHI. PAYX is therefore the more solvent of the two companies, and has lower financial risk.ValuationPAYX trades at a forward P/E of 25.22, a P/B of 11.94, and a P/S of 7.30, compared to a forward P/E of 19.20, a P/B of 5.93, and a P/S of 1.33 for RHI. PAYX is the expensive of the two stocks on an earnings, book value and sales basis. Given that earnings are what matter most to investors, analysts tend to place a greater weight on the P/E.Analyst Price Targets and OpinionsA cheap stock is not necessarily a value stock. Most of the time, a stock is cheap for good reason. A stock only has value if the current price is substantially below the price at which it should trade in the future. PAYX is currently priced at a 6.14% to its one-year price target of 60.95. Comparatively, RHI is 6.86% relative to its price target of 51.18. This suggests that PAYX is the better investment over the next year.The average investment recommendation on a scale of 1 to 5 (1 being a strong buy, 3 a hold, and 5 a sell) is 3.10 for PAYX and 2.80 for RHI, which implies that analysts are more bullish on the outlook for PAYX.Risk and VolatilityBeta is a metric that investors frequently use to analyze a stock’s systematic risk. A beta above 1 implies above average market volatility. Conversely, a stock with a beta below 1 is seen as less risky than the overall market. PAYX has a beta of 0.98 and RHI’s beta is 1.28. PAYX’s shares are therefore the less volatile of the two stocks.Insider Activity and Investor SentimentAnalysts often look at short interest, or the percentage of a company’s float currently being shorted by investors, to aid in their outlook for a particular stock. PAYX has a short ratio of 7.23 compared to a short interest of 3.26 for RHI. This implies that the market is currently less bearish on the outlook for RHI.SummaryRobert Half International Inc. (NYSE:RHI) beats Paychex, Inc. (NASDAQ:PAYX) on a total of 8 of the 14 factors compared between the two stocks. RHI is growing fastly, higher liquidity and has lower financial risk. In terms of valuation, RHI is the cheaper of the two stocks on an earnings, book value and sales basis, Finally, RHI has better sentiment signals based on short interest.var fcbrqpfh7khqsprd6mwl,fcbrqpfh7khqsprd6mwl_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){fcbrqpfh7khqsprd6mwl_poll(function(){if(window['om_loaded']){if(!fcbrqpfh7khqsprd6mwl){fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();return fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;fcbrqpfh7khqsprd6mwl=new OptinMonsterApp();fcbrqpfh7khqsprd6mwl.init({"u":"7491.622174","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+    var page_count = 'off';
+    if (typeof OAS_rdl == 'undefined') {
+        var OAS_rdl = '';
+        var OAS_CA = '';
+        page_count = 'on';
+        document.write('<script type="text/javascript" src="https://oascentral.investingmediasolutions.com/Scripts/oas_analytics.js"></scr' + 'ipt>');
+    } 
+
+
+    var OAS_url = 'https://oascentral.investingmediasolutions.com';
+    var OAS_sitepage = 'StockNewsGazette';
+    var OAS_pos = 'TopRight';
+    var OAS_searchterms = '';
+    var OAS_taxonomy = '';
+    if (typeof OAS_RNS == 'undefined'){
+        var OAS_RN = new String (Math.random());
+        var OAS_RNS = OAS_RN.substring(2, 11);
+    }
+    if (OAS_searchterms != '') { OAS_searchterms += '&'; }
+    if (OAS_taxonomy != '') { OAS_taxonomy = '&' + OAS_taxonomy; }
+    if (page_count != 'on') { OAS_taxonomy = '&oas_pv=no_analytics' + OAS_taxonomy; }
+    document.write('<script type="text/javascript" src="' + OAS_url + '/RealMedia/ads/adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_RNS + '@' + OAS_pos + '?' + OAS_searchterms + 'XE' + OAS_taxonomy + OAS_rdl + '&#038;if_nt_CookieAccept=' + OAS_CA + '&#038;XE"></scr' + 'ipt>');
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+Stock News Gazette is news organization focusing on small cap companies. Our mission is to provide unequaled news and insight to knowledgeable investors looking to execute the best possible public and private capital allocation decisions.

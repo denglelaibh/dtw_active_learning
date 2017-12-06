@@ -1,0 +1,712 @@
+
+Study marks the first clinical experience evaluating an anti-CSF-1 
+      receptor antibody with an anti-PD-1/PD-L1 therapy
+
+Early efficacy signal observed in heavily pretreated patients with 
+      advanced pancreatic cancer with microsatellite stable (MSS) disease
+PRINCETON, N.J. & SOUTH SAN FRANCISCO, Calif.--(BUSINESS WIRE)--Bristol-Myers 
+      Squibb Company (NYSE:BMY) and Five 
+      Prime Therapeutics, Inc. (NASDAQ:FPRX) today announced preliminary 
+      results from a dose escalation and expansion study evaluating the 
+      safety, pharmacokinetics and pharmacodynamics of cabiralizumab in 
+      combination with Opdivo (nivolumab) in patients with advanced 
+      solid tumors. This is the first disclosure of a clinical experience 
+      evaluating an anti-CSF-1 receptor antibody, which depletes 
+      immunosuppressive tumor associated macrophages (TAMs), in combination 
+      with an anti-PD-1 antibody. Preliminary results show that the safety 
+      profile of cabiralizumab plus Opdivo was generally consistent 
+      with that of Opdivo monotherapy, and that the combination results 
+      in dose-related decreases in circulating monocytes. In a cohort of 
+      heavily pre-treated patients with advanced pancreatic cancer (n=31 
+      evaluable patients), a patient population that is generally insensitive 
+      to immunotherapy, durable clinical benefit was observed in five patients 
+      (16%), including confirmed objective responses in three patients with 
+      microsatellite-stable (MSS) disease (objective response rate 10%). The 
+      data will be presented Saturday, November 11 at the Society for 
+      Immunotherapy of Cancer (SITC) 32nd Annual Meeting in a 
+      late-breaking oral presentation (abstract #O42) during Clinical Trials: 
+      Novel Combinations from 4:30 – 4:45 p.m. ET.
+    
+      More cancer patients are being treated with immunotherapy, but most 
+      patients with advanced pancreatic cancer remain resistant to 
+      anti-PD-1/PD-L1 therapy and typically have poor outcomes, with an 
+      average one-year survival rate of only 16 percent and five-year survival 
+      of less than 3 percent.1-3 Pancreatic cancer is known to be 
+      associated with TAM infiltration and higher TAM infiltration is in turn 
+      associated with worse prognosis, suggesting that suppressed immune 
+      response contributes to tumor progression in this patient population. 
+      These data show for the first time that combining an anti-CSF-1 receptor 
+      antibody with Opdivo may help restore T cell function by a 
+      simultaneous reduction of TAMs and inhibition of PD-1 signaling.
+    
+      “In our robust Immuno-Oncology clinical program, we are focused on 
+      discovering ways to leverage the complex tumor microenvironment to help 
+      restore the body’s natural ability to fight cancer,” said Fouad Namouni, 
+      M.D., head of development, Oncology, Bristol-Myers Squibb. “These 
+      preliminary results support our additional evaluation of the combination 
+      of cabiralizumab and Opdivo in patients with advanced pancreatic 
+      cancer.”
+    
+      “Cabiralizumab depletes immunosuppressive TAMs that regulate T cells in 
+      the tumor microenvironment. TAM depletion may be synergistic to PD-1 
+      blockade,” said Helen Collins, chief medical officer, Five Prime 
+      Therapeutics. “While early, we are encouraged by these results, which 
+      are supportive of continued development of this combination in 
+      pancreatic cancer.”
+    
+About the Study
+
+NCT02526017 
+      is a Phase 1a/1b open-label study to evaluate safety, tolerability, 
+      pharmacokinetics (PK), and clinical benefit of cabiralizumab in 
+      combination with Opdivo in patients with advanced cancers in 
+      single-arm cohorts. In the expansion cohorts, patients received 
+      cabiralizumab 4mg/kg plus Opdivo 3mg/kg intravenous (IV) once 
+      every two weeks in a 3+3+3 design.
+    
+      As of data cut-off, 229 patients have been treated, including 205 
+      patients in the combination dose expansion cohorts in advanced solid 
+      tumors, of which 33 were pancreatic cancer patients. Cabiralizumab PK 
+      activity appears similar as a monotherapy and in combination with Opdivo. 
+      The PK of cabiralizumab ≥ 4 mg/kg Q2W approaches the linear dose range, 
+      suggesting saturation of target-mediated clearance. Cabiralizumab alone 
+      or in combination with Opdivo results in dose-related decreases 
+      in circulating monocytes. Treatment-related adverse events (TRAEs) of 
+      any grade occurred in 90 percent (n=184) of patients treated with 
+      cabiralizumab and Opdivo, with 49 percent (n=100) of patients 
+      experiencing Grade 3/4 adverse events. Of the 24 patients in the 
+      monotherapy group, 63 percent (n=15) experienced TRAEs of any grade, and 
+      54 percent (n=13) experienced Grade 3/4 adverse events. The most common 
+      TRAEs were elevations in creatine kinase and serum liver enzymes.
+    
+      The efficacy data reported at SITC pertain to an expansion cohort in 
+      pancreatic cancer. The ongoing Phase 1a/1b trial has started to enroll 
+      and treat an additional 30 pancreatic cancer patients to further 
+      evaluate the combination in this patient population in a total of 60 
+      patients. Further, Bristol-Myers Squibb is launching a new study of 
+      cabiralizumab plus Opdivo to provide additional insight into the 
+      potential benefit of the combination in pancreatic cancer. Additional 
+      details on this trial are available on clinicaltrials.gov.
+    
+About CSF1R and Cabiralizumab
+
+      Colony-stimulating factor 1 receptor (CSF1R) is a cell-surface tyrosine 
+      kinase receptor expressed by macrophages and other cells of the myeloid 
+      lineage. The CSF1R tyrosine kinase is activated when bound by its 
+      ligands, CSF-1 and IL-34. High levels of CSF1 in tumors stimulate more 
+      M2-like macrophages, which further tumor progression through suppressing 
+      effector T cell functions. High levels of TAMs in tumors are associated 
+      with poor prognostic outcomes, and preclinical research suggests that a 
+      blockade of CSF1R or inhibition of kinase activity may reduce the tumor 
+      burden, with a net effect of promotion of antitumor immunologic effects. 
+      Preclinical studies suggest that targeting the CSF1R pathway in 
+      combination with other potentially complementary immune pathways, like 
+      PD-1, may be a key strategy to more effectively activate the antitumor 
+      immune response.
+    
+      Bristol-Myers Squibb and Five Prime are evaluating cabiralizumab in 
+      combination with Opdivo in a variety of advanced solid tumors. In 
+      2015, Bristol-Myers Squibb and Five Prime entered into an exclusive 
+      worldwide license and collaboration agreement for the development and 
+      commercialization of Five Prime’s CSF1R antibody program, which includes 
+      cabiralizumab. Five Prime will continue to conduct the current Phase 
+      1a/1b trial evaluating the combination of Opdivo and 
+      cabiralizumab in six tumor types, which was announced as part of the 
+      Companies’ initial clinical collaboration in November 2014, through to 
+      completion. Bristol-Myers Squibb will be responsible for subsequent 
+      development studies and for global commercialization, and Five Prime 
+      will retain rights to a U.S. co-promotion option.
+    
+Bristol-Myers Squibb & Immuno-Oncology: 
+      Advancing Oncology Research
+
+      At Bristol-Myers Squibb, patients are at the center of everything we do. 
+      Our vision for the future of cancer care is focused on researching and 
+      developing transformational Immuno-Oncology (I-O) medicines for 
+      hard-to-treat cancers that could potentially improve outcomes for these 
+      patients.
+    
+      We are leading the scientific understanding of I-O through our extensive 
+      portfolio of investigational compounds and approved agents. Our 
+      differentiated clinical development program is studying broad patient 
+      populations across more than 50 types of cancers with more than 15 
+      clinical-stage programs designed to target different immune system 
+      pathways. Our deep expertise and innovative clinical trial designs 
+      position us to advance I-O/I-O, I-O/chemotherapy, I-O/targeted therapies 
+      and I-O/radiation therapies across multiple tumors and potentially 
+      deliver the next wave of therapies with a sense of urgency. We also 
+      continue to pioneer research that will help facilitate a deeper 
+      understanding of the role of immune biomarkers and how patients’ tumor 
+      biology can be used as a guide for treatment decisions throughout their 
+      journey.
+    
+      We understand making the promise of I-O a reality for the many patients 
+      who may benefit from these therapies requires not only innovation on our 
+      part but also close collaboration with leading experts in the field. Our 
+      partnerships with academia, government, advocacy and biotech companies 
+      support our collective goal of providing new treatment options to 
+      advance the standards of clinical practice.
+    
+About Opdivo
+
+Opdivo is a programmed death-1 (PD-1) immune checkpoint inhibitor 
+      that is designed to uniquely harness the body’s own immune system to 
+      help restore anti-tumor immune response. By harnessing the body’s own 
+      immune system to fight cancer, Opdivo has become an 
+      important treatment option across multiple cancers.
+    
+Opdivo’s leading global development program is based on 
+      Bristol-Myers Squibb’s scientific expertise in the field of 
+      Immuno-Oncology and includes a broad range of clinical trials across all 
+      phases, including Phase 3, in a variety of tumor types. To date, the Opdivo clinical 
+      development program has enrolled more than 25,000 patients. The Opdivo trials 
+      have contributed to gaining a deeper understanding of the potential role 
+      of biomarkers in patient care, particularly regarding how patients may 
+      benefit from Opdivo across the continuum of PD-L1 expression.
+    
+      In July 2014, Opdivo was the first PD-1 immune checkpoint 
+      inhibitor to receive regulatory approval anywhere in the world. Opdivo is 
+      currently approved in more than 60 countries, including the United 
+      States, the European Union and Japan. In October 2015, the company’s Opdivo and Yervoy combination 
+      regimen was the first Immuno-Oncology combination to receive regulatory 
+      approval for the treatment of metastatic melanoma and is currently 
+      approved in more than 50 countries, including the United States and the 
+      European Union.
+    
+U.S. FDA-APPROVED INDICATIONS FOR OPDIVO®
+
+      OPDIVO® (nivolumab) as a single agent is indicated for the 
+      treatment of patients with BRAF V600 mutation-positive unresectable or 
+      metastatic melanoma. This indication is approved under accelerated 
+      approval based on progression-free survival. Continued approval for this 
+      indication may be contingent upon verification and description of 
+      clinical benefit in the confirmatory trials. OPDIVO® 
+      (nivolumab) as a single agent is indicated for the treatment of patients 
+      with BRAF V600 wild-type unresectable or metastatic melanoma.
+    
+      OPDIVO® (nivolumab), in combination with YERVOY® 
+      (ipilimumab), is indicated for the treatment of patients with 
+      unresectable or metastatic melanoma. This indication is approved under 
+      accelerated approval based on progression-free survival. Continued 
+      approval for this indication may be contingent upon verification and 
+      description of clinical benefit in the confirmatory trials.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of 
+      patients with metastatic non-small cell lung cancer (NSCLC) with 
+      progression on or after platinum-based chemotherapy. Patients with EGFR 
+      or ALK genomic tumor aberrations should have disease progression on 
+      FDA-approved therapy for these aberrations prior to receiving OPDIVO.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of 
+      patients with advanced renal cell carcinoma (RCC) who have received 
+      prior anti-angiogenic therapy.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of adult 
+      patients with classical Hodgkin lymphoma (cHL) that has relapsed or 
+      progressed after autologous hematopoietic stem cell transplantation 
+      (HSCT) and brentuximab vedotin or after 3 or more lines of systemic 
+      therapy that includes autologous HSCT. This indication is approved under 
+      accelerated approval based on overall response rate. Continued approval 
+      for this indication may be contingent upon verification and description 
+      of clinical benefit in confirmatory trials.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of 
+      patients with recurrent or metastatic squamous cell carcinoma of the 
+      head and neck (SCCHN) with disease progression on or after 
+      platinum-based therapy.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of 
+      patients with locally advanced or metastatic urothelial carcinoma who 
+      have disease progression during or following platinum-containing 
+      chemotherapy or have disease progression within 12 months of neoadjuvant 
+      or adjuvant treatment with platinum-containing chemotherapy. This 
+      indication is approved under accelerated approval based on tumor 
+      response rate and duration of response. Continued approval for this 
+      indication may be contingent upon verification and description of 
+      clinical benefit in confirmatory trials.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of adult 
+      and pediatric (12 years and older) patients with microsatellite 
+      instability high (MSI-H) or mismatch repair deficient (dMMR) metastatic 
+      colorectal cancer (CRC) that has progressed following treatment with a 
+      fluoropyrimidine, oxaliplatin, and irinotecan. This indication is 
+      approved under accelerated approval based on overall response rate and 
+      duration of response. Continued approval for this indication may be 
+      contingent upon verification and description of clinical benefit in 
+      confirmatory trials.
+    
+      OPDIVO® (nivolumab) is indicated for the treatment of 
+      patients with hepatocellular carcinoma (HCC) who have been previously 
+      treated with sorafenib. This indication is approved under accelerated 
+      approval based on tumor response rate and durability of response. 
+      Continued approval for this indication may be contingent upon 
+      verification and description of clinical benefit in the confirmatory 
+      trials.
+    
+IMPORTANT SAFETY INFORMATION
+
+WARNING: IMMUNE-MEDIATED ADVERSE REACTIONS
+
+YERVOY can result in severe and fatal immune-mediated adverse 
+      reactions. These immune-mediated reactions may involve any organ system; 
+      however, the most common severe immune-mediated adverse reactions are 
+      enterocolitis, hepatitis, dermatitis (including toxic epidermal 
+      necrolysis), neuropathy, and endocrinopathy. The majority of these 
+      immune-mediated reactions initially manifested during treatment; 
+      however, a minority occurred weeks to months after discontinuation of 
+      YERVOY.
+
+Assess patients for signs and symptoms of enterocolitis, dermatitis, 
+      neuropathy, and endocrinopathy and evaluate clinical chemistries 
+      including liver function tests (LFTs), adrenocorticotropic hormone 
+      (ACTH) level, and thyroid function tests at baseline and before each 
+      dose.
+
+Permanently discontinue YERVOY and initiate systemic high-dose 
+      corticosteroid therapy for severe immune-mediated reactions.
+
+Immune-Mediated Pneumonitis
+
+      OPDIVO can cause immune-mediated pneumonitis. Fatal cases have been 
+      reported. Monitor patients for signs with radiographic imaging and for 
+      symptoms of pneumonitis. Administer corticosteroids for Grade 2 or more 
+      severe pneumonitis. Permanently discontinue for Grade 3 or 4 and 
+      withhold until resolution for Grade 2. In patients receiving OPDIVO 
+      monotherapy, fatal cases of immune-mediated pneumonitis have occurred. 
+      Immune-mediated pneumonitis occurred in 3.1% (61/1994) of patients. In 
+      patients receiving OPDIVO with YERVOY, immune-mediated pneumonitis 
+      occurred in 6% (25/407) of patients.
+    
+      In Checkmate 205 and 039, pneumonitis, including interstitial lung 
+      disease, occurred in 6.0% (16/266) of patients receiving OPDIVO. 
+      Immune-mediated pneumonitis occurred in 4.9% (13/266) of patients 
+      receiving OPDIVO: Grade 3 (n=1) and Grade 2 (n=12).
+    
+Immune-Mediated Colitis
+
+      OPDIVO can cause immune-mediated colitis. Monitor patients for signs and 
+      symptoms of colitis. Administer corticosteroids for Grade 2 (of more 
+      than 5 days duration), 3, or 4 colitis. Withhold OPDIVO monotherapy for 
+      Grade 2 or 3 and permanently discontinue for Grade 4 or recurrent 
+      colitis upon re-initiation of OPDIVO. When administered with YERVOY, 
+      withhold OPDIVO and YERVOY for Grade 2 and permanently discontinue for 
+      Grade 3 or 4 or recurrent colitis. In patients receiving OPDIVO 
+      monotherapy, immune-mediated colitis occurred in 2.9% (58/1994) of 
+      patients. In patients receiving OPDIVO with YERVOY, immune-mediated 
+      colitis occurred in 26% (107/407) of patients including three fatal 
+      cases.
+    
+      In a separate Phase 3 study of YERVOY 3 mg/kg, severe, life-threatening, 
+      or fatal (diarrhea of ≥7 stools above baseline, fever, ileus, peritoneal 
+      signs; Grade 3-5) immune-mediated enterocolitis occurred in 34 (7%) 
+      patients. Across all YERVOY-treated patients in that study (n=511), 5 
+      (1%) developed intestinal perforation, 4 (0.8%) died as a result of 
+      complications, and 26 (5%) were hospitalized for severe enterocolitis.
+    
+Immune-Mediated Hepatitis
+
+      OPDIVO can cause immune-mediated hepatitis. Monitor patients for 
+      abnormal liver tests prior to and periodically during treatment. 
+      Administer corticosteroids for Grade 2 or greater transaminase 
+      elevations. For patients without HCC, withhold OPDIVO for Grade 2 and 
+      permanently discontinue OPDIVO for Grade 3 or 4. For patients with HCC, 
+      withhold OPDIVO and administer corticosteroids if AST/ALT is within 
+      normal limits at baseline and increases to >3 and up to 5 times the 
+      upper limit of normal (ULN), if AST/ALT is >1 and up to 3 times ULN at 
+      baseline and increases to >5 and up to 10 times the ULN, and if AST/ALT 
+      is >3 and up to 5 times ULN at baseline and increases to >8 and up to 10 
+      times the ULN. Permanently discontinue OPDIVO and administer 
+      corticosteroids if AST or ALT increases to >10 times the ULN or total 
+      bilirubin increases >3 times the ULN. In patients receiving OPDIVO 
+      monotherapy, immune-mediated hepatitis occurred in 1.8% (35/1994) of 
+      patients. In patients receiving OPDIVO with YERVOY, immune-mediated 
+      hepatitis occurred in 13% (51/407) of patients.
+    
+      In Checkmate 040, immune-mediated hepatitis requiring systemic 
+      corticosteroids occurred in 5% (8/154) of patients receiving OPDIVO.
+    
+      In a separate Phase 3 study of YERVOY 3 mg/kg, severe, life-threatening, 
+      or fatal hepatotoxicity (AST or ALT elevations >5x the ULN or total 
+      bilirubin elevations >3x the ULN; Grade 3-5) occurred in 8 (2%) patients, 
+      with fatal hepatic failure in 0.2% and hospitalization in 0.4%.
+    
+Immune-Mediated Neuropathies
+
+      In a separate Phase 3 study of YERVOY 3 mg/kg, 1 case of fatal 
+      Guillain-Barré syndrome and 1 case of severe (Grade 3) peripheral motor 
+      neuropathy were reported.
+    
+Immune-Mediated Endocrinopathies
+
+      OPDIVO can cause immune-mediated hypophysitis, immune-mediated adrenal 
+      insufficiency, autoimmune thyroid disorders, and Type 1 diabetes 
+      mellitus. Monitor patients for signs and symptoms of hypophysitis, signs 
+      and symptoms of adrenal insufficiency, thyroid function prior to and 
+      periodically during treatment, and hyperglycemia. Administer hormone 
+      replacement as clinically indicated and corticosteroids for Grade 2 or 
+      greater hypophysitis. Withhold for Grade 2 or 3 and permanently 
+      discontinue for Grade 4 hypophysitis. Administer corticosteroids for 
+      Grade 3 or 4 adrenal insufficiency. Withhold for Grade 2 and permanently 
+      discontinue for Grade 3 or 4 adrenal insufficiency. Administer 
+      hormone-replacement therapy for hypothyroidism. Initiate medical 
+      management for control of hyperthyroidism. Withhold OPDIVO for Grade 3 
+      and permanently discontinue for Grade 4 hyperglycemia.
+    
+      In patients receiving OPDIVO monotherapy, hypophysitis occurred in 0.6% 
+      (12/1994) of patients. In patients receiving OPDIVO with YERVOY, 
+      hypophysitis occurred in 9% (36/407) of patients. In patients receiving 
+      OPDIVO monotherapy, adrenal insufficiency occurred in 1% (20/1994) of 
+      patients. In patients receiving OPDIVO with YERVOY, adrenal 
+      insufficiency occurred in 5% (21/407) of patients. In patients receiving 
+      OPDIVO monotherapy, hypothyroidism or thyroiditis resulting in 
+      hypothyroidism occurred in 9% (171/1994) of patients. Hyperthyroidism 
+      occurred in 2.7% (54/1994) of patients receiving OPDIVO monotherapy. In 
+      patients receiving OPDIVO with YERVOY, hypothyroidism or thyroiditis 
+      resulting in hypothyroidism occurred in 22% (89/407) of patients. 
+      Hyperthyroidism occurred in 8% (34/407) of patients receiving OPDIVO 
+      with YERVOY. In patients receiving OPDIVO monotherapy, diabetes occurred 
+      in 0.9% (17/1994) of patients. In patients receiving OPDIVO with YERVOY, 
+      diabetes occurred in 1.5% (6/407) of patients.
+    
+      In a separate Phase 3 study of YERVOY 3 mg/kg, severe to 
+      life-threatening immune-mediated endocrinopathies (requiring 
+      hospitalization, urgent medical intervention, or interfering with 
+      activities of daily living; Grade 3-4) occurred in 9 (1.8%) patients. 
+      All 9 patients had hypopituitarism, and some had additional concomitant 
+      endocrinopathies such as adrenal insufficiency, hypogonadism, and 
+      hypothyroidism. 6 of the 9 patients were hospitalized for severe 
+      endocrinopathies.
+    
+Immune-Mediated Nephritis and Renal Dysfunction
+
+      OPDIVO can cause immune-mediated nephritis. Monitor patients for 
+      elevated serum creatinine prior to and periodically during treatment. 
+      Administer corticosteroids for Grades 2-4 increased serum creatinine. 
+      Withhold OPDIVO for Grade 2 or 3 and permanently discontinue for Grade 4 
+      increased serum creatinine. In patients receiving OPDIVO monotherapy, 
+      immune-mediated nephritis and renal dysfunction occurred in 1.2% 
+      (23/1994) of patients. In patients receiving OPDIVO with YERVOY, 
+      immune-mediated nephritis and renal dysfunction occurred in 2.2% (9/407) 
+      of patients.
+    
+Immune-Mediated Skin Adverse Reactions and Dermatitis
+
+      OPDIVO can cause immune-mediated rash, including Stevens-Johnson 
+      syndrome (SJS) and toxic epidermal necrolysis (TEN), some cases with 
+      fatal outcome. Administer corticosteroids for Grade 3 or 4 rash. 
+      Withhold for Grade 3 and permanently discontinue for Grade 4 rash. For 
+      symptoms or signs of SJS or TEN, withhold OPDIVO and refer the patient 
+      for specialized care for assessment and treatment; if confirmed, 
+      permanently discontinue. In patients receiving OPDIVO monotherapy, 
+      immune-mediated rash occurred in 9% (171/1994) of patients. In patients 
+      receiving OPDIVO with YERVOY, immune-mediated rash occurred in 22.6% 
+      (92/407) of patients.
+    
+      In a separate Phase 3 study of YERVOY 3 mg/kg, severe, life-threatening, 
+      or fatal immune-mediated dermatitis (eg, Stevens-Johnson syndrome, toxic 
+      epidermal necrolysis, or rash complicated by full thickness dermal 
+      ulceration, or necrotic, bullous, or hemorrhagic manifestations; Grade 
+      3-5) occurred in 13 (2.5%) patients. 1 (0.2%) patient died as a result 
+      of toxic epidermal necrolysis. 1 additional patient required 
+      hospitalization for severe dermatitis.
+    
+Immune-Mediated Encephalitis
+
+      OPDIVO can cause immune-mediated encephalitis. Evaluation of patients 
+      with neurologic symptoms may include, but not be limited to, 
+      consultation with a neurologist, brain MRI, and lumbar puncture. 
+      Withhold OPDIVO in patients with new-onset moderate to severe neurologic 
+      signs or symptoms and evaluate to rule out other causes. If other 
+      etiologies are ruled out, administer corticosteroids and permanently 
+      discontinue OPDIVO for immune-mediated encephalitis. In patients 
+      receiving OPDIVO monotherapy, encephalitis occurred in 0.2% (3/1994) of 
+      patients. Fatal limbic encephalitis occurred in one patient after 7.2 
+      months of exposure despite discontinuation of OPDIVO and administration 
+      of corticosteroids. Encephalitis occurred in one patient receiving 
+      OPDIVO with YERVOY (0.2%) after 1.7 months of exposure.
+    
+Other Immune-Mediated Adverse Reactions
+
+      Based on the severity of the adverse reaction, permanently discontinue 
+      or withhold OPDIVO, administer high-dose corticosteroids, and, if 
+      appropriate, initiate hormone-replacement therapy. Across clinical 
+      trials of OPDIVO monotherapy or in combination with YERVOY, the 
+      following clinically significant immune-mediated adverse reactions, some 
+      with fatal outcome, occurred in <1.0% of patients receiving OPDIVO: 
+      myocarditis, rhabdomyolysis, myositis, uveitis, iritis, pancreatitis, 
+      facial and abducens nerve paresis, demyelination, polymyalgia 
+      rheumatica, autoimmune neuropathy, Guillain-Barré syndrome, 
+      hypopituitarism, systemic inflammatory response syndrome, gastritis, 
+      duodenitis, sarcoidosis, histiocytic necrotizing lymphadenitis (Kikuchi 
+      lymphadenitis), motor dysfunction, vasculitis, and myasthenic syndrome.
+    
+Infusion Reactions
+
+      OPDIVO can cause severe infusion reactions, which have been reported in 
+      <1.0% of patients in clinical trials. Discontinue OPDIVO in patients 
+      with Grade 3 or 4 infusion reactions. Interrupt or slow the rate of 
+      infusion in patients with Grade 1 or 2. In patients receiving OPDIVO 
+      monotherapy, infusion-related reactions occurred in 6.4% (127/1994) of 
+      patients. In patients receiving OPDIVO with YERVOY, infusion-related 
+      reactions occurred in 2.5% (10/407) of patients.
+    
+Complications of Allogeneic HSCT after OPDIVO
+
+      Complications, including fatal events, occurred in patients who received 
+      allogeneic HSCT after OPDIVO. Outcomes were evaluated in 17 patients 
+      from Checkmate 205 and 039, who underwent allogeneic HSCT after 
+      discontinuing OPDIVO (15 with reduced-intensity conditioning, 2 with 
+      myeloablative conditioning). Thirty-five percent (6/17) of patients died 
+      from complications of allogeneic HSCT after OPDIVO. Five deaths occurred 
+      in the setting of severe or refractory GVHD. Grade 3 or higher acute 
+      GVHD was reported in 29% (5/17) of patients. Hyperacute GVHD was 
+      reported in 20% (n=2) of patients. A steroid-requiring febrile syndrome, 
+      without an identified infectious cause, was reported in 35% (n=6) of 
+      patients. Two cases of encephalitis were reported: Grade 3 (n=1) 
+      lymphocytic encephalitis without an identified infectious cause, and 
+      Grade 3 (n=1) suspected viral encephalitis. Hepatic veno-occlusive 
+      disease (VOD) occurred in one patient, who received reduced-intensity 
+      conditioned allogeneic HSCT and died of GVHD and multi-organ failure. 
+      Other cases of hepatic VOD after reduced-intensity conditioned 
+      allogeneic HSCT have also been reported in patients with lymphoma who 
+      received a PD-1 receptor blocking antibody before transplantation. Cases 
+      of fatal hyperacute GVHD have also been reported. These complications 
+      may occur despite intervening therapy between PD-1 blockade and 
+      allogeneic HSCT.
+    
+      Follow patients closely for early evidence of transplant-related 
+      complications such as hyperacute GVHD, severe (Grade 3 to 4) acute GVHD, 
+      steroid-requiring febrile syndrome, hepatic VOD, and other 
+      immune-mediated adverse reactions, and intervene promptly.
+    
+Embryo-Fetal Toxicity
+
+      Based on their mechanisms of action, OPDIVO and YERVOY can cause fetal 
+      harm when administered to a pregnant woman. Advise pregnant women of the 
+      potential risk to a fetus. Advise females of reproductive potential to 
+      use effective contraception during treatment with an OPDIVO- or YERVOY- 
+      containing regimen and for at least 5 months after the last dose of 
+      OPDIVO.
+    
+Lactation
+
+      It is not known whether OPDIVO or YERVOY is present in human milk. 
+      Because many drugs, including antibodies, are excreted in human milk and 
+      because of the potential for serious adverse reactions in nursing 
+      infants from an OPDIVO-containing regimen, advise women to discontinue 
+      breastfeeding during treatment. Advise women to discontinue nursing 
+      during treatment with YERVOY and for 3 months following the final dose.
+    
+Serious Adverse Reactions
+
+      In Checkmate 037, serious adverse reactions occurred in 41% of patients 
+      receiving OPDIVO (n=268). Grade 3 and 4 adverse reactions occurred in 
+      42% of patients receiving OPDIVO . The most frequent Grade 3 and 4 
+      adverse drug reactions reported in 2% to <5% of patients receiving 
+      OPDIVO were abdominal pain, hyponatremia, increased aspartate 
+      aminotransferase, and increased lipase. In Checkmate 066, serious 
+      adverse reactions occurred in 36% of patients receiving OPDIVO (n=206). 
+      Grade 3 and 4 adverse reactions occurred in 41% of patients receiving 
+      OPDIVO. The most frequent Grade 3 and 4 adverse reactions reported in 
+      ≥2% of patients receiving OPDIVO were gamma-glutamyltransferase increase 
+      (3.9%) and diarrhea (3.4%). In Checkmate 067, serious adverse reactions 
+      (73% and 37%), adverse reactions leading to permanent discontinuation 
+      (43% and 14%) or to dosing delays (55% and 28%), and Grade 3 or 4 
+      adverse reactions (72% and 44%) all occurred more frequently in the 
+      OPDIVO plus YERVOY arm (n=313) relative to the OPDIVO arm (n=313). The 
+      most frequent (≥10%) serious adverse reactions in the OPDIVO plus YERVOY 
+      arm and the OPDIVO arm, respectively, were diarrhea (13% and 2.6%), 
+      colitis (10% and 1.6%), and pyrexia (10% and 0.6%). In Checkmate 017 and 
+      057, serious adverse reactions occurred in 46% of patients receiving 
+      OPDIVO (n=418). The most frequent serious adverse reactions reported in 
+      at least 2% of patients receiving OPDIVO were pneumonia, pulmonary 
+      embolism, dyspnea, pyrexia, pleural effusion, pneumonitis, and 
+      respiratory failure. In Checkmate 025, serious adverse reactions 
+      occurred in 47% of patients receiving OPDIVO (n=406). The most frequent 
+      serious adverse reactions reported in ≥2% of patients were acute kidney 
+      injury, pleural effusion, pneumonia, diarrhea, and hypercalcemia. In 
+      Checkmate 205 and 039, adverse reactions leading to discontinuation 
+      occurred in 7% and dose delays due to adverse reactions occurred in 34% 
+      of patients (n=266). Serious adverse reactions occurred in 26% of 
+      patients. The most frequent serious adverse reactions reported in ≥1% of 
+      patients were pneumonia, infusion-related reaction, pyrexia, colitis or 
+      diarrhea, pleural effusion, pneumonitis, and rash. Eleven patients died 
+      from causes other than disease progression: 3 from adverse reactions 
+      within 30 days of the last OPDIVO dose, 2 from infection 8 to 9 months 
+      after completing OPDIVO, and 6 from complications of allogeneic HSCT. In 
+      Checkmate 141, serious adverse reactions occurred in 49% of patients 
+      receiving OPDIVO. The most frequent serious adverse reactions reported 
+      in at least 2% of patients receiving OPDIVO were pneumonia, dyspnea, 
+      respiratory failure, respiratory tract infection, and sepsis. In 
+      Checkmate 275, serious adverse reactions occurred in 54% of patients 
+      receiving OPDIVO (n=270). The most frequent serious adverse reactions 
+      reported in at least 2% of patients receiving OPDIVO were urinary tract 
+      infection, sepsis, diarrhea, small intestine obstruction, and general 
+      physical health deterioration. In Checkmate 040, serious adverse 
+      reactions occurred in 49% of patients (n=154). The most frequent serious 
+      adverse reactions reported in at least 2% of patients were pyrexia, 
+      ascites, back pain, general physical health deterioration, abdominal 
+      pain, and pneumonia.
+    
+Common Adverse Reactions
+
+      In Checkmate 037, the most common adverse reaction (≥20%) reported with 
+      OPDIVO (n=268) was rash (21%). In Checkmate 066, the most common adverse 
+      reactions (≥20%) reported with OPDIVO (n=206) vs dacarbazine (n=205) 
+      were fatigue (49% vs 39%), musculoskeletal pain (32% vs 25%), rash (28% 
+      vs 12%), and pruritus (23% vs 12%). In Checkmate 067, the most common 
+      (≥20%) adverse reactions in the OPDIVO plus YERVOY arm (n=313) were 
+      fatigue (59%), rash (53%), diarrhea (52%), nausea (40%), pyrexia (37%), 
+      vomiting (28%), and dyspnea (20%). The most common (≥20%) adverse 
+      reactions in the OPDIVO (n=313) arm were fatigue (53%), rash (40%), 
+      diarrhea (31%), and nausea (28%). In Checkmate 017 and 057, the most 
+      common adverse reactions (≥20%) in patients receiving OPDIVO (n=418) 
+      were fatigue, musculoskeletal pain, cough, dyspnea, and decreased 
+      appetite. In Checkmate 025, the most common adverse reactions (≥20%) 
+      reported in patients receiving OPDIVO (n=406) vs everolimus (n=397) were 
+      asthenic conditions (56% vs 57%), cough (34% vs 38%), nausea (28% vs 
+      29%), rash (28% vs 36%), dyspnea (27% vs 31%), diarrhea (25% vs 32%), 
+      constipation (23% vs 18%), decreased appetite (23% vs 30%), back pain 
+      (21% vs 16%), and arthralgia (20% vs 14%). In Checkmate 205 and 039, the 
+      most common adverse reactions (≥20%) reported in patients receiving 
+      OPDIVO (n=266) were upper respiratory tract infection (44%), fatigue 
+      (39%), cough (36%), diarrhea (33%), pyrexia (29%), musculoskeletal pain 
+      (26%), rash (24%), nausea (20%) and pruritus (20%). In Checkmate 141, 
+      the most common adverse reactions (≥10%) in patients receiving OPDIVO 
+      were cough and dyspnea at a higher incidence than investigator’s choice. 
+      In Checkmate 275, the most common adverse reactions (≥ 20%) reported in 
+      patients receiving OPDIVO (n=270) were fatigue (46%), musculoskeletal 
+      pain (30%), nausea (22%), and decreased appetite (22%).. In Checkmate 
+      040, the most common adverse reactions (≥20%) in patients receiving 
+      OPDIVO (n=154) were fatigue (38%), musculoskeletal pain (36%), abdominal 
+      pain (34%), pruritus (27%), diarrhea (27%), rash (26%), cough (23%), and 
+      decreased appetite (22%). The most common adverse reactions (≥20%) in 
+      patients who received OPDIVO as a single agent were fatigue, rash, 
+      musculoskeletal pain, pruritus, diarrhea, nausea, asthenia, cough, 
+      dyspnea, constipation, decreased appetite, back pain, arthralgia, upper 
+      respiratory tract infection, and pyrexia.
+    
+      In a separate Phase 3 study of YERVOY 3 mg/kg, the most common adverse 
+      reactions (≥5%) in patients who received YERVOY at 3 mg/kg were fatigue 
+      (41%), diarrhea (32%), pruritus (31%), rash (29%), and colitis (8%).
+    
+      Please see U.S. Full Prescribing Information for OPDIVO 
+      and YERVOY, 
+      including Boxed WARNING regarding immune-mediated adverse reactions 
+      for YERVOY.
+
+Checkmate 067 – advanced melanoma alone or in combination with 
+      YERVOY; Checkmate 037 and 066 – advanced melanoma; Checkmate 
+      017 – squamous non-small cell lung cancer (NSCLC); Checkmate 057 
+      – non-squamous NSCLC; Checkmate 025 – renal cell carcinoma; Checkmate 
+      205/039 – classical Hodgkin lymphoma; Checkmate 141 – 
+      squamous cell carcinoma of the head and neck; Checkmate 275 – 
+      urothelial carcinoma; Checkmate 040 – hepatocellular carcinoma.
+    
+About the Bristol-Myers Squibb and Ono 
+      Pharmaceutical Co., Ltd. Collaboration
+
+      In 2011, through a collaboration agreement with Ono Pharmaceutical Co., 
+      Ltd. (Ono), Bristol-Myers Squibb expanded its territorial rights to 
+      develop and commercialize Opdivo globally except in Japan, South 
+      Korea and Taiwan, where Ono had retained all rights to the compound at 
+      the time. On July 23, 2014, Bristol-Myers Squibb and Ono further 
+      expanded the companies’ strategic collaboration agreement to jointly 
+      develop and commercialize multiple immunotherapies – as single agents 
+      and combination regimens – for patients with cancer in Japan, South 
+      Korea and Taiwan.
+    
+About Bristol-Myers Squibb
+
+      Bristol-Myers Squibb is a global biopharmaceutical company whose mission 
+      is to discover, develop and deliver innovative medicines that help 
+      patients prevail over serious diseases. For more information about 
+      Bristol-Myers Squibb, visit us at BMS.com 
+      or follow us on LinkedIn, 
+      Twitter, 
+      YouTube 
+      and Facebook.
+    
+Bristol-Myers Squibb Forward-Looking Statement
+
+This press release contains "forward-looking statements" as that term 
+      is defined in the Private Securities Litigation Reform Act of 1995 
+      regarding the research, development and commercialization of 
+      pharmaceutical products. Such forward-looking statements are based on 
+      current expectations and involve inherent risks and uncertainties, 
+      including factors that could delay, divert or change any of them, and 
+      could cause actual outcomes and results to differ materially from 
+      current expectations. No forward-looking statement can be guaranteed. 
+      Among other risks, there can be no guarantee that any of the oncology 
+      compounds mentioned in this release will receive regulatory approval for 
+      an additional indication. Forward-looking statements in this press 
+      release should be evaluated together with the many uncertainties that 
+      affect Bristol-Myers Squibb's business, particularly those identified in 
+      the cautionary factors discussion in Bristol-Myers Squibb's Annual 
+      Report on Form 10-K for the year ended December 31, 2016 in our 
+      Quarterly Reports on Form 10-Q and our Current Reports on Form 8-K. 
+      Bristol-Myers Squibb undertakes no obligation to publicly update any 
+      forward-looking statement, whether as a result of new information, 
+      future events or otherwise.
+
+About Five Prime
+
+      Five Prime Therapeutics, Inc. discovers and develops innovative 
+      therapeutics to improve the lives of patients with serious diseases. 
+      Five Prime's comprehensive discovery platform, which encompasses 
+      virtually every medically relevant extracellular protein, positions it 
+      to explore pathways in cancer, inflammation and their intersection in 
+      immuno-oncology, an area with significant therapeutic potential and a 
+      growing focus of the company's R&D activities. Five Prime has entered 
+      into strategic collaborations with leading global pharmaceutical 
+      companies and has promising product candidates in clinical and late 
+      preclinical development. For more information, please visit www.fiveprime.com.
+    
+Five Prime Forward-Looking Statements
+
+This press release contains forward-looking statements within the 
+      meaning of the Private Securities Litigation Reform Act of 1995. Words 
+      such as "may," "will," "expect," "plan," "anticipate," "estimate," 
+      "intend" and similar expressions (as well as other words or expressions 
+      referencing future events, conditions or circumstances) are intended to 
+      identify forward-looking statements. These forward-looking statements 
+      are based on Five Prime's expectations and assumptions as of the date of 
+      this press release. Each of these forward-looking statements involves 
+      risks and uncertainties. Forward-looking statements contained in this 
+      press release include statements about (i) the progress of the 
+      NCT02526017 clinical trial; and (ii) the potential clinical benefit of 
+      the combination of cabiralizumab and Opdivo to treat pancreatic cancer 
+      patients. Actual results may differ materially from these 
+      forward-looking statements. Factors that may cause actual results to 
+      differ from those expressed or implied in the forward-looking statements 
+      in this press release are discussed in Five Prime's filings with the 
+      U.S. Securities and Exchange Commission, including the "Risk Factors" 
+      contained therein. Except as required by law, Five Prime assumes no 
+      obligation to update any forward-looking statements contained herein to 
+      reflect any change in expectations, even as new information becomes 
+      available.
+
+      References:
+    
+      1) Von Hoff DD et al. N Engl J Med 2013;369:1691‒1703
+    
+      2) American Cancer Society. Pancreatic Cancer. www.cancer.org. 
+      Accessed November 3, 2017.
+    
+      3) Foley K et al. Cancer Lett 2016;381;244–251.
+    
+Bristol-Myers SquibbMedia:Rose Weldon, 
+      215-801-7644rose.weldon@bms.comorInvestors:Tim 
+      Power, 609-252-7509timothy.power@bms.comorBill 
+      Szablewski, 609-252-5894william.szablewski@bms.comorFive 
+      Prime TherapeuticsInvestors:Derek Cole, 
+      720-785-4497derek.cole@iradvisory.comorMedia:Mike 
+      Beyer, 312-961-2502mikebeyer@sambrown.com
+Bristol-Myers Squibb and Five Prime Present Phase 1a/1b Data Evaluating Cabiralizumab (anti-CSF-1 receptor antibody) with Opdivo (nivolumab)
+Bristol-Myers SquibbMedia:Rose Weldon, 
+      215-801-7644rose.weldon@bms.comorInvestors:Tim 
+      Power, 609-252-7509timothy.power@bms.comorBill 
+      Szablewski, 609-252-5894william.szablewski@bms.comorFive 
+      Prime TherapeuticsInvestors:Derek Cole, 
+      720-785-4497derek.cole@iradvisory.comorMedia:Mike 
+      Beyer, 312-961-2502mikebeyer@sambrown.com
