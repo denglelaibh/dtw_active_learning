@@ -15,7 +15,7 @@ An improvement experiment on combination between dtw and text simi, with active 
 * [dtw_simi.csv](dtw_simi.csv) Similarity Matrix of dtw
 * [dtw_time_series.py](dtw_time_series.py) Calculate the dtw distance
 * [folder_cleaner.py](folder_cleaner.py) Clean the rubbish of folder
-* [main.py] Calculate the score, using Active Learning to find appropriate w value
+* [main.py](main.py) Calculate the score, using Active Learning to find appropriate w value
 * [news_clean.py](folder_cleaner.py) Clean the rubbish news of  news  folder
 * [news_detag.py](news_detag.py) Remove the tags of html files
 * [news_normalize.py](news_normalize.py) Return the normalized close price of each stock
